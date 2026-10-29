@@ -40,6 +40,7 @@ As data:
 
 ```bash
 npm i text-effect-prompts        # or: npx text-effect-prompts neon-glow "OPEN LATE"
+pip install text-effect-prompts  # or: python -m text_effect_prompts neon-glow "OPEN LATE"
 ```
 
 ```js
@@ -47,6 +48,13 @@ const tep = require('text-effect-prompts')
 tep.prompt('neon-glow', 'OPEN LATE')          // the prompt with your words filled in
 tep.search('ネオン')                            // names & descriptions in en · ja · zh · es · pt · de
 tep.list({ category: 'effects' })
+```
+
+```python
+import text_effect_prompts as tep
+tep.prompt("neon-glow", "OPEN LATE")
+tep.search("ネオン")
+tep.list_styles(category="effects")
 ```
 
 ```python

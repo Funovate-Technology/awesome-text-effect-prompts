@@ -1,0 +1,47 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "text-effect-prompts"
+version = "1.0.0"
+description = "AI text-effect prompts with a {{TEXT}} placeholder, each tested on a general image model, with style names and descriptions in English, Japanese, Chinese, Spanish, Portuguese and German. From FontVibe. Zero dependencies."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT AND CC-BY-4.0"
+license-files = ["LICENSE", "LICENSE-CODE", "NOTICE"]
+authors = [{ name = "Funovate Technology", email = "jacktu@fun-innovate.com" }]
+keywords = [
+  "prompts", "prompt-engineering", "text-effects", "typography", "font", "ai-art",
+  "image-generation", "nano-banana", "stable-diffusion", "dataset",
+]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Multimedia :: Graphics",
+  "Topic :: Text Processing :: Fonts",
+  "Typing :: Typed",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://fontvibe.ai/styles"
+Source = "https://github.com/Funovate-Technology/awesome-text-effect-prompts"
+Issues = "https://github.com/Funovate-Technology/awesome-text-effect-prompts/issues"
+
+[project.scripts]
+text-effect-prompts = "text_effect_prompts.__main__:main"
+
+# index.json inside the package is gitignored (index.json at the repo root is the
+# single source); hatchling honours VCS ignore files, so name it here or the wheel
+# ships without its data.
+[tool.hatch.build]
+artifacts = ["src/text_effect_prompts/index.json"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/text_effect_prompts"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/", "tests/", "scripts/", "README.md", "LICENSE", "LICENSE-CODE", "NOTICE", "pyproject.toml"]

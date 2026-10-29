@@ -3,3 +3,10 @@ __pycache__/
 .DS_Store
 npm/node_modules/
 npm/*.tgz
+
+# PyPI build: generated copies (repo root is the single source)
+pypi/src/text_effect_prompts/index.json
+pypi/LICENSE
+pypi/LICENSE-CODE
+pypi/NOTICE
+pypi/dist/
