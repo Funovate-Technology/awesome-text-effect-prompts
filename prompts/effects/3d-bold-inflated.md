@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "BUBBLE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_inflated.jpg"
   passed: true
   note: "Puffy pastel balloon letters; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are sculpted as hyper-glossy 3D inflated forms with a smooth candy lacquer surface. Each rounded, convex peak catches a strong circular specular highlight, giving the entire word a polished, tactile sheen. A vivid Y2K candy color palette is applied across the lettering, with each individual character independently colored in saturated bubblegum pink, mint green, electric lavender, or sky blue. Deep crevices between the plump letters display soft ambient occlusion, creating rich volumetric depth illuminated by a bright studio overhead key light. The entire arrangement casts a gentle, slightly blurred drop shadow beneath it against a complementary pastel gradient studio background, producing a joyful party energy while ensuring {{TEXT}} is the only legible text in the scene.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "BUBBLE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "BUBBLE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_inflated.jpg)
 
 ## Examples made on FontVibe
 

@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "FOREVER"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/vintage.jpg"
   passed: true
   note: "Letterpress-style letters on aged paper; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters appear as a classic letterpress impression bitten deeply into textured, aged cream cotton paper, with warm faded ink that is slightly broken up along the edges. The piece carries the tactile physical evidence of heritage craftsmanship softened by time, featuring subtle foxing, paper grain, and gentle wear. The scene is illuminated by soft amber light in a warm nostalgic setting, highlighting the tactile relief of the debossed print. The color palette consists of time-softened vintage tones such as warm sepia, faded navy, muted tan, and gentle cream, entirely free of synthetic or neon brightness. {{TEXT}} rests bold and timeless at the center of the composition, serving as the sole legible text in the image, evoking an authentic antique archival atmosphere with soft dust motes and a quiet, historical patina.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "FOREVER" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "FOREVER", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/vintage.jpg)
 
 ## Examples made on FontVibe
 

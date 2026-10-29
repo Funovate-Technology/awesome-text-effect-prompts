@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "HELLO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/chibi.jpg"
   passed: true
   note: "Chibi character with die-cut sticker border and the word beside it; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering sits neatly in open space beside or below an invented super-deformed cute chibi character. The character stands two to three heads tall with an oversized head, tiny rounded hands and feet, rosy blush cheeks, a small happy mouth, and large shiny eyes with bright double white highlights, posed cheerfully waving or holding a heart. Thick, soft line art of uniform weight in dark brown outlines both the character and the letters, filled with flat and two-tone cel shading. The letters are styled in harmonious pastel tones matching the palette. The overall composition features a pastel base of baby pink, lavender, mint, and butter yellow, complemented by one deeper tone for clothing or hair. Surrounding the text and character are floating miniature hearts, sparkles, and puffy little clouds. Soft, even lighting illuminates the piece with gentle cel shadows under the chin and hair. A wide, smooth white die-cut sticker border hugs the outer contour against a plain pale pastel background.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "HELLO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "HELLO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/chibi.jpg)
 
 ## Examples made on FontVibe
 

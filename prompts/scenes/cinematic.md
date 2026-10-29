@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "RISE OF EMPIRES"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic.jpg"
   passed: true
   note: "Monumental gold title over a golden-hour mountain landscape; three words, spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character, appearing as a massive cinematic title in dimensional relief. The letterforms command the foreground with substantial physical depth and clean separation from the background. A strong directional key light defines the contours and surfaces of the letters, casting controlled, deep shadows. The setting is a grand, epic landscape at golden hour, featuring distant mountain ridges silhouetted against a radiant amber and gold sky. Atmospheric haze fills the vast space, with prominent volumetric light rays piercing through the air and an anamorphic lens flare grazing across the title text. The composition exhibits a rich, high-contrast color grade, a fine film grain texture across the entire frame, and a shallow depth of field that softly dissolves the periphery into bokeh. Ensure {{TEXT}} is the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "RISE OF EMPIRES" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "RISE OF EMPIRES", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic.jpg)
 
 ## Examples made on FontVibe
 

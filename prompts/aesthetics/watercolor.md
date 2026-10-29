@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Hello Spring"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/watercolor.jpg"
   passed: true
   note: "Watercolour letters on paper; two words, spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of {{TEXT}} are painted as luminous, transparent wet-on-wet watercolor washes directly onto bright cold-press watercolor paper. The pigment disperses unevenly across each character, pooling darker along the outer edges while centers stay pale, with soft cauliflower blooms where wet paint meets wet and crisp hard edges where paint dried on dry paper. Granulating pigment settles into the textured paper tooth, revealing tiny flecks of bare paper that act as the lightest values in the composition. The lettering is rendered in a fine-art aquarelle palette featuring layered washes of sap and olive green, rose madder, blush, cobalt, cerulean blue, indigo, and raw sienna, remaining completely transparent and luminous without opacity. The text sits large and centered with generous negative space across the paper sheet, bordered by faint deckled torn edges and grounded by a gentle, cool shadow under soft, even north-light, accompanied only by a few loose botanical sprigs and subtle drifting pigment specks.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Hello Spring" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Hello Spring", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/watercolor.jpg)
 
 ## Examples made on FontVibe
 

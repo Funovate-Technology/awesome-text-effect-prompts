@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Happy Mother's Day"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/mothers_day.jpg"
   passed: true
   note: "Attempt 1: rendered 'Happy Mother's Day Day' (word duplicated). Attempt 2: script with roses; all three words, spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is rendered as elegant calligraphy with soft flowing script and graceful swashes, crafted in a warm cream-white material with a subtle gold ink shimmer. Realistic three-dimensional botanical elements are physically woven throughout the letterforms, featuring soft blush pink peonies, dusty roses, sprigs of lavender, and sage green foliage blooming between strokes and winding around the baseline. Delicate petals rest naturally on the curves of the letters. Gentle golden light spills from the upper left, creating warm bokeh that filters through the blossoms. Beneath the composition, scattered loose rose petals rest on the surface. The background is a rich, deep gradient moving from burgundy rose to wine-mauve, creating a dark, luminous contrast that makes the illuminated letters and fresh florals glow with a tender, celebratory warmth.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Happy Mother's Day" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Happy Mother's Day", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/mothers_day.jpg)
 
 ## Examples made on FontVibe
 

@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "WARZONE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/post_apocalyptic.jpg"
   passed: true
   note: "Cracked charred letters with ember glow; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text appears as action movie title typography in ultra-bold letterforms, centered horizontally in the frame. The letters feature a battle-worn, oxidized matte metal surface full of deep battle scars and fissure-like cracks, avoiding any glossy or reflective chrome finish. A vibrant, molten orange-red lava light glows intensely from deep within the fissures. Scorched earth lies beneath the lettering, with rising dust and atmospheric smoke haze drifting into the background. Fiery glowing ember particles and dark ash debris scatter away from the letter edges. Crisp, cool rim lighting touches the top edges of the characters to define their silhouettes against the dark backdrop. The composition uses a dramatic low-angle perspective and a high-contrast dark environment dominated by orange-red atmospheric backlighting, ensuring {{TEXT}} is the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "WARZONE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "WARZONE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/post_apocalyptic.jpg)
 
 ## Examples made on FontVibe
 

@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "MINIMAL"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/minimal.jpg"
   passed: true
   note: "Clean thin sans on white with a hairline rule; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are styled as clean, thin, modern sans-serif letterforms rendered in a soft charcoal tone with a flat matte finish, free of gloss, heavy texture, or decorative ornament. The text is arranged with generous, wide letterspacing and sits perfectly centered, surrounded by abundant negative space to evoke quiet architectural emptiness and refined breathing room. A single fine hairline accent rule provides a subtle structural detail. The setting is a calm, bright, uncluttered space characterized by an even, diffuse light across a clean white or soft warm grey neutral ground. The palette is strictly sophisticated and monochrome, focusing on soft whites, muted greys, and deep charcoal, keeping the entire composition quiet, tonal, and restrained. Ensure {{TEXT}} is the only legible text in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "MINIMAL" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "MINIMAL", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/minimal.jpg)
 
 ## Examples made on FontVibe
 

@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "GOLD"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_gold.jpg"
   passed: true
   note: "Polished 3D gold on dark ground, close to preview."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are bold, three-dimensionally extruded, and centered in the frame with a heavyweight, prestigious presence. The surface is sculpted from polished 24-karat gold featuring a three-tone spectral gradient: deep amber-brown tones fill the shadow recesses, rich warm gold covers the lit faces, and razor-thin champagne-white specular lines trace the edges where direct light strikes. Illumination comes from a single hard key light angled from the upper-left at 45 degrees, casting crisp, sharp directional shadows toward the lower-right. Below the letters, subtle warm gold ambient light pools softly across the ground plane. The background is a near-black dark void with a faint warm amber ambient glow, completely free of other colored tints so the reflective gold metal commands all luminosity in the scene. Ensure {{TEXT}} is the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "GOLD" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "GOLD", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_gold.jpg)
 
 ## Examples made on FontVibe
 

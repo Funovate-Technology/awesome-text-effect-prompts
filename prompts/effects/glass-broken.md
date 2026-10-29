@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SMASH"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_broken.jpg"
   passed: true
   note: "Shattered glass letters with cracks; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are formed from shattered broken glass, with each character exploded outward from a central impact point via radial spiderweb crack networks. The glass fragmentation features large primary shards near the impact core lying nearly flat, medium secondary shards tilted fifteen to forty-five degrees outward, and small tertiary splinters completely detached and suspended mid-air at peak kinetic energy. Front-facing shard surfaces catch brilliant white specular highlights, while tilted pieces reveal a distinctive blue-green glass tint along their thick edges, and crack intersections scatter concentrated white light with needle-sharp edge glints. The background is a deep charcoal-to-black gradient with the subtle texture of demolished concrete. A harsh directional spotlight strikes from the upper-left, producing intense specular flares across facing facets, plunging rear edges into deep shadow, and catching clouds of fine glass dust particles that float as luminous specks in the dramatic chiaroscuro atmosphere.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SMASH" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SMASH", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_broken.jpg)
 
 ## Examples made on FontVibe
 

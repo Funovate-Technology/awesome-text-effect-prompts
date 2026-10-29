@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "MECH"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_bio_mech.jpg"
   passed: true
   note: "Biomechanical bone-and-metal letters in a dark hall; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are sculpted in a biomechanical style, fusing oil-stained forged steel with calcium-white bone matter erupting through stressed joint seams. Gear teeth, piston housings corroded with machine oil, and welded seams with mineral calcium deposits cover the letterforms along stress fractures, balancing a cold dark metal exoskeleton with warm ivory organic bone. Centered in the frame and filling 75 to 85 percent of the frame width, the text is viewed from a slight low angle. The setting is a dark industrial chamber featuring corrugated metal walls with exposed pipe bundles and cable conduits receding into darkness. A single cold blue-white industrial arc overhead serves as the primary key light, creating a tight oval pool on the oil-stained concrete floor beneath the text, while a deep amber-orange fill light from the lower-left simulates a distant machinery furnace glow. Deep shadows envelop the outer edges, leaving {{TEXT}} as the sole legible focus.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "MECH" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "MECH", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_bio_mech.jpg)
 
 ## Examples made on FontVibe
 

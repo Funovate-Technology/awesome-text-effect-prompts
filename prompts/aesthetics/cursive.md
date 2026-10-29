@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Amour"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive.jpg"
   passed: true
   note: "Flowing ink script on cream paper; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text is rendered in flowing, poised cursive calligraphy executed with the rich, fluid body of deep elegant near-black ink. The pen strokes display a soft natural sheen and a fine wet-edge glisten where the ink catches the light, conveying subtle dimensional depth across each curl and flourish. Placed in a soft, refined calligraphy light field, a gentle directional light rakes across the composition from an upper angle, grazing the raised ink strokes while a soft ambient fill keeps the shadows intimate rather than harsh. The word sits large and centered with generous negative space across a clean, elegant art ground made of fine hot-press cream cotton paper, allowing the lettering to breathe with quiet sophistication. The overall atmosphere evokes the timeless, romantic feel of masterful pen calligraphy, perfectly balanced on a pristine fine-art stationery surface.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Amour" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Amour", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive.jpg)
 
 ## Examples made on FontVibe
 

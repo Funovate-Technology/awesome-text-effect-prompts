@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "ART DECO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/art_deco.jpg"
   passed: true
   note: "Gold deco relief with sunburst; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering of {{TEXT}} is crafted as opulent, polished Art Deco metalwork, combining warm gold and reflective cool chrome with sharp beveled facets, fine engraved pinlines, and subtle engine-turned guilloche patterns. Ensure {{TEXT}} is the only legible text in the entire image. The characters stand out boldly against a high-gloss black or deep-navy lacquer backdrop, enveloped by a perfectly symmetrical arrangement of radiating sunburst patterns, geometric fan forms, and stepped-skyscraper architectural motifs. A single dramatic, directional spotlight cuts across the scene like a Jazz Age theatre marquee, throwing brilliant specular highlights along the metallic bevels and generating rich, clean shadows. The high-contrast palette emphasizes rich gold, pale champagne, and mirror chrome against the dark lacquered surface, punctuated by subtle emerald and oxblood accents. The overall composition is balanced, architectural, and thoroughly luxurious, capturing the bold optimism and sleek geometry of the 1920s.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "ART DECO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "ART DECO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/art_deco.jpg)
 
 ## Examples made on FontVibe
 

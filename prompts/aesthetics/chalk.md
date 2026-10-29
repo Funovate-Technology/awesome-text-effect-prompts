@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SPECIAL"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/chalk.jpg"
   passed: true
   note: "Chalk lettering with flourishes on a framed blackboard; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are artisan hand-drawn in textured chalk with cream-white to warm ivory tones, exhibiting a soft, matte, powdery quality. Delicate dusty pastel accents in soft coral, sage, lavender, and warm mustard appear alongside simple hand-drawn chalk embellishments such as borders of dots, dashes, or small decorative leaves and stars. The letters are set against an authentic deep chalkboard green-black or charcoal slate surface, which functions as an active dark ground showing subtle texture within a wooden frame. {{TEXT}} fills the frame, positioned large and centered, ensuring it remains the only legible text in the composition. Overhead warm ambient lighting illuminates the scene from above at a low angle, evoking the cozy glow of morning light through a cafe window or a vintage filament bulb over a specials board. This gentle directional light reveals powdery chalk marks and surface depth without harsh contrast, accompanied by a faint hint of a warm interior at the outer frame edges.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SPECIAL" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SPECIAL", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/chalk.jpg)
 
 ## Examples made on FontVibe
 

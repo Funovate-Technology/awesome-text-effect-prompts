@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "OUTLINE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_outline.jpg"
   passed: true
   note: "Thin neon outline letters with reflection; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. Render the letters as pure hollow neon outline letterforms, defined strictly by their glowing stroke borders with interiors remaining completely hollow and deep dark voids. The outline strokes emit electric blue and deep violet neon tube light, featuring an intense white-hot center core along the stroke path, a vivid colored glow zone expanding outward, and a soft wide halo. Following real gas-tube physics, the glow bleeds wider on the outside edge of each stroke than on the inside, with no light bleeding into the dark void centers. The strokes maintain crisp geometric precision with subtle organic brightness variations along the paths. The text is centered against a deep midnight blue-black atmospheric gradient, transitioning from indigo-black above to dark navy below with subtle electric blue ambient light scatter. Fine atmospheric haze and barely visible floating micro-particles catch the neon radiance. Below the text, a smooth obsidian floor with a faint wet sheen reflects elongated mirror columns of the glowing outlines, creating a cold, electric, and pristine minimalist setting.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "OUTLINE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "OUTLINE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_outline.jpg)
 
 ## Examples made on FontVibe
 

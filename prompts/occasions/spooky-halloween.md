@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SPOOKY"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/spooky_halloween.jpg"
   passed: true
   note: "Halloween night scene with full moon and haunted house; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters appear in pumpkin orange and moon white, positioned prominently within a calm open area of deep indigo-purple night sky. They are illuminated by cool moonlight from above and catch a warm pumpkin glow from below. The backdrop is a classic outdoor Halloween night composed of clean flat illustrated shapes with a fine paper grain texture. High in the sky hangs a massive luminous full moon crossed by silhouettes of flying bats. Below the text rests a spooky landscape featuring dark silhouettes of a haunted house with glowing warm windows, bare twisted trees, a crooked graveyard fence, and ancient gravestones shrouded in soft drifting mist. A row of carved jack-o-lanterns sits along the ground, casting vibrant pumpkin-orange candle glow upwards, complemented by subtle accents of slime green. The moonlight provides a cool rim light along the dark silhouettes, ensuring {{TEXT}} remains the striking focal point against the nocturnal scene.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SPOOKY" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SPOOKY", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/spooky_halloween.jpg)
 
 ## Examples made on FontVibe
 

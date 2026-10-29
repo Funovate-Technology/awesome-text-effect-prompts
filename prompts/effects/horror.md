@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "WICKED"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/horror.jpg"
   passed: true
   note: "Rotting letters with glowing lower edges; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is rendered in a bold, graphic consumer Halloween horror style with immediate, striking readability. The composition features harsh, dramatic underlighting with a warm amber-orange key light shining from directly beneath the letters, throwing the upper two-thirds into heavy shadow like a candle held under a face. Extreme contrast defines the surface, with brilliantly lit edges cutting directly into near-black shadow zones without soft mid-tones. The color palette includes deep candy-red crimson accents, fiery amber tones, and subtle hints of dark rust and mold green. The letters are set against a near-black background subtly showing the faint texture of a rough stone wall, accented by a very low-opacity sickly yellow-green ambient glow at the base and faint wisps of ground-level fog drifting along the bottom. Ensure {{TEXT}} is the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "WICKED" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "WICKED", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/horror.jpg)
 
 ## Examples made on FontVibe
 

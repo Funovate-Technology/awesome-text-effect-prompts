@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SPELL"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/magic_fantasy.jpg"
   passed: true
   note: "Glowing arcane title in a candlelit library; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character, ensuring it is the only legible text in the composition. The lettering appears as ancient spellbook script with ornate fantasy serif letterforms imbued with a subtle interior glow. Ethereal purple and gold magical auras pulse around the characters, accompanied by orbiting glowing runes, mystical symbols, drifting sparkle particles, and delicate wisps of magical smoke. The surrounding scene features a dark enchanted atmosphere set in an ancient wizard tower library, illuminated by soft flickering candlelight casting warm shadows across aged, leather-bound book pages.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SPELL" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SPELL", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/magic_fantasy.jpg)
 
 ## Examples made on FontVibe
 

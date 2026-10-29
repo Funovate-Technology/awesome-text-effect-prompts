@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CARGO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/stencil.jpg"
   passed: true
   note: "Spray-stencilled letters on concrete; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is applied in a stencil spray application aesthetic, rendered in matte black spray paint onto an aged, rough concrete grey wall. Paint deposited through a physical cut template forms the letters, featuring crisp inner boundaries contrasted with subtle, soft outer halos where overspray has bled beyond the masking edges. Stroke centers have the highest pigment density, thinning out toward the peripheries, with a few occasional drip runs descending from areas of heavy paint buildup. The rugged texture and aggregate of the concrete substrate show visibly through the thinner coverage of the matte paint. Harsh directional light strikes from directly above at a low raking angle, casting deep micro-shadows across the pitted surface imperfections of the concrete and accentuating the binary, industrial contrast. The text {{TEXT}} is large and centered, dominating the frame as the sole legible wording, with the weathered industrial concrete surface extending continuously to all edges.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CARGO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CARGO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/stencil.jpg)
 
 ## Examples made on FontVibe
 

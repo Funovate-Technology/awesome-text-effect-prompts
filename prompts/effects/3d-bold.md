@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "3D"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold.jpg"
   passed: true
   note: "3D glossy chunky letters, spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words appear as massive, chunky 3D block letters with a heavyweight extruded depth measuring around half their height. The front faces are finished in an ultra-glossy lacquer resembling a hard candy coating or high-gloss toy paint, catching bright directional key light from the upper left with natural specular highlights. Each adjacent letter features a completely different, vivid, saturated hue to maximize chromatic contrast, while their side extrusion planes appear in noticeably darker tones of the same hue with sharp, unbeveled edges. Centered prominently in the frame from a frontal view with a slight low elevation, the letters cast long, parallel 45-degree shadows across a polished dark floor that catches clean mirror reflections. The background is a deep, dark studio environment with rich atmospheric depth, subtle warm amber to cool blue gradients, faint volumetric haze, and gentle environmental color bleed from the vibrant letters.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "3D" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "3D", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold.jpg)
 
 ## Examples made on FontVibe
 

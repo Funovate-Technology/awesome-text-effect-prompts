@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "ANCIENT"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/sand_stone.jpg"
   passed: true
   note: "Letters carved into a sandstone cliff; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters appear as deep, irreversible physical carvings in an ancient desert stone face. Chiseled in sharp V-cut bas-relief grooves, the freshly cut interior sections expose pale cream-beige rock that contrasts boldly with the weathered, amber-ochre and warm sienna exterior. Horizontal sedimentary grain lines, mineral oxidation staining, and fine micro-pitting from wind erosion run across the letters, with specks of loose quartz sand settled into their bases. A low-angle raking sidelight from the lower-left at a shallow twenty-degree angle sweeps across the rock, casting deep amber-brown shadow pools into the carved grooves and accentuating every textural ridge, patina unevenness, and incised edge. The scene is set against a dark desert earth ground under a warm golden-hour haze with fine airborne dust. The entire composition strictly adheres to a warm geological palette of cream, terracotta red, and burnt umber without cool tones or modern polished surfaces, making {{TEXT}} the sole legible text in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "ANCIENT" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "ANCIENT", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/sand_stone.jpg)
 
 ## Examples made on FontVibe
 

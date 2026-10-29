@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SYNTH"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_neon.jpg"
   passed: true
   note: "Neon-outlined 3D letters over a night city; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters appear as bold, dimensional three-dimensional forms featuring vivid neon-lit surfaces and glowing electric edge lighting. Driven by an authentic 1980s retrowave energy, the color palette is saturated with glowing hot magenta, electric cyan, and rich sunset orange. Deep, sharp cast shadows extend from the characters, while saturated neon light bleeds dynamically onto surrounding surfaces. The lettering stands prominently on a dark city rooftop at dusk, where wet concrete catches luminous chromatic reflections in scattered rainwater puddles below. In the background, faint electric grid lines are faintly visible across a hazy twilight sky. The text "{{TEXT}}" must remain the only legible writing within the entire scene.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SYNTH" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SYNTH", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_neon.jpg)
 
 ## Examples made on FontVibe
 

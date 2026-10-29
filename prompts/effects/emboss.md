@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "PRESS"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/emboss.jpg"
   passed: true
   note: "Blind-embossed letters on paper; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are rendered as a clean, dimensional blind-embossed relief raised directly from a surface of premium paper or card stock. Fine paper fibers are subtly visible around the letter edges where the raised topology meets the flat surrounding surface. Warm raking light shines from the upper-left at a low angle across the composition to emphasize the relief, creating a crisp highlight ridge along the top edge of each letter and a soft shadow on the opposite, lee side. No color is added; tonal contrast and dimensional depth serve as the primary visual language, preserving a uniform natural paper tone across the entire piece. There are no gradients on the letter faces, no glowing effects, and no outline strokes, creating a minimal, elegant stationery aesthetic defined by tactile paper texture catching the side lighting.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "PRESS" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "PRESS", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/emboss.jpg)
 
 ## Examples made on FontVibe
 

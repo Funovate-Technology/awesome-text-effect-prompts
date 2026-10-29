@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "MAGIC"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/fairy_tale.jpg"
   passed: true
   note: "Glowing silver serif in a dark enchanted forest; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of {{TEXT}} are wrapped in a soft, enchanted warm-amber ambient illumination, catching diffuse candlelit warmth across all surfaces with subtle cool silver-white moonlit highlights touching their top edges. Gentle rose-pink appears as a delicate secondary accent along the glowing contours. Centered across the middle third of the frame, the lettering stands out against a rich nocturnal backdrop shifting from deep midnight blue to forest shadow black. Behind the text, an enchanted realm recedes into dreamlike bokeh depth, featuring soft silhouettes of an ancient forest canopy and a distant castle touched by silver starlight. Atmospheric micro-particles and fine golden light-dust drift freely through the air alongside soft firefly traces in the deep distance, creating an ambient radiance rising from within the scene. The warm golden-amber luminescence and cool crown highlights ensure {{TEXT}} remains the only legible text and the glowing center of the composition.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "MAGIC" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "MAGIC", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/fairy_tale.jpg)
 
 ## Examples made on FontVibe
 

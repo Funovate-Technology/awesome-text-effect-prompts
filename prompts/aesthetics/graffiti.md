@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "STREET"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/graffiti.jpg"
   passed: true
   note: "Wildstyle-adjacent spray graffiti with drips; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words "{{TEXT}}" appear as the only legible text, rendered as a massive graffiti piece dominating a gritty urban wall of weathered red brick and textured concrete. The letters are built up in physical layers of aerosol spray paint, featuring a high-impact multi-color fade fill transitioning between hot magenta, electric blue, and vivid lime green, accented with bright white highlights. A thick, load-bearing black outline cleanly defines the letter shapes, complemented by an angled 3D block shadow that creates dramatic depth against the wall. Fine overspray mist haloes the perimeter of the piece, accompanied by spray-can mottling and scattered paint droplets. Heavy wet paint drips run naturally downward from saturated edges, pooling on the pavement below. The entire scene is illuminated by raw, natural street daylight, highlighting the authentic surface texture of the brick mortar and the vivid chromatic vibration of the fresh aerosol lacquer.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "STREET" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "STREET", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/graffiti.jpg)
 
 ## Examples made on FontVibe
 

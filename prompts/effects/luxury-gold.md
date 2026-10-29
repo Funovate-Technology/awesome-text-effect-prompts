@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "LUXE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/luxury_gold.jpg"
   passed: true
   note: "Hammered 3D gold on black; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text is centered in the frame, filling 70 to 80 percent of the canvas width, set against a pure deep black background with zero ambient fill. The letterforms possess substantial physical mass and thickness, resembling solid cast or stamped precious metal with embossed relief depth. Their surfaces exhibit a liquid 24-karat gold finish characterized by microscopic foil crinkle texture across all faces. Deep amber tones pool in the recesses, transitioning to rich warm gold across the main surfaces. A single dramatic spotlight shines from the upper-left at a 45-degree angle, casting crisp directional shadows and producing intense highlight contrast with razor-bright, champagne-white specular peaks where the direct beam strikes the metal. A subtle warm amber light pool rests on the ground plane directly beneath the letters, ensuring all visual luminosity radiates exclusively from the gold against the void.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "LUXE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "LUXE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/luxury_gold.jpg)
 
 ## Examples made on FontVibe
 

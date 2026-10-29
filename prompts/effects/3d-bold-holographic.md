@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "HOLO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_holographic.jpg"
   passed: true
   note: "Iridescent 3D letters on dark ground; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are bold, three-dimensionally extruded chrome with an iridescent oil-slick surface displaying a full rainbow spectral shift. Diffractive grating physics cause a vibrant color drift shifting smoothly across front-facing planes from hot pink through deep violet, electric cyan, and warm gold, resembling metallized polyester film catching directional light. The letterforms feature clean beveled edges with razor-sharp, hard-edged pure white specular highlights wherever the angled planes catch the studio light source. Each distinct plane—the front face, top surface, and extruded side depths—reflects contrasting environmental tones for rich volumetric depth. The scene is illuminated by a sharp studio key light positioned at a 45-degree angle from the upper-left, balanced by a subtle cold fill light from the opposite side. The base of the lettering casts deep, grounding shadows onto a ground plane. Set in a centered composition filling roughly 70% of the frame width, the entire subject rests against a pure black void background with faint iridescent ambient scatter.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "HOLO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "HOLO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_holographic.jpg)
 
 ## Examples made on FontVibe
 

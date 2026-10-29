@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "FLUID"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_liquid.jpg"
   passed: true
   note: "Liquid chrome dripping letters; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are sculpted from mirror-polished liquid chrome, caught mid-pour and frozen in time with visible viscous flow lines and mercury-like surface tension. Fluid chrome drips extend downwards from the base of each letter, tapering into fine suspended points that appear stretched by gravity. The material features a cool silver base reflecting shimmering, shifting bands of pink, ice-blue, and lavender iridescence across its smoothly curved metallic surfaces. The scene features a clean, minimal two-point colored environment lighting setup, casting warm pale pink light from the left and cool ice-blue illumination from the right. These soft pastel tones split across the chrome drip tips and rounded liquid contours. The composition is set against a smooth, soft silver-white gradient background mist, completely free of harsh black shadows to preserve the delicate, shifting iridescent reflections throughout the liquid metal.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "FLUID" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "FLUID", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_liquid.jpg)
 
 ## Examples made on FontVibe
 

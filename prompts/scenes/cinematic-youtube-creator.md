@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CREATOR"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_youtube_creator.jpg"
   passed: true
   note: "Attempt 1: legible, but silver letters rather than the style's warm yellow with dark outline — not recognisably this style. Attempt 2: warm glowing letters over a golden-hour city rooftop; spelled right (lighter than the preview's yellow)."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. Modern, energetic, and high-visibility letterforms are designed with a confident, bold presence suited for digital screens. The letters are finished in a vibrant palette of bold white and warm amber with luminous, glowing backlit edges. Position the text prominently in the center with strong directional lighting that creates clear visual hierarchy and sharp depth. The scene takes place on an urban rooftop during golden hour, with warm amber sunlight flooding the environment while a dusky, deep-toned city skyline rests softly blurred in the background. Rich shadows in the cityscape contrast dramatically with the illuminated lettering. A faint touch of cinematic film grain textures the atmosphere, enhancing the contemporary video creator aesthetic while ensuring {{TEXT}} remains the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CREATOR" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CREATOR", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_youtube_creator.jpg)
 
 ## Examples made on FontVibe
 

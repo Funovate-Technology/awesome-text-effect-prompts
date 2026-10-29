@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "MYSTIC"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/celestial_symbol.jpg"
   passed: true
   note: "Engraved silver serif on a dark night ground; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of {{TEXT}} are centered within a mystical, atmospheric night environment, illuminated by a single cold, silver-white directional key light shining from directly above like soft overhead moonlight. The text is rendered with an esoteric, symbolic presence that catches this cool top lighting, while casting subtle shadows downward. There is no warm ambient illumination and no daylight present anywhere in the scene. Surrounding {{TEXT}} is a deep midnight indigo to near-black atmospheric gradient background offering subtle environmental depth, populated by a faint, delicate star field rendered at very low opacity. The entire composition evokes a cool, otherworldly mood, with the pale silver-white celestial glow defining the upper contours of {{TEXT}} as the only legible element against the dark, quiet expanse.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "MYSTIC" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "MYSTIC", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/celestial_symbol.jpg)
 
 ## Examples made on FontVibe
 

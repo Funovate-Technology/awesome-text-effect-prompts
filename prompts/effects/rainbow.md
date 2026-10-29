@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "COLOR"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/rainbow.jpg"
   passed: true
   note: "Rainbow-striped letters with confetti; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. Clean, bold letters form {{TEXT}}, which is the only legible text in the image. Each individual letter contains a complete top-to-bottom ROYGBIV rainbow gradient entirely within itself: vibrant red at the top, orange in the upper section, yellow-green in the middle, blue-indigo across the lower portion, and deep violet at the bottom. The colors are rendered at full chroma Pride-flag saturation, vivid and unmuted, ensuring every letter independently showcases its own complete vertical spectrum rather than spreading across the entire word. Strong directional sunlight strikes the letters from the upper-right, producing sharp specular highlights across their smooth surfaces. The background depicts a vibrant outdoor festival scene beneath a deep sky gradient shifting from warm amber-orange at the horizon to rich cobalt blue overhead. Soft bokeh orbs of floating festival lights in pink, yellow, cyan, and violet drift through the mid-air, complemented by a faint scatter of colorful confetti drifting below the letters.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "COLOR" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "COLOR", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/rainbow.jpg)
 
 ## Examples made on FontVibe
 

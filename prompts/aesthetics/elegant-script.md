@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Elegant"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/elegant_script.jpg"
   passed: true
   note: "Gold foil script on black; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering embodies the hushed luxury of an intimate, hand-signed brand mark, crafted in fine warm gold metallic ink that appears restrained, expensive, and never flashy. The strokes are pressed into the surface with the subtle crispness of an engraving, catching a single soft directional light that grazes across the letters to reveal their delicate metallic sheen and dimensional edges. The word {{TEXT}} sits large and centered against a premium, deep matte black luxury ground, framed by generous negative space that enhances its refined, high-end editorial atmosphere. The entire scene captures the quiet sophistication of a couture label, a boutique logo, or a perfume-bottle signature, with pure focus resting on the gleaming golden strokes and the tactile texture of the dark backdrop. Ensure {{TEXT}} is the only legible text in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Elegant" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Elegant", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/elegant_script.jpg)
 
 ## Examples made on FontVibe
 

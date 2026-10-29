@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "DISPATCH"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/typewriter.jpg"
   passed: true
   note: "Typewriter-struck letters on aged paper; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. Present {{TEXT}} in monospaced mechanical typewriter letterforms featuring authentic key-strike impressions. The ink application displays realistic uneven distribution across the letters, with certain strokes darker and others lighter, and thicker ink pooling at the stroke terminals. A distinct woven ribbon texture is visible throughout the letterforms, complemented by slightly irregular baseline alignments and natural letter spacing imperfections. Rendered in a warm sepia-tinted black ink, each character presses subtly into an aged cream bond paper surface that showcases a delicate fiber texture and fine paper grain. Soft directional side lighting casts gentle, subtle micro-shadows from the stamped letterforms onto the textured paper beneath them. The composition is completely minimalist and clean, containing no props, extra graphics, or decorative elements, keeping {{TEXT}} as the sole legible focus on the warm paper background.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "DISPATCH" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "DISPATCH", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/typewriter.jpg)
 
 ## Examples made on FontVibe
 

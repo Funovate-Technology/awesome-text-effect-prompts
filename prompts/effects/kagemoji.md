@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SHADOW"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/kagemoji.jpg"
   passed: true
   note: "Flat letters with a long 45-degree solid shadow; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of "{{TEXT}}" are rendered in a flat, solid cream-white. Every single letter casts a bold, exaggerated long shadow extending toward the lower-right at a precise 45-degree angle, stretching 2.5 to 3 times the height of the letters across the background. This shadow is rendered in a uniform, flat, solid deep brown-black tone with sharp, crisp, straight boundaries, entirely devoid of gradients, blur, glows, bevels, or vanishing points, maintaining a purely flat graphic silhouette rather than a three-dimensional block. The scene is illuminated by an implied single light source from the upper-left. The overall image presents a clean vintage print aesthetic in a warm, muted retro palette, positioned against a completely flat, solid-color background such as mustard yellow, burnt orange, faded teal, or olive green, without any photographic textures or gradients. The text is centered, occupying approximately 70% of the frame width with generous, even margins on all sides, ensuring {{TEXT}} is the sole visual element.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SHADOW" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SHADOW", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/kagemoji.jpg)
 
 ## Examples made on FontVibe
 

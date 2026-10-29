@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "MERRY"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/nutcracker.jpg"
   passed: true
   note: "Theatre stage with nutcracker soldiers and gilded title; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words {{TEXT}} are rendered in ornate antique gold lettering positioned across a central cream panel. The entire composition is designed as a theatrical storybook scene, framed by an ornate gilded ballet stage arch draped with rich crimson velvet curtains and festive garlands. Flanking the frame stand classic painted wooden nutcracker soldier figures in crisp red tunics, tall black hats, and polished gold buttons. Decorative elements including miniature drums, colorful candies, ribbons, and toy castles embellish the gilded filigree borders. The palette balances deep emerald green and crimson red against warm antique gold trim. Warm stage lighting casts a soft golden glow outward from the center with a gentle vignette at the edges, highlighting the subtle gloss and delicate glitter on the wooden surfaces while keeping {{TEXT}} as the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "MERRY" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "MERRY", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/nutcracker.jpg)
 
 ## Examples made on FontVibe
 

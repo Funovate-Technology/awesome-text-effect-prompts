@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "DARK"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/gothic_dark.jpg"
   passed: true
   note: "Dark iron blackletter with red glow in a cathedral; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The heavy gothic lettering of {{TEXT}} is forged from cold dark iron, textured with subtle hammer marks, patches of rust, and beads of cold moisture. Delicate cobweb strands stretch across the negative spaces between the letters. The text stands bold and central within an ominous, dread-soaked gothic crypt of damp, dark weathered stone. Deep, heavy shadows envelop the environment, pierced from behind by dramatic, intense crimson backlighting that burns glowing red edges along the silhouette of {{TEXT}}. Faint tendrils of cold smoke and drifting mist curl through the crevices and hover around the base. The color palette is dominated by deep charcoal and near-black grounds, sharply contrasted with saturated blood-crimson rim light and glints of cold steel highlights, maintaining a brooding, atmospheric darkness.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "DARK" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "DARK", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/gothic_dark.jpg)
 
 ## Examples made on FontVibe
 

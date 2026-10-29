@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Calligraphy"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_calligraphy.jpg"
   passed: true
   note: "Fine pointed-pen calligraphy; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words {{TEXT}} are the only legible text in the image, presented in the exacting tradition of formal pointed-pen calligraphy, reminiscent of refined copperplate and Spencerian penmanship. The letters are written in crisp, controlled deep black or warm sepia ink that sits cleanly upon the page with sharp wet-ink edges and a subtle natural sheen where the surface catches the light. Every stroke reflects disciplined master penmanship with delicate hairlines and balanced swelling shades. The ground is fine calligraphy paper made of smooth cream or ivory hot-press cotton stock, surrounded by generous margins, occasionally showing very faint ruled guideline slants like a formal certificate or invitation. The scene is illuminated by even, clean studio light that is soft and flat, revealing the micro-textures of the paper and the wet-ink definition without dramatic shadows.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Calligraphy" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Calligraphy", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_calligraphy.jpg)
 
 ## Examples made on FontVibe
 

@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "JOY"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/watercolor_christmas.jpg"
   passed: true
   note: "Watercolour letters above a snowy village; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of {{TEXT}} are hand-painted in muted winter tones of slate blue, pine green, and warm brick red, resting prominently against generous, clean white cold-press watercolor paper. The surface features visible cold-press paper grain, soft pigment blooms, and natural granulation. Below the text, a loose wet-on-wet watercolor winter landscape forms a gentle vignette across the lower portion of the composition. This scene depicts a charming row of little Christmas village houses with warm golden light glowing from their windows, nestled among snowy pine trees, soft rolling hills, and a small stone bridge. The brushwork is delicate and ink-free with soft bleeding edges that fade out naturally into the white paper margins. Tiny specks of white gouache dot the air as drifting snow, illuminated by soft, cold winter daylight that contrasts with the cosy golden glow from the cottage windows. The text {{TEXT}} is the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "JOY" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "JOY", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/watercolor_christmas.jpg)
 
 ## Examples made on FontVibe
 

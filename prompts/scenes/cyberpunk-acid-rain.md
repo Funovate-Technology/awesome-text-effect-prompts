@@ -29,7 +29,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "ACID"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_acid_rain.jpg"
   passed: true
   note: "Corroded metal letters with toxic green glow; spelled right."
 license: CC-BY-4.0
@@ -51,7 +51,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are fashioned from heavy industrial metal that appears heavily corroded and melting from toxic chemical exposure, with {{TEXT}} remaining the only legible text in the composition. Dripping trails of intense toxic-green acid eat deeply into the letterforms, flanked by rust-orange oxidation patches spreading outward from the eroded edges. The metallic surface texture is severely distressed with pitted craters, corrosive scaling, and chemical burn marks under high-contrast industrial lighting. In the background, an industrial wasteland atmosphere unfolds with thick acid-green mist rising from below against rust-stained concrete walls, while faint warning-yellow hazard chevrons disappear into the heavy fog. Streaks of poisonous, acidic rain droplets cascade through the foreground, catching the visceral glow of the bright green chemical runoff and dark metallic decay.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "ACID" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "ACID", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_acid_rain.jpg)
 
 ## Examples made on FontVibe
 

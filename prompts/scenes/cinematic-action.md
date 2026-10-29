@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "IMPACT"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_action.jpg"
   passed: true
   note: "Brushed-steel title with sparks; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of {{TEXT}} are sculpted from precision-machined brushed chrome steel, showcasing tactical weapon-grade metal with a distinct fine directional grain rather than a reflective mirror finish. Dramatic asymmetric lighting cuts across the typography: an intense, warm orange-gold key light illuminates one side of the letterforms, while a crisp, cool blue-white rim light highlights the opposing bevels, establishing razor-sharp contrast. An anamorphic horizontal lens flare streaks brilliantly across the composition. Subtle motion-blur trails brush the outer contours of the letters, imparting a sense of high-velocity kinetic force. In the surrounding space, a deep black void is layered with faint volumetric haze and scattered, high-speed metallic friction sparks. The entire presentation maintains a clean finish devoid of rust, molten fissures, or scorched earth, ensuring {{TEXT}} remains the only legible text in the cinematic frame.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "IMPACT" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "IMPACT", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_action.jpg)
 
 ## Examples made on FontVibe
 

@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "FROST"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_frozen.jpg"
   passed: true
   note: "Ice-encased letters with icicles under an aurora; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text is formed from massive, deep-frozen solid glacial ice blocks. Each letter features a smooth-polished outer surface rimmed with faint frost micro-crystal bloom and delicate edge frost textures. The body is thick, translucent ice with a pale blue-white tint, filled with suspended internal air bubble inclusions and fine crack networks branching inward from surface stress points. A deep, cold cyan-blue glow emanates from within the core of each letter via subsurface scattering, fading toward the crisp perimeters. Sharp icicle extensions hang from the letter bases, casting bright caustic refractions below, while polished edges catch incoming light in bright rim caustics and subtle cold-spectral micro-prisms. The letters rest against a deep arctic midnight backdrop of near-black darkness, accented by a faint cold blue-teal atmospheric aurora glow spreading across the upper frame. Fine airborne ice crystal particles drift through the air, catching the light as glittering specks. The glowing ice letters serve as the primary illumination in the scene, maintaining a palette of pure icy blues, cyans, and crisp whites with zero warm tones.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "FROST" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "FROST", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_frozen.jpg)
 
 ## Examples made on FontVibe
 

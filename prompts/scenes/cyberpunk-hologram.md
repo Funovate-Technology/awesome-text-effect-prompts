@@ -29,7 +29,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "HOLO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_hologram.jpg"
   passed: true
   note: "Translucent cyan hologram letters over a hex grid; spelled right."
 license: CC-BY-4.0
@@ -51,7 +51,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters appear as a translucent light-projected holographic display floating in space. Multiple semi-transparent cyan and teal layers are slightly offset from one another to create dimensional depth. Iridescent color fringing borders the edges of the letterforms, shifting between luminous cyan and vibrant electric blue. Fine horizontal scan lines run continuously through the body of each character, accompanied by subtle static noise along the letter silhouettes and glass-like refraction within the translucent fills. The scene is set in a dark void environment suggesting a high-tech command center, featuring a barely visible, faint hexagonal grid floor in deep teal beneath the projection. Atmospheric blue-cyan ambient light permeates the darkness, casting a soft volumetric glow around the hovering glowing text.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "HOLO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "HOLO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_hologram.jpg)
 
 ## Examples made on FontVibe
 

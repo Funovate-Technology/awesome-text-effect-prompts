@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "RETRO!"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/retro_pop.jpg"
   passed: true
   note: "Mid-century pop letters with halftone and starburst; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is bold, dominant, and set at a slightly tilted, playful angle in the style of a cheerful mid-century retro pop poster. The characters feature thick black keyline outlines enclosing flat, vibrant candy-color fills, overlaid with a distinct Ben-Day halftone dot texture and accompanied by a crisp comic-book drop shadow. A dynamic starburst and atomic-orbit motif radiates directly behind {{TEXT}}, framed by playful boomerang accents on a warm cream ground. The color scheme is saturated, flat, and vivid, drawing from a cheerful candy palette of cherry red, sunshine yellow, turquoise, mint, hot orange, and rich cream, without any muddy tones. Ensure {{TEXT}} remains the sole legible lettering in the entire scene, standing out with high-energy diner and jukebox Americana pop aesthetic.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "RETRO!" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "RETRO!", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/retro_pop.jpg)
 
 ## Examples made on FontVibe
 

@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "YAY"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/flat_cartoon.jpg"
   passed: true
   note: "Flat pastel cartoon letters with doodle characters; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of {{TEXT}} appear as clean, solid vector shapes integrated seamlessly into a modern flat cartoon illustration. Surrounding the text are friendly cartoon characters constructed from minimal geometric forms, featuring round heads, neat dot eyes, simple curved smiles, and hair and clothing designed as solid, untextured shapes. All shapes interact with crisp color-against-color edges, completely free of heavy black outlines or contour lines. The entire composition rests on a clean cream or white background overlaid with soft organic blob shapes and plain flat color fields, playfully dotted with small floating accents such as miniature circles, leaves, sparkles, and hearts. The palette consists of four to six bright, saturated solid colors—specifically coral, sunny yellow, sky blue, mint green, and pink. Lighting is flat and shadowless across all elements, using at most a single subtle darker tone per shape for minimal depth, with no glossy highlights or gradients anywhere. Make {{TEXT}} the only legible text in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "YAY" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "YAY", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/flat_cartoon.jpg)
 
 ## Examples made on FontVibe
 

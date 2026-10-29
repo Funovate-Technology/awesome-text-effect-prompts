@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "BOOM"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/comic_book.jpg"
   passed: true
   note: "Halftone comic letters on a red starburst; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters appear as massive, graphic impact letterforms positioned dead center across the frame. Each letterform is filled with a saturated action yellow, bordered by a bold, hard flat black ink outline tracing every edge, with a subtle four-color print register misalignment where the yellow fill slightly offsets from the black linework. A regular circular Ben-Day halftone dot screen overlays all colored surfaces, evoking classic vintage four-color mechanical printing on a warm newsprint-white paper substrate. Exploding directly behind the lettering is a large starburst shape in vivid impact red featuring jagged, geometric spikes that radiate outward toward the edges of the composition, covered in its own dense halftone dot grid. Crisp diagonal and horizontal speed lines flash behind the graphic burst, accompanied by tiny scattered cosmic crackle energy dots. The entire composition is a completely flat, non-photographic graphic comic book panel with zero gradients and pure primary contrast, ensuring {{TEXT}} remains the sole legible focus.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "BOOM" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "BOOM", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/comic_book.jpg)
 
 ## Examples made on FontVibe
 

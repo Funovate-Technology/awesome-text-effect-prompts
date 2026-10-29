@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SIGNAL"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_scifi.jpg"
   passed: true
   note: "Cold metallic title with a planet behind; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are crafted from cold brushed titanium featuring precision-machined edges, micro-etched technical detail lines, and an aerospace-grade matte finish with subtle anisotropic grain. Cryogenic blue-white edge illumination radiates coldly from the letter seams, producing sharp, laser-cut thresholds against the surrounding dark. Lighting arrives from a single distant star entering from the upper left, casting razor-edge directional shadows across the letterforms, complemented by a lone horizontal cyan-white anamorphic streak. The letters float in a hard vacuum environment with zero ambient scatter and maximum contrast. Behind {{TEXT}}, a colossal megastructure looms in deep space, silhouetted against a vast ringed gas giant at the horizon, with geometric running lights tracing through the void amidst a starfield of cold pinpricks against absolute black. The entire atmosphere is monumental, minimal, and intensely cold, defined strictly by titanium silvers, cyan-white radiance, and deep void black, completely devoid of warm tones or organic textures.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SIGNAL" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SIGNAL", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_scifi.jpg)
 
 ## Examples made on FontVibe
 

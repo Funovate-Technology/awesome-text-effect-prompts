@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "DREAD"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_horror.jpg"
   passed: true
   note: "Weathered, dripping title in a cold dark scene; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The title typography exists completely inside a desolate cinematic horror environment, centered in a wide cinematic frame and filling sixty-five to eighty percent of the frame width. The distressed surfaces of the letters bear physical evidence of horror, marked with dried blood seepage along crack lines, heavy rust oxidation staining, deep decay, and weathered age damage. Illumination comes entirely from a single, psychologically unsettling light source: a cold blue-green underlight positioned at ground level, casting long, hard-edged vertical shadows that rise upward into absolute darkness. Extreme tonal contrast dominates the composition, with oppressive black shadows occupying at least sixty percent of the frame. Dense, heavy fog pools around the base of the letters while disturbed dust hangs suspended in the air. The camera angle is slightly too low and canted to create unease, utilizing vast, active negative space where darkness conceals an unspoken threat.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "DREAD" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "DREAD", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_horror.jpg)
 
 ## Examples made on FontVibe
 

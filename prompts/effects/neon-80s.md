@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SYNTH"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_80s.jpg"
   passed: true
   note: "80s neon chrome letters over a grid with palms; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters feature a high-gloss, mirror-finish automotive chrome surface with zero grain, acting as sharp environmental mirrors. The upper half of each letter reflects a vivid sunset gradient fading from hot pink to electric purple and deep navy, while the lower half reflects warped electric cyan and purple grid lines from below. Surrounding every stroke is a dual neon halo featuring a tight inner glow of electric purple, an expansive outer bloom of hot pink, and a delicate cyan rim at the extreme edge. Floating centrally above the floor, {{TEXT}} casts deep, clean purple-tinted shadows onto an endless geometric perspective wireframe grid that recedes to a single vanishing point on the horizon. The backdrop displays a layered sky shifting from a hot pink horizon through electric purple into deep navy-black, adorned with symmetrical black palm tree silhouettes and sharp pinpoint white stars. The entire composition has a clean, dry aesthetic overlaid with subtle horizontal analog scan lines.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SYNTH" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SYNTH", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_80s.jpg)
 
 ## Examples made on FontVibe
 

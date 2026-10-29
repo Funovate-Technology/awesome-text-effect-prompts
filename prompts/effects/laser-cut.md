@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CUT"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/laser_cut.jpg"
   passed: true
   note: "Laser-cut wooden letters; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text exists as a physical laser-cut wood slab resting flat on a dark raw-timber workshop surface, presented cleanly as if freshly released from the machine bed. Mathematically exact edges define each letter with zero roughness, where the laser kerf serves as the sole boundary. The letter faces display a warm honey wood grain, contrasting sharply with a charred dark seam along every cut kerf edge and exposing cross-grain across the dimensional material slab thickness. Enclosed letter counters are physically retained by thin, structural bridge connection tabs integrated seamlessly into the design. Negative space is open air revealing the dark textured surface underneath. Directional key light rakes across the piece from the upper left at a shallow angle, casting razor-fine, sharp shadows that emphasize the physical slab depth, complemented by a subtle warm amber secondary fill from the lower right amidst a near-black, atmospheric craft-studio setting.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CUT" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CUT", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/laser_cut.jpg)
 
 ## Examples made on FontVibe
 

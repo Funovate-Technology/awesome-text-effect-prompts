@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "FOREVER"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/wedding.jpg"
   passed: true
   note: "Gold foil letters on deckled card with roses; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text sits centered with generous, airy spacing on a luxurious sheet of warm ivory cotton paper featuring a soft deckled edge. The lettering is rendered in rich, warm antique gold-leaf foil with metallic gold ink, showing a bright specular highlight along one edge and a darker metallic shadow along the other to establish tangible depth. Crisp, subtle letterpress indentation presses the characters gently into the paper, creating soft debossed shadows around the gilded strokes. Gentle, directional daylight rakes across the textured surface, illuminating the metallic sheen while preserving the quiet, refined atmosphere. Delicate botanical accents—sparing sprigs of eucalyptus and soft blush roses—subtly frame one corner without crowding the text. The composition maintains generous negative space, harmonizing ivory, champagne, and antique gold with muted eucalyptus greens for an elegant, calm stationery aesthetic.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "FOREVER" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "FOREVER", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/wedding.jpg)
 
 ## Examples made on FontVibe
 

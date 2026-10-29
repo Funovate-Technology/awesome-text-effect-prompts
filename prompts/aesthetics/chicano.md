@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Por Vida"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/chicano.jpg"
   passed: true
   note: "Glossy black ornate script with soft shadow; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is rendered in rich, jet-black glossy ink applied with sign-painter precision, featuring deep solid blacks with a wet sheen and razor-sharp edges. Delicate flourishes and sweeping swashes frame the characters, accented with fine gold-leaf pinstriping details. A faint, soft grey drop-shadow subtly lifts the letters off the background, giving them physical presence. The words rest against a smooth, cream-colored aged paper surface, capturing traditional hand-lettered tattoo and sign aesthetics. Warm, low-key lighting rakes across the surface from the side, producing deep, velvety shadows and gleaming highlights along the wet ridges of the ink. The overall mood is proud, personal, and street-royal, focused entirely on the pristine craft of the black ink.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Por Vida" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Por Vida", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/chicano.jpg)
 
 ## Examples made on FontVibe
 

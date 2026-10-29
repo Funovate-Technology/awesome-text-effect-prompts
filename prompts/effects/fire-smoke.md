@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "BLAZE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/fire_smoke.jpg"
   passed: true
   note: "Letters made of flame with smoke; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are sculpted from active combustion, appearing fully ablaze with a brilliant white-yellow inner core that transitions outward through radiant orange and deep fiery red into turbulent flame tongues surging upward with natural random motion. Faint wispy blue-grey tips lick at the outer edges of the flames. Dense, dark smoke billows from the letters in heavy rolling columns, curling upward in charcoal and near-black volumes with faint translucency along the borders. Intense firelight self-illuminates from below with a warm amber-orange cast, creating a dramatic upward rim along the heat source underneath. Glowing embers drift upward through the surrounding space. The background consists of a deep charcoal haze with a faint ember glow, producing dramatic contrast between the combustion glow and the surrounding darkness as heavy smoke curls into the black above.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "BLAZE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "BLAZE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/fire_smoke.jpg)
 
 ## Examples made on FontVibe
 

@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "US"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/anniversary.jpg"
   passed: true
   note: "Gold serif letters among candles; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text "{{TEXT}}" is the sole illuminated subject, centered with visual dignity slightly above the vertical midpoint against a deep jewel-tone background of midnight navy, rich burgundy, and warm obsidian. Forward-facing surfaces catch warm amber-orange raking light from an intimate candlelit source positioned at 30 to 45 degrees, creating radiant glowing contours while casting rich, soft shadows. A gentle secondary fill of diffuse rose-gold and warm champagne light preserves depth without flattening contrast. The surrounding environment recedes into an extreme shallow depth of field, decorated with soft bokeh halos from tall ivory pillar candles, faintly glowing deep crimson rose petal edges in the lower frame, and delicate refracted amber arcs from crystal droplets and champagne coupe rims. The entire scene maintains a consistent warm color temperature between 2800K and 3200K with a subtle dark vignette around the edges, conveying an intimate, private ceremonial atmosphere completely free of cool tones.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "US" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "US", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/anniversary.jpg)
 
 ## Examples made on FontVibe
 

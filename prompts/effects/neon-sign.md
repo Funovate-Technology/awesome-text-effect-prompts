@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "OPEN"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_sign.jpg"
   passed: true
   note: "Warm neon script sign on brick; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of {{TEXT}} are crafted as a classic roadside neon sign, fashioned from glowing glass tubes that emit a warm, radiant light in soft pink and amber hues. Detailed physical features are visible along the letterforms, including precise glass tube bends, small mounting brackets, and a dark painted metal backing plate that anchors the sign. A warm light halo and luminous bloom wrap each letter, lending a subtle impression of buzzing electrical energy. The sign is mounted against a nighttime exterior wall featuring visible brick texture, subtly catching the vibrant glow of the neon. A faint rain shimmer glistens across the dark bricks beneath the soft halo bloom lingering in the night air, evoking a nostalgic Americana roadside aesthetic. The letters of {{TEXT}} must be the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "OPEN" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "OPEN", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_sign.jpg)
 
 ## Examples made on FontVibe
 

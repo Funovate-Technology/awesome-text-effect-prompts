@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "VICTORY"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/esports.jpg"
   passed: true
   note: "Angled esports title panel with slash bars; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of {{TEXT}} sit prominently on a flat, solid title panel cut at a sharp fifteen-degree slash angle with chamfered outer corners, lifted by a subtle, thin dark drop shadow under a hard white rim light coming from behind and above. The composition adopts the bold graphic language of competitive gaming visuals, surrounded by flat angular geometric panels in deep navy and near-black, paired with a dominant field of saturated team color and sharp accent highlights in electric cyan. Abstract graphic elements frame the composition, including a tight grouping of three angled chevrons, a slim band of diagonal hazard stripes, and small technical corner brackets, while leaving {{TEXT}} as the only legible writing. The setting evokes a dark arena filled with soft colored haze from an off-camera LED wall and pierced by narrow stage beams. Textures include fine film grain, subtle halftone dot fades along panel boundaries, and faint horizontal scanlines across the flat printed surfaces.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "VICTORY" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "VICTORY", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/esports.jpg)
 
 ## Examples made on FontVibe
 

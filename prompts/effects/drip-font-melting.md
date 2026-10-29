@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "MELT"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font_melting.jpg"
   passed: true
   note: "Glowing molten dripping letters; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letterforms are sculpted from a warm amber-to-deep-orange heated translucent material, actively liquefying and flowing downward under intense heat. The lower portions of {{TEXT}} lose structural integrity, their edges softening and rounding outward as gravity draws down the molten mass. Drips of varying thickness descend from the forms, featuring one to two thick primary flows with bulged origins and teardrop ends, several medium streams, and fine capillary trails showing surface tension at the drip necks. Viscous molten material pools at the letter bases with a glossy, wet sheen. An intense overhead key light bleaches the upper contours, tracing specular highlight arcs along the crest of each character. Narrow bright streaks gleam across the accumulated liquid below. An ambient heat glow radiates outward against a deep, dark background imbued with faint warm undertones, where a soft heat haze gently blurs the distant edges while maintaining razor-sharp clarity on the dripping letter surfaces.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "MELT" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "MELT", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font_melting.jpg)
 
 ## Examples made on FontVibe
 

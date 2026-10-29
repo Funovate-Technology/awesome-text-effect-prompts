@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "MERRY"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/preppy_christmas.jpg"
   passed: true
   note: "Tartan-framed card with bows; spelled right (letters are plain serif, not tartan-filled like the preview)."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words {{TEXT}} appear in a refined, deep navy blue finish, prominently placed across a clean, smooth cream cardstock panel. The central panel is framed by crisp, tailored holiday patterns including classic red and hunter green tartan plaid, neat gingham, and fine candy stripes. Neatly tied velvet or grosgrain ribbon bows in deep navy and red adorn the borders, casting soft, crisp drop shadows against the paper. Elegant accents of metallic gold foil highlight the delicate inner border trim. The entire design has the feel of an upscale holiday stationery flat lay, captured under bright, clean, and even lighting that reveals the woven textures of the fabrics and the matte surface of the card. {{TEXT}} must be the only legible text present in the entire composition.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "MERRY" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "MERRY", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/preppy_christmas.jpg)
 
 ## Examples made on FontVibe
 

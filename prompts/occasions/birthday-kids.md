@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "PARTY"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/birthday_kids.jpg"
   passed: true
   note: "Glossy multicolour balloon letters; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are styled in a vibrant kids birthday cartoon aesthetic, featuring smooth, glossy, shiny surfaces with bright highlight reflections. Each letter is rendered in a distinct, highly saturated color, cycling through vivid rainbow tones of red, orange, yellow, green, blue, and purple. Surrounding and weaving between the characters are large, colorful cartoon balloons, dynamic star bursts, floating hearts, and an energetic confetti explosion. Colorful confetti pieces rain down across the scene, while cheerful party streamers loosely frame the edges of the composition. The entire setting is presented against a bright white background under vibrant, natural party daylight, creating a clean, maximum-saturation children's party illustration filled with celebratory fun and playful energy.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "PARTY" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "PARTY", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/birthday_kids.jpg)
 
 ## Examples made on FontVibe
 

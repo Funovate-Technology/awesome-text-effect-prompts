@@ -17,7 +17,8 @@
     "image_file": "neon-glow-1.png",
     "passed": true,
     "note": "Bent glass neon tubes on concrete with brackets; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_glow.jpg"
   },
   "3d_bold": {
     "attempts": [
@@ -37,7 +38,8 @@
     "image_file": "3d-bold-1.png",
     "passed": true,
     "note": "3D glossy chunky letters, spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold.jpg"
   },
   "3d_bold_gold": {
     "attempts": [
@@ -57,7 +59,8 @@
     "image_file": "3d-bold-gold-1.png",
     "passed": true,
     "note": "Polished 3D gold on dark ground, close to preview.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_gold.jpg"
   },
   "3d_bold_holographic": {
     "attempts": [
@@ -77,7 +80,8 @@
     "image_file": "3d-bold-holographic-1.png",
     "passed": true,
     "note": "Iridescent 3D letters on dark ground; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_holographic.jpg"
   },
   "3d_bold_inflated": {
     "attempts": [
@@ -97,7 +101,8 @@
     "image_file": "3d-bold-inflated-1.png",
     "passed": true,
     "note": "Puffy pastel balloon letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_inflated.jpg"
   },
   "3d_bold_neon": {
     "attempts": [
@@ -117,7 +122,8 @@
     "image_file": "3d-bold-neon-1.png",
     "passed": true,
     "note": "Neon-outlined 3D letters over a night city; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/3d_bold_neon.jpg"
   },
   "anime": {
     "attempts": [
@@ -137,7 +143,8 @@
     "image_file": "anime-1.png",
     "passed": true,
     "note": "Inked cel-shaded title over radial speed lines; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/anime.jpg"
   },
   "anime_character": {
     "attempts": [
@@ -157,7 +164,8 @@
     "image_file": "anime-character-1.png",
     "passed": true,
     "note": "Original anime portrait; the word is small in a corner but legible and correct.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/anime_character.jpg"
   },
   "anniversary": {
     "attempts": [
@@ -177,7 +185,8 @@
     "image_file": "anniversary-1.png",
     "passed": true,
     "note": "Gold serif letters among candles; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/anniversary.jpg"
   },
   "art_deco": {
     "attempts": [
@@ -197,7 +206,8 @@
     "image_file": "art-deco-1.png",
     "passed": true,
     "note": "Gold deco relief with sunburst; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/art_deco.jpg"
   },
   "birthday": {
     "attempts": [
@@ -217,7 +227,8 @@
     "image_file": "birthday-1.png",
     "passed": true,
     "note": "Balloon letters with confetti and balloons; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/birthday.jpg"
   },
   "birthday_kids": {
     "attempts": [
@@ -237,7 +248,8 @@
     "image_file": "birthday-kids-1.png",
     "passed": true,
     "note": "Glossy multicolour balloon letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/birthday_kids.jpg"
   },
   "birthday_luxury": {
     "attempts": [
@@ -257,7 +269,8 @@
     "image_file": "birthday-luxury-1.png",
     "passed": true,
     "note": "Gold foil on black marble with frame; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/birthday_luxury.jpg"
   },
   "brush_chinese_ink": {
     "attempts": [
@@ -277,7 +290,8 @@
     "image_file": "brush-chinese-ink-1.png",
     "passed": true,
     "note": "Black ink brush on rice paper with splatter; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_chinese_ink.jpg"
   },
   "brush_dry": {
     "attempts": [
@@ -297,7 +311,8 @@
     "image_file": "brush-dry-1.png",
     "passed": true,
     "note": "Dry-brush paint strokes; spelled right (on paper rather than the preview's wood).",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_dry.jpg"
   },
   "brush_japanese_ink": {
     "attempts": [
@@ -317,7 +332,8 @@
     "image_file": "brush-japanese-ink-1.png",
     "passed": true,
     "note": "Ink on washi; legible and spelled right, though strokes are thinner than the preview.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_japanese_ink.jpg"
   },
   "brush_stroke": {
     "attempts": [
@@ -337,7 +353,8 @@
     "image_file": "brush-stroke-1.png",
     "passed": true,
     "note": "Brush script on warm paper; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_stroke.jpg"
   },
   "bubble": {
     "attempts": [
@@ -357,7 +374,8 @@
     "image_file": "bubble-1.png",
     "passed": true,
     "note": "Translucent pastel bubble letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/bubble.jpg"
   },
   "bw_aesthetic": {
     "attempts": [
@@ -377,7 +395,8 @@
     "image_file": "bw-aesthetic-1.png",
     "passed": true,
     "note": "Moody black-and-white rain portrait with the word legible; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/bw_aesthetic.jpg"
   },
   "celestial_symbol": {
     "attempts": [
@@ -397,7 +416,8 @@
     "image_file": "celestial-symbol-1.png",
     "passed": true,
     "note": "Engraved silver serif on a dark night ground; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/celestial_symbol.jpg"
   },
   "chalk": {
     "attempts": [
@@ -417,7 +437,8 @@
     "image_file": "chalk-1.png",
     "passed": true,
     "note": "Chalk lettering with flourishes on a framed blackboard; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/chalk.jpg"
   },
   "chibi": {
     "attempts": [
@@ -437,7 +458,8 @@
     "image_file": "chibi-1.png",
     "passed": true,
     "note": "Chibi character with die-cut sticker border and the word beside it; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/chibi.jpg"
   },
   "chicano": {
     "attempts": [
@@ -457,7 +479,8 @@
     "image_file": "chicano-1.png",
     "passed": true,
     "note": "Glossy black ornate script with soft shadow; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/chicano.jpg"
   },
   "chrome_metal_3d": {
     "attempts": [
@@ -477,7 +500,8 @@
     "image_file": "chrome-metal-3d-1.png",
     "passed": true,
     "note": "Mirror-chrome bevelled 3D letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/chrome_metal_3d.jpg"
   },
   "cinematic": {
     "attempts": [
@@ -497,7 +521,8 @@
     "image_file": "cinematic-1.png",
     "passed": true,
     "note": "Monumental gold title over a golden-hour mountain landscape; three words, spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic.jpg"
   },
   "cinematic_action": {
     "attempts": [
@@ -517,7 +542,8 @@
     "image_file": "cinematic-action-1.png",
     "passed": true,
     "note": "Brushed-steel title with sparks; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_action.jpg"
   },
   "cinematic_blockbuster": {
     "attempts": [
@@ -537,7 +563,8 @@
     "image_file": "cinematic-blockbuster-1.png",
     "passed": true,
     "note": "Chrome title with lens flare and god rays; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_blockbuster.jpg"
   },
   "cinematic_horror": {
     "attempts": [
@@ -557,7 +584,8 @@
     "image_file": "cinematic-horror-1.png",
     "passed": true,
     "note": "Weathered, dripping title in a cold dark scene; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_horror.jpg"
   },
   "cinematic_scifi": {
     "attempts": [
@@ -577,7 +605,8 @@
     "image_file": "cinematic-scifi-1.png",
     "passed": true,
     "note": "Cold metallic title with a planet behind; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_scifi.jpg"
   },
   "cinematic_youtube_creator": {
     "attempts": [
@@ -606,7 +635,8 @@
     "image_file": "cinematic-youtube-creator-2.png",
     "passed": true,
     "note": "Attempt 1: legible, but silver letters rather than the style's warm yellow with dark outline — not recognisably this style. Attempt 2: warm glowing letters over a golden-hour city rooftop; spelled right (lighter than the preview's yellow).",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cinematic_youtube_creator.jpg"
   },
   "comic_book": {
     "attempts": [
@@ -626,7 +656,8 @@
     "image_file": "comic-book-1.png",
     "passed": true,
     "note": "Halftone comic letters on a red starburst; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/comic_book.jpg"
   },
   "coquette_christmas": {
     "attempts": [
@@ -675,7 +706,8 @@
     "image_file": "cursive-1.png",
     "passed": true,
     "note": "Flowing ink script on cream paper; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive.jpg"
   },
   "cursive_aesthetic": {
     "attempts": [
@@ -695,7 +727,8 @@
     "image_file": "cursive-aesthetic-1.png",
     "passed": true,
     "note": "Pink glitter script with ribbons; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_aesthetic.jpg"
   },
   "cursive_calligraphy": {
     "attempts": [
@@ -715,7 +748,8 @@
     "image_file": "cursive-calligraphy-1.png",
     "passed": true,
     "note": "Fine pointed-pen calligraphy; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_calligraphy.jpg"
   },
   "psychedelic": {
     "attempts": [
@@ -744,7 +778,8 @@
     "image_file": "psychedelic-2.png",
     "passed": true,
     "note": "Attempt 1: letters dissolve into the background pattern; hard to read. Attempt 2: melting rainbow letters on concentric op-art waves; legible, spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/psychedelic.jpg"
   },
   "cursive_modern": {
     "attempts": [
@@ -764,7 +799,8 @@
     "image_file": "cursive-modern-1.png",
     "passed": true,
     "note": "Bold brush script on warm paper; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_modern.jpg"
   },
   "cursive_signature": {
     "attempts": [
@@ -784,7 +820,8 @@
     "image_file": "cursive-signature-1.png",
     "passed": true,
     "note": "Signature-style ink script on white; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_signature.jpg"
   },
   "cute_halloween": {
     "attempts": [
@@ -804,7 +841,8 @@
     "image_file": "cute-halloween-1.png",
     "passed": true,
     "note": "Chubby cartoon letters with ghosts, pumpkins and bats; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cute_halloween.jpg"
   },
   "cyberpunk": {
     "attempts": [
@@ -824,7 +862,8 @@
     "image_file": "cyberpunk-1.png",
     "passed": true,
     "note": "Neon chrome letters with electric glitch in a dark street; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk.jpg"
   },
   "cyberpunk_acid_rain": {
     "attempts": [
@@ -844,7 +883,8 @@
     "image_file": "cyberpunk-acid-rain-1.png",
     "passed": true,
     "note": "Corroded metal letters with toxic green glow; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_acid_rain.jpg"
   },
   "cyberpunk_bio_mech": {
     "attempts": [
@@ -864,7 +904,8 @@
     "image_file": "cyberpunk-bio-mech-1.png",
     "passed": true,
     "note": "Biomechanical bone-and-metal letters in a dark hall; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_bio_mech.jpg"
   },
   "cyberpunk_chrome": {
     "attempts": [
@@ -884,7 +925,8 @@
     "image_file": "cyberpunk-chrome-1.png",
     "passed": true,
     "note": "Liquid chrome letters on a dark reflective floor; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_chrome.jpg"
   },
   "cyberpunk_data_stream": {
     "attempts": [
@@ -904,7 +946,8 @@
     "image_file": "cyberpunk-data-stream-1.png",
     "passed": true,
     "note": "Terminal-green letters inside cascading code rain; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_data_stream.jpg"
   },
   "cyberpunk_electric_neon": {
     "attempts": [
@@ -924,7 +967,8 @@
     "image_file": "cyberpunk-electric-neon-1.png",
     "passed": true,
     "note": "Pink and blue neon tubes on brick; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_electric_neon.jpg"
   },
   "cyberpunk_hologram": {
     "attempts": [
@@ -944,7 +988,8 @@
     "image_file": "cyberpunk-hologram-1.png",
     "passed": true,
     "note": "Translucent cyan hologram letters over a hex grid; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_hologram.jpg"
   },
   "cyberpunk_neon_glitch": {
     "attempts": [
@@ -964,7 +1009,8 @@
     "image_file": "cyberpunk-neon-glitch-1.png",
     "passed": true,
     "note": "RGB-split neon glitch letters over a grid floor; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_neon_glitch.jpg"
   },
   "cyberpunk_synthwave": {
     "attempts": [
@@ -984,7 +1030,8 @@
     "image_file": "cyberpunk-synthwave-1.png",
     "passed": true,
     "note": "Chrome 80s letters over sunset and neon grid; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_synthwave.jpg"
   },
   "cyberpunk_tech_hud": {
     "attempts": [
@@ -1004,7 +1051,8 @@
     "image_file": "cyberpunk-tech-hud-1.png",
     "passed": true,
     "note": "Glowing cyan tech lettering; spelled right. The HUD frame of the preview is mostly missing, so this one is weaker.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_tech_hud.jpg"
   },
   "drip_font": {
     "attempts": [
@@ -1024,7 +1072,8 @@
     "image_file": "drip-font-1.png",
     "passed": true,
     "note": "Glossy paint-drip letters on a graffiti wall; spelled right (blue rather than the preview's red).",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font.jpg"
   },
   "drip_font_blood": {
     "attempts": [
@@ -1044,7 +1093,8 @@
     "image_file": "drip-font-blood-1.png",
     "passed": true,
     "note": "Glossy red dripping letters on black; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font_blood.jpg"
   },
   "drip_font_ice": {
     "attempts": [
@@ -1064,7 +1114,8 @@
     "image_file": "drip-font-ice-1.png",
     "passed": true,
     "note": "Pastel ice-cream drip letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font_ice.jpg"
   },
   "drip_font_melting": {
     "attempts": [
@@ -1084,7 +1135,8 @@
     "image_file": "drip-font-melting-1.png",
     "passed": true,
     "note": "Glowing molten dripping letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font_melting.jpg"
   },
   "duotone": {
     "attempts": [
@@ -1104,7 +1156,8 @@
     "image_file": "duotone-1.png",
     "passed": true,
     "note": "Two-colour red/navy halftone letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/duotone.jpg"
   },
   "elegant_script": {
     "attempts": [
@@ -1124,7 +1177,8 @@
     "image_file": "elegant-script-1.png",
     "passed": true,
     "note": "Gold foil script on black; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/elegant_script.jpg"
   },
   "emboss": {
     "attempts": [
@@ -1144,7 +1198,8 @@
     "image_file": "emboss-1.png",
     "passed": true,
     "note": "Blind-embossed letters on paper; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/emboss.jpg"
   },
   "esports": {
     "attempts": [
@@ -1164,7 +1219,8 @@
     "image_file": "esports-1.png",
     "passed": true,
     "note": "Angled esports title panel with slash bars; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/esports.jpg"
   },
   "fairy_tale": {
     "attempts": [
@@ -1184,7 +1240,8 @@
     "image_file": "fairy-tale-1.png",
     "passed": true,
     "note": "Glowing silver serif in a dark enchanted forest; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/fairy_tale.jpg"
   },
   "family_love": {
     "attempts": [
@@ -1204,7 +1261,8 @@
     "image_file": "family-love-1.png",
     "passed": true,
     "note": "Knitted-yarn letters in a cozy room; two words, spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/family_love.jpg"
   },
   "fire_smoke": {
     "attempts": [
@@ -1224,7 +1282,8 @@
     "image_file": "fire-smoke-1.png",
     "passed": true,
     "note": "Letters made of flame with smoke; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/fire_smoke.jpg"
   },
   "flat_cartoon": {
     "attempts": [
@@ -1244,7 +1303,8 @@
     "image_file": "flat-cartoon-1.png",
     "passed": true,
     "note": "Flat pastel cartoon letters with doodle characters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/flat_cartoon.jpg"
   },
   "floral": {
     "attempts": [
@@ -1293,7 +1353,8 @@
     "image_file": "futuristic-1.png",
     "passed": true,
     "note": "Blue holographic wireframe letters with HUD corners; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/futuristic.jpg"
   },
   "geometric": {
     "attempts": [
@@ -1313,7 +1374,8 @@
     "image_file": "geometric-1.png",
     "passed": true,
     "note": "Primary-colour geometric letters with bars; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/geometric.jpg"
   },
   "glass": {
     "attempts": [
@@ -1333,7 +1395,8 @@
     "image_file": "glass-1.png",
     "passed": true,
     "note": "Clear glass letters on a pale ground; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass.jpg"
   },
   "glass_broken": {
     "attempts": [
@@ -1353,7 +1416,8 @@
     "image_file": "glass-broken-1.png",
     "passed": true,
     "note": "Shattered glass letters with cracks; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_broken.jpg"
   },
   "glass_color": {
     "attempts": [
@@ -1373,7 +1437,8 @@
     "image_file": "glass-color-1.png",
     "passed": true,
     "note": "Coloured stained-glass letters with reflections; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_color.jpg"
   },
   "glass_crystal": {
     "attempts": [
@@ -1393,7 +1458,8 @@
     "image_file": "glass-crystal-1.png",
     "passed": true,
     "note": "Faceted crystal letters with star glints; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_crystal.jpg"
   },
   "glass_frozen": {
     "attempts": [
@@ -1413,7 +1479,8 @@
     "image_file": "glass-frozen-1.png",
     "passed": true,
     "note": "Ice-encased letters with icicles under an aurora; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_frozen.jpg"
   },
   "glass_liquid": {
     "attempts": [
@@ -1433,7 +1500,8 @@
     "image_file": "glass-liquid-1.png",
     "passed": true,
     "note": "Translucent liquid-glass letters on a pastel gradient; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_liquid.jpg"
   },
   "glass_morphism": {
     "attempts": [
@@ -1453,7 +1521,8 @@
     "image_file": "glass-morphism-1.png",
     "passed": true,
     "note": "Frosted glass letters over coloured bokeh; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_morphism.jpg"
   },
   "glitch": {
     "attempts": [
@@ -1473,7 +1542,8 @@
     "image_file": "glitch-1.png",
     "passed": true,
     "note": "Scanline RGB glitch letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/glitch.jpg"
   },
   "gothic_dark": {
     "attempts": [
@@ -1493,7 +1563,8 @@
     "image_file": "gothic-dark-1.png",
     "passed": true,
     "note": "Dark iron blackletter with red glow in a cathedral; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/gothic_dark.jpg"
   },
   "gothic_font": {
     "attempts": [
@@ -1513,7 +1584,8 @@
     "image_file": "gothic-font-1.png",
     "passed": true,
     "note": "Gilded blackletter on a parchment scroll; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/gothic_font.jpg"
   },
   "graffiti": {
     "attempts": [
@@ -1533,7 +1605,8 @@
     "image_file": "graffiti-1.png",
     "passed": true,
     "note": "Wildstyle-adjacent spray graffiti with drips; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/graffiti.jpg"
   },
   "grunge": {
     "attempts": [
@@ -1562,7 +1635,8 @@
     "image_file": "grunge-2.png",
     "passed": true,
     "note": "Attempt 1: main word correct, but the collage adds gibberish pseudo-text. Attempt 2: torn photocopy collage with the word clean and legible; no stray text.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/grunge.jpg"
   },
   "handwritten_script": {
     "attempts": [
@@ -1582,7 +1656,8 @@
     "image_file": "handwritten-script-1.png",
     "passed": true,
     "note": "Ink handwriting on paper with a wax seal; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/handwritten_script.jpg"
   },
   "hawaiian": {
     "attempts": [
@@ -1602,7 +1677,8 @@
     "image_file": "hawaiian-1.png",
     "passed": true,
     "note": "Tiki-style carved letters with leis and torches; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/hawaiian.jpg"
   },
   "holographic": {
     "attempts": [
@@ -1622,7 +1698,8 @@
     "image_file": "holographic-1.png",
     "passed": true,
     "note": "Iridescent foil letters with reflection; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/holographic.jpg"
   },
   "horror": {
     "attempts": [
@@ -1642,7 +1719,8 @@
     "image_file": "horror-1.png",
     "passed": true,
     "note": "Rotting letters with glowing lower edges; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/horror.jpg"
   },
   "ice_crystal": {
     "attempts": [
@@ -1662,7 +1740,8 @@
     "image_file": "ice-crystal-1.png",
     "passed": true,
     "note": "Spiky ice-crystal letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/ice_crystal.jpg"
   },
   "kagemoji": {
     "attempts": [
@@ -1682,7 +1761,8 @@
     "image_file": "kagemoji-1.png",
     "passed": true,
     "note": "Flat letters with a long 45-degree solid shadow; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/kagemoji.jpg"
   },
   "kawaii": {
     "attempts": [
@@ -1702,7 +1782,8 @@
     "image_file": "kawaii-1.png",
     "passed": true,
     "note": "Pastel kawaii window-frame layout with bows and clouds; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/kawaii.jpg"
   },
   "kids_gift": {
     "attempts": [
@@ -1722,7 +1803,8 @@
     "image_file": "kids-gift-1.png",
     "passed": true,
     "note": "Glossy balloon letters with balloons and confetti; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/kids_gift.jpg"
   },
   "laser_cut": {
     "attempts": [
@@ -1742,7 +1824,8 @@
     "image_file": "laser-cut-1.png",
     "passed": true,
     "note": "Laser-cut wooden letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/laser_cut.jpg"
   },
   "luxury_gold": {
     "attempts": [
@@ -1762,7 +1845,8 @@
     "image_file": "luxury-gold-1.png",
     "passed": true,
     "note": "Hammered 3D gold on black; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/luxury_gold.jpg"
   },
   "magic_fantasy": {
     "attempts": [
@@ -1782,7 +1866,8 @@
     "image_file": "magic-fantasy-1.png",
     "passed": true,
     "note": "Glowing arcane title in a candlelit library; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/magic_fantasy.jpg"
   },
   "medieval": {
     "attempts": [
@@ -1802,7 +1887,8 @@
     "image_file": "medieval-1.png",
     "passed": true,
     "note": "Illuminated-manuscript capitals with a knotwork border; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/medieval.jpg"
   },
   "metallic": {
     "attempts": [
@@ -1822,7 +1908,8 @@
     "image_file": "metallic-1.png",
     "passed": true,
     "note": "Brushed-steel 3D letters with reflection; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/metallic.jpg"
   },
   "minimal": {
     "attempts": [
@@ -1842,7 +1929,8 @@
     "image_file": "minimal-1.png",
     "passed": true,
     "note": "Clean thin sans on white with a hairline rule; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/minimal.jpg"
   },
   "mothers_day": {
     "attempts": [
@@ -1871,7 +1959,8 @@
     "image_file": "mothers-day-2.png",
     "passed": true,
     "note": "Attempt 1: rendered 'Happy Mother's Day Day' (word duplicated). Attempt 2: script with roses; all three words, spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/mothers_day.jpg"
   },
   "neon_80s": {
     "attempts": [
@@ -1891,7 +1980,8 @@
     "image_file": "neon-80s-1.png",
     "passed": true,
     "note": "80s neon chrome letters over a grid with palms; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_80s.jpg"
   },
   "neon_outline": {
     "attempts": [
@@ -1911,7 +2001,8 @@
     "image_file": "neon-outline-1.png",
     "passed": true,
     "note": "Thin neon outline letters with reflection; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_outline.jpg"
   },
   "neon_sign": {
     "attempts": [
@@ -1931,7 +2022,8 @@
     "image_file": "neon-sign-1.png",
     "passed": true,
     "note": "Warm neon script sign on brick; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_sign.jpg"
   },
   "nutcracker": {
     "attempts": [
@@ -1951,7 +2043,8 @@
     "image_file": "nutcracker-1.png",
     "passed": true,
     "note": "Theatre stage with nutcracker soldiers and gilded title; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/nutcracker.jpg"
   },
   "origami": {
     "attempts": [
@@ -1971,7 +2064,8 @@
     "image_file": "origami-1.png",
     "passed": true,
     "note": "Folded-paper letters with paper cranes; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/origami.jpg"
   },
   "pink_christmas": {
     "attempts": [
@@ -1991,7 +2085,8 @@
     "image_file": "pink-christmas-1.png",
     "passed": true,
     "note": "Pink satin-ornament scene with the word in pale relief; legible, spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/pink_christmas.jpg"
   },
   "pink_halloween": {
     "attempts": [
@@ -2011,7 +2106,8 @@
     "image_file": "pink-halloween-1.png",
     "passed": true,
     "note": "Pink Halloween frame with ghosts and pumpkins; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/pink_halloween.jpg"
   },
   "pixel_art": {
     "attempts": [
@@ -2031,7 +2127,8 @@
     "image_file": "pixel-art-1.png",
     "passed": true,
     "note": "Pixel letters on a CRT screen; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/pixel_art.jpg"
   },
   "pop_art": {
     "attempts": [
@@ -2051,7 +2148,8 @@
     "image_file": "pop-art-1.png",
     "passed": true,
     "note": "Ben-Day dot letters on a starburst with black outlines; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/pop_art.jpg"
   },
   "post_apocalyptic": {
     "attempts": [
@@ -2071,7 +2169,8 @@
     "image_file": "post-apocalyptic-1.png",
     "passed": true,
     "note": "Cracked charred letters with ember glow; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/post_apocalyptic.jpg"
   },
   "preppy_christmas": {
     "attempts": [
@@ -2091,7 +2190,8 @@
     "image_file": "preppy-christmas-1.png",
     "passed": true,
     "note": "Tartan-framed card with bows; spelled right (letters are plain serif, not tartan-filled like the preview).",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/preppy_christmas.jpg"
   },
   "racing": {
     "attempts": [
@@ -2111,7 +2211,8 @@
     "image_file": "racing-1.png",
     "passed": true,
     "note": "Forward-leaning italic with speed streaks; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/racing.jpg"
   },
   "rainbow": {
     "attempts": [
@@ -2131,7 +2232,8 @@
     "image_file": "rainbow-1.png",
     "passed": true,
     "note": "Rainbow-striped letters with confetti; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/rainbow.jpg"
   },
   "retro_pop": {
     "attempts": [
@@ -2151,7 +2253,8 @@
     "image_file": "retro-pop-1.png",
     "passed": true,
     "note": "Mid-century pop letters with halftone and starburst; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/retro_pop.jpg"
   },
   "romantic_her": {
     "attempts": [
@@ -2171,7 +2274,8 @@
     "image_file": "romantic-her-1.png",
     "passed": true,
     "note": "Rose-gold script among roses; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/romantic_her.jpg"
   },
   "romantic_him": {
     "attempts": [
@@ -2220,7 +2324,8 @@
     "image_file": "sand-stone-1.png",
     "passed": true,
     "note": "Letters carved into a sandstone cliff; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/sand_stone.jpg"
   },
   "spooky_halloween": {
     "attempts": [
@@ -2240,7 +2345,8 @@
     "image_file": "spooky-halloween-1.png",
     "passed": true,
     "note": "Halloween night scene with full moon and haunted house; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/spooky_halloween.jpg"
   },
   "sports": {
     "attempts": [
@@ -2260,7 +2366,8 @@
     "image_file": "sports-1.png",
     "passed": true,
     "note": "Chrome athletic italic under stadium lights; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/sports.jpg"
   },
   "sports_football": {
     "attempts": [
@@ -2280,7 +2387,8 @@
     "image_file": "sports-football-1.png",
     "passed": true,
     "note": "Stadium title with floodlights and confetti; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/sports_football.jpg"
   },
   "spring_holiday": {
     "attempts": [
@@ -2329,7 +2437,8 @@
     "image_file": "steampunk-1.png",
     "passed": true,
     "note": "Brass-and-pipe letters in a workshop with filament bulbs; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/steampunk.jpg"
   },
   "stencil": {
     "attempts": [
@@ -2349,7 +2458,8 @@
     "image_file": "stencil-1.png",
     "passed": true,
     "note": "Spray-stencilled letters on concrete; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/stencil.jpg"
   },
   "superhero": {
     "attempts": [
@@ -2369,7 +2479,8 @@
     "image_file": "superhero-1.png",
     "passed": true,
     "note": "Red/blue/gold 3D letters bursting from an explosion; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/superhero.jpg"
   },
   "synthwave": {
     "attempts": [
@@ -2389,7 +2500,8 @@
     "image_file": "synthwave-1.png",
     "passed": true,
     "note": "Chrome gradient title over a neon grid and sun; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/synthwave.jpg"
   },
   "tattoo": {
     "attempts": [
@@ -2409,7 +2521,8 @@
     "image_file": "tattoo-1.png",
     "passed": true,
     "note": "Fresh black tattoo lettering on an arm; spelled right (plainer script than the preview).",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/tattoo.jpg"
   },
   "teachers_day": {
     "attempts": [
@@ -2429,7 +2542,8 @@
     "image_file": "teachers-day-1.png",
     "passed": true,
     "note": "Friendly handwritten thank-you on a warm desk scene; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/teachers_day.jpg"
   },
   "typewriter": {
     "attempts": [
@@ -2449,7 +2563,8 @@
     "image_file": "typewriter-1.png",
     "passed": true,
     "note": "Typewriter-struck letters on aged paper; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/typewriter.jpg"
   },
   "vaporwave": {
     "attempts": [
@@ -2469,7 +2584,8 @@
     "image_file": "vaporwave-1.png",
     "passed": true,
     "note": "Pastel vaporwave scene with bust, palms and checkerboard; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/vaporwave.jpg"
   },
   "viking": {
     "attempts": [
@@ -2489,7 +2605,8 @@
     "image_file": "viking-1.png",
     "passed": true,
     "note": "Heavy weathered stone/iron letters in a battlefield; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/viking.jpg"
   },
   "viking_runic": {
     "attempts": [
@@ -2509,7 +2626,8 @@
     "image_file": "viking-runic-1.png",
     "passed": true,
     "note": "Angular rune-like carved letters on slate; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/viking_runic.jpg"
   },
   "vintage": {
     "attempts": [
@@ -2529,7 +2647,8 @@
     "image_file": "vintage-1.png",
     "passed": true,
     "note": "Letterpress-style letters on aged paper; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/vintage.jpg"
   },
   "vintage_christmas": {
     "attempts": [
@@ -2578,7 +2697,8 @@
     "image_file": "vintage-halloween-1.png",
     "passed": true,
     "note": "Vintage Halloween card with banner, cat and pumpkin; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/vintage_halloween.jpg"
   },
   "watercolor": {
     "attempts": [
@@ -2598,7 +2718,8 @@
     "image_file": "watercolor-1.png",
     "passed": true,
     "note": "Watercolour letters on paper; two words, spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/watercolor.jpg"
   },
   "watercolor_christmas": {
     "attempts": [
@@ -2618,7 +2739,8 @@
     "image_file": "watercolor-christmas-1.png",
     "passed": true,
     "note": "Watercolour letters above a snowy village; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/watercolor_christmas.jpg"
   },
   "wedding": {
     "attempts": [
@@ -2638,7 +2760,8 @@
     "image_file": "wedding-1.png",
     "passed": true,
     "note": "Gold foil letters on deckled card with roses; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/wedding.jpg"
   },
   "western": {
     "attempts": [
@@ -2658,7 +2781,8 @@
     "image_file": "western-1.png",
     "passed": true,
     "note": "Carved wooden saloon sign; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/western.jpg"
   },
   "y2k": {
     "attempts": [
@@ -2678,7 +2802,8 @@
     "image_file": "y2k-1.png",
     "passed": true,
     "note": "Iridescent foil-balloon letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k.jpg"
   },
   "y2k_bubbly": {
     "attempts": [
@@ -2698,7 +2823,8 @@
     "image_file": "y2k-bubbly-1.png",
     "passed": true,
     "note": "Puffy pink balloon letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_bubbly.jpg"
   },
   "y2k_chrome": {
     "attempts": [
@@ -2718,7 +2844,8 @@
     "image_file": "y2k-chrome-1.png",
     "passed": true,
     "note": "Holographic chrome letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_chrome.jpg"
   },
   "y2k_holographic": {
     "attempts": [
@@ -2738,7 +2865,8 @@
     "image_file": "y2k-holographic-1.png",
     "passed": true,
     "note": "Holographic glossy letters with sparkles; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_holographic.jpg"
   },
   "y2k_liquid": {
     "attempts": [
@@ -2758,6 +2886,7 @@
     "image_file": "y2k-liquid-1.png",
     "passed": true,
     "note": "Liquid chrome dripping letters; spelled right.",
-    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview",
+    "image_url": "https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_liquid.jpg"
   }
 }

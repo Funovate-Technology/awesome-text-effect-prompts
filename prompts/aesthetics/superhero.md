@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "HERO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/superhero.jpg"
   passed: true
   note: "Red/blue/gold 3D letters bursting from an explosion; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters dominate the frame in a dynamic low-angle heroic view, powering forward toward the viewer with bold, dimensional presence. Each letter is finished in a vibrant comic-inspired palette of bold red, deep blue, and gleaming chrome metallic with radiant gold highlights. An explosive burst of energy erupts directly behind {{TEXT}}, sending sharp comic-book speed lines radiating outward across a charged, dramatic sky filled with flying sparks, streaks of light, and kinetic debris. Rich atmospheric haze and saturated beams in red, blue, and gold illuminate the dark backdrop. A single strong directional key light produces crisp specular reflections and intense contrast across the glossy surfaces, ensuring the composition feels frozen mid-action with high saturation and maximum kinetic power.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "HERO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "HERO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/superhero.jpg)
 
 ## Examples made on FontVibe
 

@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "FLOW"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_liquid.jpg"
   passed: true
   note: "Translucent liquid-glass letters on a pastel gradient; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are sculpted as solid, three-dimensional volumetric glass forms with smooth, organic curvature and a glossy wet surface finish. Intense white specular highlights trace the peaks of curvature across each letter form. The material is semi-transparent with a clear-to-blue-teal gradient, displaying a faint blue-green tint along the shallow perimeter edges and rich refractive depth through the thicker central volumes. Internal caustic light patterns scatter throughout the transparent glass body, completely free of drips, running fluid, or hanging liquid droplets. Centered in the frame and filling approximately 75% of the width, the lettering is illuminated by soft overhead diffused key lighting that creates bright specular crowns atop the forms and casts subtle, soft shadows beneath. The backdrop is a clean, airy studio gradient blending from pale lavender to ice blue, enhancing the transparency, internal refraction, and luminous glass depth.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "FLOW" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "FLOW", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_liquid.jpg)
 
 ## Examples made on FontVibe
 

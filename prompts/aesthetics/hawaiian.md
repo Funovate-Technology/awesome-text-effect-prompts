@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "ALOHA"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/hawaiian.jpg"
   passed: true
   note: "Tiki-style carved letters with leis and torches; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character, ensuring it is the only legible text in the image. The letters are crafted from deep aged mahogany wood with natural bamboo grain running horizontally across their surfaces, showing shallow relief grooves that evoke hand-carved island woodwork. Warm overhead light blazes down, casting brilliant golden highlights across the raised bamboo ridges and dropping deep amber shadows into the carved recesses, while a vibrant coral orange rim light catches every groove from the side. Set in a tropical nightfall tiki bar, the composition places {{TEXT}} prominently centered against a dark bamboo-paneled and weathered wood plank wall draped with fresh plumeria flower garlands. Flickering tiki torches and coconut shell sconces frame the perimeter, casting warm amber and flickering orange pools of light onto the scene edges. Broad palm fronds and bright hibiscus blossoms frame the background environment, with fallen tropical blossoms scattered across the ground in soft focus under a lush, celebratory island atmosphere.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "ALOHA" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "ALOHA", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/hawaiian.jpg)
 
 ## Examples made on FontVibe
 

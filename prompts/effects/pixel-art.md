@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "PIXEL"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/pixel_art.jpg"
   passed: true
   note: "Pixel letters on a CRT screen; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The typography is constructed entirely from vibrant, colored square pixel cells set within a curved CRT arcade monitor screen. Every character adheres strictly to a uniform retro pixel grid with zero anti-aliasing, ensuring crisp, distinct geometric edges and edge-to-edge clarity. Phosphor bloom radiates from the letters, casting soft glowing halos around the pixel clusters. A distinct horizontal scan-line grid stretches across the entire frame, accompanied by gentle barrel distortion and corner vignetting that deepens into near-black at the edges. The letters serve as the primary luminous element, illuminating the jet-black screen glass while the outer borders fade into darkness. The text is anchored at the vertical center and spans broadly across the display, completely unobstructed by foreground elements, making "{{TEXT}}" the sole legible text in the entire composition.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "PIXEL" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "PIXEL", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/pixel_art.jpg)
 
 ## Examples made on FontVibe
 

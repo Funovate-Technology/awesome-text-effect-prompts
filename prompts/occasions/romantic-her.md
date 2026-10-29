@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "FOR YOU"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/romantic_her.jpg"
   passed: true
   note: "Rose-gold script among roses; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of "{{TEXT}}" appear in graceful, flowing script with a delicate rose-gold metallic finish, carrying a soft satin sheen and subtle shimmer highlights that catch the light gently without looking heavy or harsh. The text rests amidst a soft, romantic setting framed by scattered blush rose petals and gentle peony and ranunculus blooms. The surrounding environment glows with a dreamy, warm bokeh glow and delicate specks of fine sparkle, evoking the tender sentiment of an intimate love letter. The palette is soft, warm, and distinctly feminine, composed of blush pink, rose, gentle coral, warm champagne, and creamy ivory accents balanced with the gleaming rose-gold of the lettering. Soft, diffused lighting illuminates the scene, casting gentle shadows and highlighting the tender textures of the flower petals and the quiet brilliance of the metallic surface.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "FOR YOU" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "FOR YOU", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/romantic_her.jpg)
 
 ## Examples made on FontVibe
 

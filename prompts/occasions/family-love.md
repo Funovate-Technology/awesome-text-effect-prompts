@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "WITH LOVE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/family_love.jpg"
   passed: true
   note: "Knitted-yarn letters in a cozy room; two words, spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering appears in warm, sincere hand-written forms featuring a cozy knit or tactile fabric texture, with soft honey-golden light gently emanating from the letter edges. Set within a snug, tender home atmosphere, the scene evokes a cherished family keepsake, surrounded by soft woven blankets and the gentle, comforting glow of a nearby fireside or warm window light. The color palette is deeply comforting and heartfelt, blending rich honey gold, soft cream, warm terracotta, dusty rose, and gentle warm brown tones, entirely free of harsh or cold lighting. The composition radiates intimacy, sincerity, and domestic warmth, keeping {{TEXT}} as the clear, glowing focal point resting amidst the soft, plush textures.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "WITH LOVE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "WITH LOVE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/family_love.jpg)
 
 ## Examples made on FontVibe
 

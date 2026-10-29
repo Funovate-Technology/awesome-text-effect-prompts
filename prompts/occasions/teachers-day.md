@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Thank You"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/teachers_day.jpg"
   passed: true
   note: "Friendly handwritten thank-you on a warm desk scene; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is rendered in a rich, warm hand-lettered ink or marker finish using a deep tone for strong, clear contrast. Positioned in the open middle of the composition with generous breathing room, {{TEXT}} forms the primary focal point of the scene. The palette is generously saturated and warm, featuring cheerful touches of sunny yellow, blush pink, sky blue, apple red, and leaf green set against a warm apricot surface and a pale oat-cream background catching soft natural window light. Complementary desk objects flank the text and sit behind it, resting on the surface with natural soft contact shadows rather than flat graphics. A shallow depth of field keeps the foreground and lettering crisply defined while gently softening the edges of the background arrangement. The words {{TEXT}} must remain the sole readable text in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Thank You" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Thank You", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/teachers_day.jpg)
 
 ## Examples made on FontVibe
 

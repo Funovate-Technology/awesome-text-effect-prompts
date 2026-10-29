@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "RONIN"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_japanese_ink.jpg"
   passed: true
   note: "Ink on washi; legible and spelled right, though strokes are thinner than the preview."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letterforms of {{TEXT}} are rendered in the visual language of Japanese sumi brush calligraphy, utilizing ink pigment that ranges from deep opaque black at the mark centers to soft charcoal and dilute transparent grey near the edges. Fully matte and deeply absorbed into the surface, the strokes display the characteristic soft, natural bleeding border quality of East Asian ink work. The letters rest centered on an authentic washi paper surface, featuring a warm cream-white tone with delicate visible fibers and paper texture. The entire scene is illuminated by soft, diffuse, north-facing studio light from above, completely even and shadowless, allowing the rich tonal gradation of the ink to stand out distinctly. The composition honors generous open space around and between the characters, creating a quiet, deliberate, and meditative atmosphere with ample breathing room.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "RONIN" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "RONIN", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_japanese_ink.jpg)
 
 ## Examples made on FontVibe
 

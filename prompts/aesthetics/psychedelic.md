@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "PSYCH"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/psychedelic.jpg"
   passed: true
   note: "Attempt 1: letters dissolve into the background pattern; hard to read. Attempt 2: melting rainbow letters on concentric op-art waves; legible, spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text sits large and dominant in the center of the frame, rendered in glossy candy-gloss with a soft wet melting quality, drips sliding from its lower edges, and surfaces filled with vibrating rainbow color. The composition captures the aesthetic of a 1960s psychedelic concert poster under flat, even, high-key illumination that hums like a backlit print. Maximum-saturation complementary color pairs clash edge to edge—hot magenta against acid green, electric orange against cobalt blue, and cadmium yellow against violet—creating a buzzing simultaneous-contrast vibration along every flat, hard-edged, screenprint-clean boundary. Radiating outward from behind the letters to every edge is a symmetrical, hypnotic, kaleidoscopic field of concentric rainbow waves, spirals, and op-art ripples. Groovy flower-power daisies and paisley accents drift in the corners, completing an immersive visual field where {{TEXT}} is the only legible text.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "PSYCH" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "PSYCH", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/psychedelic.jpg)
 
 ## Examples made on FontVibe
 

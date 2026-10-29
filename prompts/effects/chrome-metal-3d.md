@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CHROME"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/chrome_metal_3d.jpg"
   passed: true
   note: "Mirror-chrome bevelled 3D letters; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are rendered as bold three-dimensional extruded forms with polished chrome metal surfaces and sharp beveled edges. The metallic material features cool blue-gray midtones contrasted with near-black cold shadow zones, embodying cold industrial precision. Ultra-sharp razor-thin white specular highlight lines run along all curved contours and beveled surfaces, capturing intense reflections across the mirror-clean finish. A subtle electric-blue rim light crisply traces the outer silhouette of the typography. The letters reflect their surroundings with striking high contrast, creating a clean mirror-finish chrome aesthetic. Set against a pure black background with subtle dark atmospheric depth, the reflective chrome forms stand isolated, with {{TEXT}} being the only visible and legible text in the entire composition.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CHROME" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CHROME", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/chrome_metal_3d.jpg)
 
 ## Examples made on FontVibe
 

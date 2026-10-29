@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CUTE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/kawaii.jpg"
   passed: true
   note: "Pastel kawaii window-frame layout with bows and clouds; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words {{TEXT}} are displayed prominently as the sole legible text inside a soft, rounded retro computer application window featuring a delicate top title bar with three tiny dot buttons and a slim bar beneath. The letterforms are rendered in gentle pastel tones with faint, soft shadows. The composition is arranged as an airy digital screen overlay on a pale cream background patterned with a subtle grid-paper texture. Sweet decorative elements are scattered around the frame, including tiny puffy clouds, delicate ribbon bows, four-point sparkles, pastel hearts, and an adjacent rounded display panel finished with lace-scalloped edges. The scene is bathed in bright, soft, even daylight with a gentle luminous bloom on the highlights and faint, tender shadows. The color palette centers on soft baby pink and sky blue accents across cream, leaving generous breathing space without any dark shadows or harsh neon tones.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CUTE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CUTE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/kawaii.jpg)
 
 ## Examples made on FontVibe
 

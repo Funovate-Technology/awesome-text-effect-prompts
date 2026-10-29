@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "INK"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_chinese_ink.jpg"
   passed: true
   note: "Black ink brush on rice paper with splatter; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. Make "{{TEXT}}" the only legible text in the image. The lettering is rendered in authentic Chinese ink brush calligraphy style, executed with a fully loaded sumi ink brush on aged cream rice paper featuring subtle washi fiber textures. The letters are composed of deep, rich black ink with genuine density variations, featuring thick black cores that naturally fade to watery grey across thinner passages. Wet ink visibly pools where the strokes begin, while feathered dry-brush textures trail off at the stroke endings. Fine bristle marks appear along the stroke contours, with the ink bleeding faintly into the porous paper fibers to form a soft, organic halo around the characters. Each stroke displays confident, intentional calligraphy energy. The scene is illuminated by soft, diffused natural light from above, producing a quiet, contemplative atmosphere across the textured paper surface.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "INK" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "INK", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_chinese_ink.jpg)
 
 ## Examples made on FontVibe
 

@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Modern"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_modern.jpg"
   passed: true
   note: "Bold brush script on warm paper; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is rendered in bold, contemporary hand-drawn brush script, appearing as though laid down with a fully loaded ink brush. The surface of the strokes features rich, saturated ink that is predominantly matte with a delicate fresh-ink sheen, accented by subtle brushed streaks and a hint of dry-brush texture where the strokes lift and trail off. Deep black or a single confident, bold tone defines the fluid letterforms, giving them an energetic and handcrafted appearance. The word sits prominently centered on a clean, modern studio backdrop in a soft neutral tone, surrounded by generous negative space. Illumination is provided by bright, even, contemporary studio lighting with minimal drama, making the sharp edges and rich texture of the brushwork pop against the smooth ground. The overall composition feels crisp, commercial, and confident, reminiscent of modern brand identity design, packaging, and clean apparel graphics.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Modern" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Modern", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_modern.jpg)
 
 ## Examples made on FontVibe
 

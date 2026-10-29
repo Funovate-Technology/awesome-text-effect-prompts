@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CHROME"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_chrome.jpg"
   passed: true
   note: "Liquid chrome letters on a dark reflective floor; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is sculpted in a liquid chrome metal style, featuring a mirror-finish surface that looks like polished liquid mercury frozen in place. The forms display hyper-reflective exterior surfaces catching subtle environmental reflections, paired with sharp, brilliant specular highlights tracking crisply along the letter contours and bevels. A cool steel blue-silver color palette defines the metal, punctuated by deep, dramatic shadow contrast along the undersides and recesses. The letters stand against a clean, minimal dark studio background with a subtle floor reflection shimmering beneath them. A single overhead key light illuminates the entire composition from above, generating dramatic, focused specular highlights across the fluid metallic curvatures while maintaining a sleek, restrained atmosphere.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CHROME" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CHROME", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_chrome.jpg)
 
 ## Examples made on FontVibe
 

@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "GEM"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_crystal.jpg"
   passed: true
   note: "Faceted crystal letters with star glints; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are carved from flawless, optically pure gemstone crystal, with each letterform cut into precision faceted geometry following brilliant-cut and emerald-cut diamond principles. Every facet plane is distinctly defined, featuring crisp table facets, crown facets, girdle edges, and pavilion facets. The crystalline material exhibits dazzling optical properties: intense white light brilliance, deep scintillation with extreme facet contrast, and rainbow spectral fire dispersion. Internal caustic light corridors glow from deep within each character, while sharp six-point sparkle flares emanate from letter apexes and prominent crown facet junctions. The letters float suspended against a deep navy-to-midnight-black gradient background reminiscent of a dark jeweler's velvet display. A single hard overhead pinpoint spotlight illuminates the scene, turning top table facets near-white and brilliant while deepening lower pavilion facets into rich blue-violet shadows. Precise prismatic rainbow beams radiate outward from the crown facets across the surrounding dark space.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "GEM" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "GEM", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_crystal.jpg)
 
 ## Examples made on FontVibe
 

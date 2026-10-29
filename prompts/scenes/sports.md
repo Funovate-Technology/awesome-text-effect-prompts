@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CHAMPION"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/sports.jpg"
   passed: true
   note: "Chrome athletic italic under stadium lights; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character, positioned centrally in the frame. The letterforms display a tactile screen-printing ink texture with fine halftone grain across the ink surfaces and a subtle edge bleed along the borders, combined with polished chrome metallic facets. A strong side rim light shines from the upper-left, casting a sharp, bright outline across the letter contours with deep contrast shadows on the opposite side, while crisp lens flares glint off the metallic edges. Powerful stadium floodlights cut down through arena darkness, illuminating a faint atmospheric particle haze suspended in the floodlit air. Subtle kinetic speed lines radiate outward from behind {{TEXT}}, conveying intense forward momentum. The entire scene is anchored against a deep broadcast-black background, with a soft athletic field turf texture fading into the dark base of the composition.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CHAMPION" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CHAMPION", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/sports.jpg)
 
 ## Examples made on FontVibe
 

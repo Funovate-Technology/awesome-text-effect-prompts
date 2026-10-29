@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CHROME"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_chrome.jpg"
   passed: true
   note: "Holographic chrome letters; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters have a hyper-reflective, mirror-polished chrome surface with zero surface roughness, capturing an extreme specular quality reminiscent of electroplated metallic styling. Vivid prismatic color-map distortions warp across the convex mirror surfaces, displaying high-saturation color zones of vivid magenta, deep cobalt blue, acid green, and molten orange. Razor-sharp boundaries separate each hue band, bordered by prismatic spectral splitting that produces ultra-thin rainbow fringes. Dominant white specular flares gleam intensely at peak convex points across the characters. The scene is set against a soft silver-white studio gradient background, illuminated by diffused multi-color ambient light arriving from multiple directions: warm pink from the left, electric blue from the right, and subtle mint from beneath. These colored glows flood the chrome surface with brilliant chromatic reflections, anchored by a single key light from above that forms a dominant pool of white highlight, creating a crisp and luminous millennium aesthetic.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CHROME" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CHROME", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_chrome.jpg)
 
 ## Examples made on FontVibe
 

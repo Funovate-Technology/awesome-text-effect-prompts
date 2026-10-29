@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "BOO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/pink_halloween.jpg"
   passed: true
   note: "Pink Halloween frame with ghosts and pumpkins; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words {{TEXT}} are the central focus, styled in contrasting black with soft pink accents, sitting cleanly in the middle of a framed wall-art composition. The surrounding graphic language is sweet and cute rather than scary, featuring pastel pink pumpkins dusted with subtle glitter, friendly little white ghosts wearing satin pink bows, delicate cobwebs, tiny black bats, wrapped candies, and small floating hearts gathered around the edges and corners to frame the lettering. The overall colour palette is defined by a soft blush and bubblegum pink background, offset by crisp black details and delicate touches of lilac and white, completely avoiding traditional orange. The aesthetic is a soft matte flat illustration with gentle satin sheens on ribbons and bows, illuminated by soft, even lighting casting only faint shadows and accompanied by a tender pink glow.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "BOO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "BOO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/pink_halloween.jpg)
 
 ## Examples made on FontVibe
 

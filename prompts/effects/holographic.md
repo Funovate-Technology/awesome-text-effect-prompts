@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "HOLO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/holographic.jpg"
   passed: true
   note: "Iridescent foil letters with reflection; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are rendered with an iridescent holographic foil effect, featuring a multi-layer diffractive film surface that produces rainbow spectral shifts across the letter faces. Colors cycle through deep violet, electric cyan, hot pink, and warm gold through structural interference, blooming and fading under a directional overhead light source. Semi-transparent depth is visible through the letterforms, allowing the background to bleed through with slight chromatic distortion. The entire surface carries a fine diffraction grating micro-texture. Along all outer edges, a rainbow chromatic fringe dissolves outward into scattered prismatic light particles, softening the hard boundaries of each character. The composition is centered on a pure black background dotted with subtle prismatic scattered light spots from the diffractive scatter. The letters rest on a mirror-like reflective base plane that catches and mirrors the forms with rich iridescent color bleed.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "HOLO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "HOLO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/holographic.jpg)
 
 ## Examples made on FontVibe
 

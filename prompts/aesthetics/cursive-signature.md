@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Signature"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_signature.jpg"
   passed: true
   note: "Signature-style ink script on white; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is captured as an authentic hand-signed autograph, laid down in one confident pass as a real pen signature. The line work displays a fine matte pen-ink line with natural fountain-pen texture in a rich, dark blue-black ink. The stroke shows subtle ink pooling where curves turn and faint, natural pen-skips where the nib momentarily lifts from the surface, completely free of gloss, metallic reflections, or artificial embellishments. The name sits large and centered with generous negative space across a plain, crisp white document card stock with an understated, tactile paper surface. The scene is illuminated by soft, even daylight resembling gentle desk light, casting no dramatic shadows and keeping the writing flat, crisp, and fully legible. The overall atmosphere feels personal, confident, and genuine, capturing the authentic mark of an everyday handwritten signature.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Signature" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Signature", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_signature.jpg)
 
 ## Examples made on FontVibe
 

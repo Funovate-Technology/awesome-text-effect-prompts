@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "ANIME"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/anime.jpg"
   passed: true
   note: "Inked cel-shaded title over radial speed lines; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are styled as bold, kinetic manga title lettering with dynamic hand-inked construction. Each letterform is defined by a thick black brush-ink outline with natural weight variations, encasing a crisp, flat cel-shaded fill. The coloration across the letters is divided into three distinct knife-edge zones with zero gradient blur: a bright highlight zone along the top edges, a vibrant and highly saturated primary color across the center, and a deep, solid shadow zone grounding the lower portions. The entire letter cluster is framed against a stark, pure white background filled with dense radial black ink speed lines exploding dramatically outward from a central burst point directly behind the text. Sharp graphic star-burst impact marks and angular emphasis symbols are scattered around the words, capturing the energetic high-contrast visual punch of a magazine action chapter title page.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "ANIME" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "ANIME", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/anime.jpg)
 
 ## Examples made on FontVibe
 

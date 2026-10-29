@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "GLASS"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass.jpg"
   passed: true
   note: "Clear glass letters on a pale ground; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are sculpted from high-clarity optical glass, cast from pure transparent glass with intense light refraction transmitting through the entire material body. Sharp specular highlights trace along the letter edges wherever the glass thickness transitions. A subtle organic surface tension lends the letterforms a gently liquid-pulled quality at the curves and terminals, revealing deep internal optical depth within the solid glass. The material is purely transparent with no frosting, no opacity, and no color tinting. The scene is set in a clean, modern, airy studio against a soft pastel gradient background shifting smoothly from lavender to pale blue. Brilliant caustic light patterns project and pool onto the smooth surface directly beneath each letter, complemented by gentle ambient reflections that create a luminous, light, and weightless atmosphere. Ensure {{TEXT}} remains the central focal point and the sole readable text.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "GLASS" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "GLASS", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/glass.jpg)
 
 ## Examples made on FontVibe
 

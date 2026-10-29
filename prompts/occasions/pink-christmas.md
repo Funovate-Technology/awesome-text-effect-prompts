@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "MERRY"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/pink_christmas.jpg"
   passed: true
   note: "Pink satin-ornament scene with the word in pale relief; legible, spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are displayed cleanly in a calm, open central space, surrounded by a festive arrangement of pink holiday decorations gathered along the edges and corners. The decorative elements feature glossy pink baubles, frosted pink tree branches, smooth satin ribbon bows, delicate snowflakes, miniature wrapped gifts, and glowing candles. The lighting provides a warm, soft glow reminiscent of fairy lights and candlelight, creating gentle shadows and subtle bokeh sparkles across the background. The color palette centers on blush and bubblegum pink, accented with shimmering rose gold, pearly white, and tiny touches of deep raspberry, entirely avoiding traditional red and green. Surfaces mix smooth satin ribbon, high-gloss ornament finishes, and a delicate dusting of fine glitter and soft snow for a modern, cozy celebration aesthetic.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "MERRY" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "MERRY", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/pink_christmas.jpg)
 
 ## Examples made on FontVibe
 

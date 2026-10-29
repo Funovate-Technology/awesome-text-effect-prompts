@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "GEO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/geometric.jpg"
   passed: true
   note: "Primary-colour geometric letters with bars; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are centered, filling seventy-eight percent of the frame width, viewed from a head-on angle with zero perspective tilt against a pure, flat black architectural void with no visible floor and no horizon. Each letterform is rendered in a flat matte acrylic paint finish with zero sheen, cycling across a primary palette of signal red, cobalt blue, cadmium yellow, and flat black. The letterforms have a hard forty-five-degree isometric extrusion with pure-black side walls extending twenty-five percent of the letter height, defined by razor-sharp machined edges between the color face and extrusion. Flat geometric primary-color planes and compositional color bars in solid red, blue, and yellow appear alongside the letterforms with rigid grid precision. Overhead cold-white directional lighting produces ruler-sharp geometric shadow edges below all forms, with zero ambient scatter, no depth haze, and no surface gradients.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "GEO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "GEO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/geometric.jpg)
 
 ## Examples made on FontVibe
 

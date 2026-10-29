@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "ODIN"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/viking_runic.jpg"
   passed: true
   note: "Angular rune-like carved letters on slate; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are styled with Elder Futhark runic aesthetics, constructed entirely from straight segments at horizontal, vertical, and 45-degree diagonal angles, featuring no curves anywhere. This angular geometry mimics the look of carving into hard stone with a straight blade, showing tall, narrow proportions, a strong vertical emphasis, and sharp pointed terminals where individual strokes meet. Each stroke presents a flat, angular face, with alternating illuminated and shadowed facets across the word that produce the distinct highlight pattern of hand-carved masonry. The lettering is set upon a flat, dark slate surface and illuminated by cold directional light cast from the upper left, throwing clean, sharp shadows into the cuts and across the stone. The composition is minimal, framed against a pure black background to emphasize the stark, powerfully ancient geometry.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "ODIN" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "ODIN", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/viking_runic.jpg)
 
 ## Examples made on FontVibe
 

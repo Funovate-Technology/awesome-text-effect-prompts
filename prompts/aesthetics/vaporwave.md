@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "WAVE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/vaporwave.jpg"
   passed: true
   note: "Pastel vaporwave scene with bust, palms and checkerboard; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text sits large and dominant in the center, rendered in a soft pink-to-cyan vaporwave gradient with a gentle luminous bloom and faint drifting scanlines across its surface. Make {{TEXT}} the only legible text in the entire image. The lettering is placed within a nostalgic 1990s dreamscape illuminated by the soft glow of an early CRT screen. An early-3D perspective checkerboard grid recedes toward a gentle pastel horizon beneath a serene sunset sky. A classical marble bust rests quietly to one side, complemented by dark palm silhouettes along the edges. The entire composition is bathed in a dreamy, low-saturation pastel palette of cotton-candy pink, soft cyan-teal, and lilac-purple. A subtle analog VHS texture blankets the scene, complete with horizontal scanlines, delicate tracking lines, hazy diffusion, and magenta-cyan chromatic aberration edge bleed, evoking a calm, atmospheric retro aesthetic.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "WAVE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "WAVE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/vaporwave.jpg)
 
 ## Examples made on FontVibe
 

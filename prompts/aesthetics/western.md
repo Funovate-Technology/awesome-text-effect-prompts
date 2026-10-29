@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "WESTERN"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/western.jpg"
   passed: true
   note: "Carved wooden saloon sign; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters of {{TEXT}} are styled in bold western slab forms, deeply carved and hand-painted onto a sun-bleached, weathered timber plank. Visible wood grain, rough chisel marks, and chipped, faded barn-red and sun-bleached cream paint give the lettering an authentic aged surface. The rustic wooden board is set against a dusty 19th-century frontier saloon porch bathed in warm desert golden-hour light, with soft dust motes suspended in the air. A softly blurred background features ranch timber, a weathered horseshoe, and a coiled length of rough rope, emphasizing a rugged Wild West frontier mood. The color palette relies strictly on dusty, warm earth tones, including weathered ochre, leather brown, sandy tan, and charcoal wear, remaining completely matte, tactile, and free of any gloss or modern elements. Ensure {{TEXT}} is the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "WESTERN" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "WESTERN", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/western.jpg)
 
 ## Examples made on FontVibe
 

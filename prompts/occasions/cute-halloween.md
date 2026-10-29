@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "BOO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cute_halloween.jpg"
   passed: true
   note: "Chubby cartoon letters with ghosts, pumpkins and bats; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are rendered with smooth flat fills and thick, soft rounded outlines using a cheerful palette of pumpkin orange, deep black, and soft lilac. The words are set against a calm, pale cream background with a faint hand-drawn paper grain and plenty of open negative space. Scattered around the text like charming die-cut stickers with neat white borders are round chubby little ghosts, smiling jack-o-lanterns, a sleepy curled-up black cat, candy corn, wrapped sweets, tiny bats, stars, and a soft crescent moon. Each little character features minimalist dot eyes and rosy pink blush cheeks. The entire composition is lit with soft, even, flat lighting free of dramatic shadows, keeping the atmosphere bright, sweet, and gentle.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "BOO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "BOO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cute_halloween.jpg)
 
 ## Examples made on FontVibe
 

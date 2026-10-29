@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "FROZEN"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/ice_crystal.jpg"
   passed: true
   note: "Spiky ice-crystal letters; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is formed entirely from clear crystalline ice with delicate frost feathering like frozen fern leaves spreading outward from the edges. The letters have a glassy frozen surface that is transparent and naturally refracts light, embedded with tiny suspended ice particles. Set the piece in a cold winter atmosphere filled with drifting frost and fine snow dust. Illuminate the text with a dramatic icy blue backlight and crisp rim lighting that catches and defines the sharp crystal facets. The color palette is strictly cool, luminous, and never warm, dominated by ice blue, cyan, frost white, and pale teal with bright, gleaming highlights.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "FROZEN" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "FROZEN", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/ice_crystal.jpg)
 
 ## Examples made on FontVibe
 

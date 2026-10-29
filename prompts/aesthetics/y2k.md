@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Y2K"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k.jpg"
   passed: true
   note: "Iridescent foil-balloon letters; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is rendered with soft inflated bubble volume and glossy liquid chrome surfaces, showing smooth pillowy contours and electroplated silver shine. Prismatic color shifts sweep across the mirrored faces, blending iridescent holographic foil reflections of bubblegum pink, electric lavender, and vivid cyan against bright silver highlights. The letters command the composition within a playful millennium-party atmosphere, set against a frosted gradient backdrop illuminated by a soft studio glow. Subtle iridescent star stickers and prismatic sparkles shimmer gently around the glossy letters, enhancing the futuristic early-2000s aesthetic. The entire scene is vibrant, high-saturation candy gloss with no muted or aged tones, ensuring {{TEXT}} remains the only legible text in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Y2K" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Y2K", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k.jpg)
 
 ## Examples made on FontVibe
 

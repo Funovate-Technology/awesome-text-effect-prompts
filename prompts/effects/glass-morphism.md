@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "BLUR"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_morphism.jpg"
   passed: true
   note: "Frosted glass letters over coloured bokeh; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. Each letter appears as a translucent frosted glassmorphism slab suspended in space with multi-layered optical depth. The material features three distinct optical zones: a razor-thin, bright white specular highlight tracing the perimeter, an interior surface of semi-transparent milky frosted glass with a subtle blur revealing the background at low opacity, and a soft internal glow concentrated at the center of each letterform. Soft dark inner shadows run along the glass edges to create physical thickness, while the frosted texture scatters illumination into a faint diffuse halo around the perimeter. The letters float before a deep midnight-blue background illuminated by vibrant, out-of-focus bokeh orbs in glowing shades of coral-orange, electric violet, cyan-teal, and emerald green. These colorful light spheres subtly bleed and refract through the semi-transparent glass bodies, making the letters act as frosted windows onto the luminous backdrop, with high contrast ensuring edge highlights stay razor-sharp.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "BLUR" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "BLUR", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_morphism.jpg)
 
 ## Examples made on FontVibe
 

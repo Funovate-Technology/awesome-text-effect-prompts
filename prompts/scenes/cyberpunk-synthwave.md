@@ -29,7 +29,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SYNTH"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_synthwave.jpg"
   passed: true
   note: "Chrome 80s letters over sunset and neon grid; spelled right."
 license: CC-BY-4.0
@@ -51,7 +51,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are rendered in a synthwave retro-futuristic style with bold, geometric letterforms. Each letter features a beveled 3D extrusion giving it solid depth, filled with a deep magenta-to-violet gradient. A vibrant neon pink electric glow outlines the exterior of every letter, complemented by a polished chrome-like inner highlight strip running along the top edge. Subtle lens flares accent the sharp corners of the typography. The text floats above an iconic scene where an infinite perspective grid floor in glowing neon pink lines converges toward the horizon. Centered on the horizon sits an oversized sun segmented by horizontal gradient stripes transitioning through magenta, coral, and yellow. In the background, the sky fades from deep purple to dark black and is speckled with sparse, pink-tinted stars. {{TEXT}} must be the only legible text in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SYNTH" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SYNTH", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_synthwave.jpg)
 
 ## Examples made on FontVibe
 

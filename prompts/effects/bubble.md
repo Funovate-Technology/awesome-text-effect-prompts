@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "BUBBLE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/bubble.jpg"
   passed: true
   note: "Translucent pastel bubble letters; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is rendered as puffy, rounded, and pillowy inflated bubble forms crafted from a soft, translucent jelly-like material. Each character exhibits a glossy, highly reflective surface with crisp, bright highlight spots and gentle internal light refraction, conveying the look of smooth, inflated candy bubbles. The color scheme is bright, sweet, and candy-toned, featuring a smooth gradient blend of bubblegum pink, lavender, sky blue, mint, and lemon, completely avoiding dark or matte finishes. The text sits prominently in a light, cheerful, and airy bubblegum atmosphere, set against a soft pastel gradient backdrop. Surrounding the lettering are small floating translucent bubbles and subtle glistening sparkles that enhance the buoyant, playful aesthetic. Ensure that {{TEXT}} is the focal point and remains the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "BUBBLE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "BUBBLE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/bubble.jpg)
 
 ## Examples made on FontVibe
 

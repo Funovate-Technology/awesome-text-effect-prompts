@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "GLITCH"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/glitch.jpg"
   passed: true
   note: "Scanline RGB glitch letters; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is large, dominant, and fills the frame with a controlled digital corruption aesthetic. Authentic RGB chromatic aberration splits every letter edge, shifting the red channel cleanly to the left and the cyan channel to the right to produce a distinctive double-vision split. Dense, rhythmic, semi-transparent horizontal CRT scan lines cover the entire text surface, simulating a glowing phosphor monitor screen. At random vertical positions along the letters, several sharp-edged rectangular pixel blocks displace horizontally while keeping the text completely readable. A subtle cyan-white phosphor bloom glows along the outer contours of the characters. The entire composition is set against an empty, dark digital void accented by faint horizontal VHS tracking error bands and small clusters of corrupted pixel artifacts scattered throughout the atmosphere.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "GLITCH" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "GLITCH", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/glitch.jpg)
 
 ## Examples made on FontVibe
 

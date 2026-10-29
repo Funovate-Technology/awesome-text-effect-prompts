@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Script"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_stroke.jpg"
   passed: true
   note: "Brush script on warm paper; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are rendered as expressive Western brush script lettering with fluid connected strokes, showing visible bristle texture and authentic thick-to-thin pressure variation, with thick downstrokes and thin upstrokes reminiscent of a loaded calligraphy brush. The warm off-black ink appears slightly wet and glistening, featuring natural ink pooling at stroke beginnings and feathered dry-brush trails at stroke ends, capturing a hand-crafted artisan energy with realistic brush imperfections. The words {{TEXT}} are the only legible text in the image. The lettering is set against warm cream textured paper under soft diffused natural studio light coming from the upper left. Subtle paper grain is visible throughout the background, and the ink strokes cast light, soft warm shadows onto the surface, creating an intimate artisan letterpress atmosphere.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Script" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Script", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_stroke.jpg)
 
 ## Examples made on FontVibe
 

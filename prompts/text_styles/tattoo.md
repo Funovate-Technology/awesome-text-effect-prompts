@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Forever"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/tattoo.jpg"
   passed: true
   note: "Fresh black tattoo lettering on an arm; spelled right (plainer script than the preview)."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letterforms appear as authentic fresh tattoo ink applied directly onto skin, centered in a close-up composition on an inner forearm. The ink is a rich, saturated, velvety matte deep black with a subtle blue-black undertone characteristic of needle-applied work. Each stroke exhibits an organic hand-applied quality, featuring crisp edges with minimal feathering, slight ink spread at junctions, and saturation that is heaviest at stroke centers with natural density variations. Subtle, precise imperfections reflect intentional needlework rather than mechanical perfection. The skin has a realistic medium tone, with fine pore texture showing through the ink and a very slight raise along the stroke edges. Diffused studio lighting from above-left casts soft shadows that reveal the delicate skin texture around the ink. The background is a soft, blurred neutral studio environment, framing the shot in a documentary tattoo photography style with focus strictly held on the tattooed lettering.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Forever" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Forever", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/tattoo.jpg)
 
 ## Examples made on FontVibe
 

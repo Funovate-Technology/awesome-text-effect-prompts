@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "NEON"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_glow.jpg"
   passed: true
   note: "Bent glass neon tubes on concrete with brackets; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are formed from real bent glass neon tubes complete with visible tube brackets, mounting hardware, and subtle glass tube refraction. The glow shines in bright cyan and magenta neon light, displaying sharp glowing edges enveloped by a soft light bloom, featuring slightly uneven brightness between individual letters for realism. Mounted on a dark concrete wall, each letter's colored illumination pools softly onto the floor beneath it. Tiny dust particles drift and catch the glow in the illuminated air, alongside faint reflections cast across the slightly damp ground while deep shadow gathers around the edges of the frame.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "NEON" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "NEON", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/neon_glow.jpg)
 
 ## Examples made on FontVibe
 

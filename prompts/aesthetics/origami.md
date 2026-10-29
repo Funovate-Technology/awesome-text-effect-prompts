@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "FOLD"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/origami.jpg"
   passed: true
   note: "Folded-paper letters with paper cranes; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are formed as clean origami paper-craft pieces, showcasing crisp, geometric hand-folded precision. Each letter consists of clean colored paper with sharp crease lines and angular facets catching soft studio light at varying angles. Subtle shadows define the layers where paper folds overlap, giving the text depth without clutter. The color palette features bright, cheerful paper tones including coral, teal, mustard, sky blue, and soft white, maintaining a fresh and crafty aesthetic with crisp facet highlights and no grungy or dark elements. The text rests centrally within a bright, calm, and uncluttered studio setting illuminated by soft, even lighting. Surrounding the lettering are a few delicate, small folded paper shapes that complement the composition, establishing an organized, cheerful paper-craft atmosphere where {{TEXT}} remains the clear and only legible focus.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "FOLD" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "FOLD", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/origami.jpg)
 
 ## Examples made on FontVibe
 

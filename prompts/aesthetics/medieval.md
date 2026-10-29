@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "QUEST"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/medieval.jpg"
   passed: true
   note: "Illuminated-manuscript capitals with a knotwork border; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are styled in the manner of an illuminated manuscript, featuring flat, opaque hand-painted jewel-tone pigments in deep ruby red and cobalt blue, outlined with burnished gold leaf that catches brilliant hot highlights. The text is centered across the composition against an aged vellum parchment background of warm ochre and cream, displaying subtle manuscript texture and gentle foxing marks. Framing the composition is an intricate Celtic knotwork border of emerald green and antique gold with illuminated rosette ornaments at each corner. At the lower right, a feathered writing quill rests softly out of focus. The scene is bathed in warm amber candlelight casting down from the upper right at a forty-five-degree angle, making the center glow warmly while the edges vignette into deep ochre shadow. Ensure {{TEXT}} is the only legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "QUEST" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "QUEST", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/medieval.jpg)
 
 ## Examples made on FontVibe
 

@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "POP!"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/pop_art.jpg"
   passed: true
   note: "Ben-Day dot letters on a starburst with black outlines; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are rendered in a classic 1960s comic-panel pop art style, featuring a thick uniform black outline tracing every contour and inner stroke with sharp, hard edges. The letter fills consist of large, individually visible Ben-Day halftone dots in flat primary colors—red, yellow, blue, and white—with no gradients, pastels, or color blending, maintaining a small bare white gap between the dot fill and the inner outline. A solid black graphic drop shadow projects at a crisp 45-degree angle to the lower right. The scene is framed as a comic book panel with a bold black border and a bright flat primary-color background. Directly behind {{TEXT}} is an oversized starburst action shape in flat yellow with a hard black outline. The surrounding background zones are filled with flat blue Ben-Day dot patterns. The entire composition maintains a completely flat silkscreen print aesthetic with high contrast and zero photographic realism, ensuring {{TEXT}} is the sole legible text.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "POP!" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "POP!", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/pop_art.jpg)
 
 ## Examples made on FontVibe
 

@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "STEAM"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/steampunk.jpg"
   passed: true
   note: "Brass-and-pipe letters in a workshop with filament bulbs; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text {{TEXT}} is centered in the frame, filling most of the width, and serves as the sole legible subject. The letters are crafted with metallic steampunk materials featuring polished brass highlights, dark patina bronze, aged verdigris copper-green accents, and deep cast iron shadows. The scene is illuminated by dual-light thermal contrast: a warm amber vintage filament bulb from the upper-right at 45 degrees casting bright directional specular highlights with deep warm shadows at the letter bases, countered by a cool blue-grey secondary fill from the upper-left. The letters rest on a dark mahogany workbench inside a Victorian inventor's workshop, with small brass gears, calipers, coiled copper wire, and clockwork components scattered in soft focus around the base. Soft steam vents from distant pipe joints into the warm amber haze, with a receding brick wall and hanging filament bulbs blurred in the background. The camera views the scene from a slight low angle, keeping the letters sharp while foreground props and background elements softly blur.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "STEAM" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "STEAM", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/steampunk.jpg)
 
 ## Examples made on FontVibe
 

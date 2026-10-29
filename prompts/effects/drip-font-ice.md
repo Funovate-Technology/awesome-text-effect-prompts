@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SWEET"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font_ice.jpg"
   passed: true
   note: "Pastel ice-cream drip letters; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are bold block letterforms formed from melting soft-serve ice cream, capturing a sweet summer aesthetic. Thick, creamy fluid flows from the bottom of every letter, featuring large rounded cream drops hanging with soft surface tension and slow, viscous trails running downward. The ice cream material exhibits a photorealistic, smooth creamy surface with a delicate, subtle gloss that catches the illumination. A warm pastel color palette defines the letters, presenting a visually delicious look influenced naturally by gravity. The scene features a clean, warm soft pastel background illuminated by gentle, inviting overhead light that highlights the realistic dripping details of each letterform. The text "{{TEXT}}" is the sole legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SWEET" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SWEET", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font_ice.jpg)
 
 ## Examples made on FontVibe
 

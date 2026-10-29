@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "DUOTONE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/duotone.jpg"
   passed: true
   note: "Two-colour red/navy halftone letters; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is rendered in a striking, punchy duotone treatment with a graphic print aesthetic. A dominant, flat bright color covers the face of the letters, while a deep contrasting tone fills a crisp, hard-edged offset drop shadow. A visible halftone screen-dot pattern overlays the dominant color, lending texture and depth without sacrificing sharp outlines. The palette consists strictly of a high-contrast two-color pair, such as vibrant vermillion red paired with deep midnight navy, remaining completely flat, saturated, and bold with no soft gradients or muddy transitions. The text is set against a clean, flat two-tone poster ground complemented by subtle geometric or halftone accents that reinforce the high-contrast graphic energy. Ensure {{TEXT}} is the only legible text in the entire image, commanding the composition with crisp print-like impact.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "DUOTONE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "DUOTONE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/duotone.jpg)
 
 ## Examples made on FontVibe
 

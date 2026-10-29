@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "WOW"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/kids_gift.jpg"
   passed: true
   note: "Glossy balloon letters with balloons and confetti; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is rendered as playful, glossy chunky 3D toy letters in maximum saturation candy colors, blending bright bubblegum pink, sunshine yellow, sky blue, and lime green. The letters are dimensional, smooth, and tactile with soft glossy highlights along their rounded surfaces. Cute miniature stars, little hearts, and magic rainbow sparkle trails float playfully around the characters. The text sits centered within a joyful, magical party setting filled with floating balloons, celebratory confetti, and cheerful ambient party lighting. The entire composition is vibrant, upbeat, and fun, with {{TEXT}} remaining the sole legible text in the image against the bright, celebratory backdrop.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "WOW" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "WOW", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/kids_gift.jpg)
 
 ## Examples made on FontVibe
 

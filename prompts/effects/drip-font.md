@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "DRIP"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font.jpg"
   passed: true
   note: "Glossy paint-drip letters on a graffiti wall; spelled right (blue rather than the preview's red)."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The bold letterforms are constructed entirely from thick, glossy liquid paint, reading as three-dimensional liquid-material objects built from saturated, vivid electric blue pigment. Smooth high-gloss surfaces catch bright specular highlights across the curved tops and letter edges. Heavy tear-shaped drip extensions hang from the bases of the letters with realistic fluid physics and surface tension, showing viscous trails of varying lengths that thin before breaking into rounded points. Tangible paint depth is visible at every contour, casting distinct drip shadows underneath. The text is set against an urban street art wall of dark concrete or brick, where thick, cascading paint trails gather and pool along the ground line. The drips catch ambient light from below, creating deep shadows between the drops and bright glints at the curved top of each falling bead of paint.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "DRIP" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "DRIP", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font.jpg)
 
 ## Examples made on FontVibe
 

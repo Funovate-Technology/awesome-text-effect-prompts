@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "HELLO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/anime_character.jpg"
   passed: true
   note: "Original anime portrait; the word is small in a corner but legible and correct."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The scene features original anime character art, depicted from the head and shoulders or half-body facing the viewer. The character has large expressive eyes with layered irises and crisp white catchlights, neatly clumped hair with a glossy highlight band, a delicate nose and mouth, and light blush. Clean line art outlines the figure, complemented by flat cel shading, a subtle shadow tone, and a soft rim light. The backdrop displays a softly blurred pastel sky with fluffy cumulus clouds and gently drifting cherry blossom petals in a soft daylight palette of pastel pink, sky blue, and cream. The character's face is centered in the frame. The text "{{TEXT}}" appears small and neat in a corner of the composition, completely away from the character's face, tinted to harmonize with the soft pastel palette and casting a faint, delicate shadow over the illustrated background. No other words or numbers are present in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "HELLO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "HELLO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/anime_character.jpg)
 
 ## Examples made on FontVibe
 

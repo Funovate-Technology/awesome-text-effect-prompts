@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "BLOOD"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font_blood.jpg"
   passed: true
   note: "Glossy red dripping letters on black; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are rendered as thick, viscous crimson blood fluid exhibiting authentic gravity-driven fluid behavior. Large tear-shaped drops hang suspended with visible surface tension at each drip terminus, while connecting streams thin as they descend past the letter baselines toward the lower third. The fluid displays a color gradient transitioning from bright arterial red on active drip paths to deep, near-black clot tones where the blood accumulates and pools. Material properties include subsurface scattering that imparts a deep red inner glow, high specular gloss across wet convex drip heads, and matte-dark textures in dense clotted sections. The text is positioned in the center frame with generous breathing room against a pure black void background devoid of any ambient fill or decoration. A single cold key light positioned at a forty-five-degree angle from the upper-left strikes the wet surfaces, creating intense specular peaks while casting deep, sharp shadows toward the lower-right.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "BLOOD" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "BLOOD", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/drip_font_blood.jpg)
 
 ## Examples made on FontVibe
 

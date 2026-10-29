@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Gothic"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/gothic_font.jpg"
   passed: true
   note: "Gilded blackletter on a parchment scroll; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character, ensuring it is the only legible text in the image. The letters are crafted in precise gothic blackletter calligraphy, characterized by diamond-shaped stroke terminals, dramatic thick-thin contrast, and pointed arch counters. Each glyph demonstrates medieval scribal precision, executed in rich black ink with warm undertones and refined gold ink highlights accenting the serifs and capitals. The lettering stands clean and unweathered, focused entirely on pure typographic craft without cobwebs or rust. In the background, dark parchment merges into a medieval cathedral interior lined with soaring stone arches that gently fade into distant fog. Warm candlelight flickers across nearby stone surfaces, curling ribbons of incense smoke drift through the air, and a solitary shaft of pale moonlight filters through a broken stained glass window, subtly illuminating the dark, solemn environment around the text.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Gothic" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Gothic", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/gothic_font.jpg)
 
 ## Examples made on FontVibe
 

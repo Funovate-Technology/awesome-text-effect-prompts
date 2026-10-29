@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "METAL"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/metallic.jpg"
   passed: true
   note: "Brushed-steel 3D letters with reflection; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters appear as bold, 3D extruded forms crafted from solid brushed steel with a tactile matte-satin finish and subtle horizontal grain texture. The metallic surfaces interact dynamically with light, displaying realistic directional anisotropic highlight streaks and razor-sharp edge highlight compression along the beveled planes. Colored in cool industrial grey with soft steel undertones, the letters exhibit wide specular highlight gradients transitioning smoothly into rich shadow zones that subtly catch ambient environmental reflections. The scene is illuminated by a focused studio key light from the upper-left at a forty-five-degree angle, casting crisp, defined shadows, while a subtle secondary fill light from the lower-right ensures distinct edge separation. The composition is set against an atmospheric deep charcoal-to-steel-blue gradient backdrop, with the typography resting on a dark reflective ground plane that mirrors the metallic forms with precision clarity.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "METAL" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "METAL", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/metallic.jpg)
 
 ## Examples made on FontVibe
 

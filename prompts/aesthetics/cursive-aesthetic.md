@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Angel"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_aesthetic.jpg"
   passed: true
   note: "Pink glitter script with ribbons; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are styled with a soft, dreamy coquette aesthetic, featuring a delicate, dainty finish with a gentle pearly shimmer and a faint dusting of fine sparkle that softly catches the light. The lettering renders in a soft romantic tone, such as delicate blush pink or soft rose, appearing graceful rather than bold. The word sits large and centered within an airy composition against a dreamy pastel backdrop blending blush pink, cream, and faint lilac in a subtle gradient. Surrounding the text are delicate details like tiny out-of-focus sparkles, scattered miniature pearls, soft ribbons, and a hazy bokeh glow. The lighting is completely diffused, warm, and glowy, casting no harsh shadows and creating a romantic, sweet, and hazy atmosphere reminiscent of a delicate pastel journal spread. Ensure {{TEXT}} remains the sole legible text in the entire image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Angel" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Angel", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cursive_aesthetic.jpg)
 
 ## Examples made on FontVibe
 

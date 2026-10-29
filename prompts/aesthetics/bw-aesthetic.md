@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "MOOD"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/bw_aesthetic.jpg"
   passed: true
   note: "Moody black-and-white rain portrait with the word legible; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The scene is a moody, high-contrast black-and-white portrait featuring a single figure cropped close in three-quarter view, surrounded by deep negative black space. Hard, single-source side lighting carves out the form from the darkness, producing crushed blacks alongside bright, sharp highlights across wet skin, hair, and falling rain streaks. The surrounding atmosphere contains drifting smoke, reflections on wet pavement, and softly blurred nocturnal streetlights. The entire composition is captured in monochrome tones of black, white, and greys, textured with prominent film grain, shallow depth of field, and a soft dark vignette at the corners. The letters of {{TEXT}} sit quietly and subtly positioned within the dark negative space beside the subject, illuminated by the same directional side light in matte white and pale grey tones, remaining the sole legible writing in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "MOOD" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "MOOD", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/bw_aesthetic.jpg)
 
 ## Examples made on FontVibe
 

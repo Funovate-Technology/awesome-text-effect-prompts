@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "RAW"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_dry.jpg"
   passed: true
   note: "Dry-brush paint strokes; spelled right (on paper rather than the preview's wood)."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words are rendered in a bold dry brush paint style, as if created with a heavily loaded paintbrush. Thick impasto strokes define the letterforms, showcasing distinct bristle spread across their surfaces. Raw, gritty texture appears throughout, featuring visible individual bristle lines, organic imperfections, and distressed grain. The edges of each mark are rough and torn where the paint runs thin, while thick paint buildup gathers at the stroke centers. Rendered in a single bold, raw off-black paint, the lettering conveys raw, high-contrast energy. The text rests on a rough textured paper surface, creating an authentic, physical, hand-painted scene. The paint slightly glistens at the thick stroke centers while remaining completely dry and matte along the frayed outer edges, leaving {{TEXT}} as the only legible text in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "RAW" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "RAW", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/brush_dry.jpg)
 
 ## Examples made on FontVibe
 

@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "HOLO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_holographic.jpg"
   passed: true
   note: "Holographic glossy letters with sparkles; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are crafted from a vivid iridescent holographic foil with a striking shimmer, shifting seamlessly across a saturated millennium color palette of hot pink, electric purple, and vibrant cyan blue. Small, crisp starburst sparkles accent the contours and edges of the characters, catching brilliant points of light reminiscent of an early 2000s party poster aesthetic. The metallic foil material gleams with glossy, multi-tonal reflections across every curve. Surrounding the text is a dark holographic backdrop punctuated by scattered light prism effects and subtle, faint rainbow light streaks that fan outward toward the borders of the frame. The composition emphasizes high-contrast reflective sheen and vibrant iridescence, ensuring that {{TEXT}} stands out as the single, unmistakably legible element in the scene.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "HOLO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "HOLO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/y2k_holographic.jpg)
 
 ## Examples made on FontVibe
 

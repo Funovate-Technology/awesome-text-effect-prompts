@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CYAN"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_color.jpg"
   passed: true
   note: "Coloured stained-glass letters with reflections; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words are sculpted as thick, solid colored glass letterforms with visible material weight and depth, crafted from deep-saturated jewel-tone glass. Each letter holds intense color throughout its transparent body—featuring vivid ruby, sapphire, emerald, or amber tones—with internal light scattering that produces a luminous glow at the core and rich saturation at the edges. Top surfaces carry sharp, mirror-bright specular highlights, while the sides reveal the full glass thickness and crisp refraction lines in the style of precision-cut optical glass sculpture. The letters rest on a dark, polished charcoal lacquer surface that produces clear mirror reflections directly beneath them. A single strong spotlight shining from the upper-left casts brilliant, rainbow-edged caustic light patterns and refraction fans across the ground plane. The background fades cleanly to near-black with a faint complementary gradient haze, keeping the composition uncluttered so the glowing, light-transmitting glass letters remain the primary, vibrant visual focus.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CYAN" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CYAN", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/glass_color.jpg)
 
 ## Examples made on FontVibe
 

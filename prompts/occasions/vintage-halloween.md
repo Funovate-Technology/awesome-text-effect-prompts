@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "BOO"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/vintage_halloween.jpg"
   passed: true
   note: "Vintage Halloween card with banner, cat and pumpkin; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words {{TEXT}} are displayed prominently across an arched ribbon banner in the style of a 1930s to 1950s vintage Halloween paper postcard or party decoration, serving as the sole legible writing in the composition. The letterforms are rendered as flat printed shapes in pumpkin orange and dark black with simple outlines against an aged cream card background. Surrounding {{TEXT}} are classic paper decoration motifs including grinning jack-o'-lanterns, an arched black cat, a smiling crescent-moon face, flying bats, owls perched on branches, and scattered autumn leaves. The illumination is flat printed graphic light, featuring shading achieved purely through flat color shapes and coarse halftone dot patterns. The palette relies on a limited vintage scheme of pumpkin orange, deep black, and warm cream, accented sparingly with aged olive green and old faded red, without any neon hues. The scene carries the authentic texture of weathered, yellowed card with slightly misregistered color print plates, soft creases, and gently worn edges.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "BOO" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "BOO", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/vintage_halloween.jpg)
 
 ## Examples made on FontVibe
 

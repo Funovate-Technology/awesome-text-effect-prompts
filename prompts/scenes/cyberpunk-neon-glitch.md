@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SPLIT"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_neon_glitch.jpg"
   passed: true
   note: "RGB-split neon glitch letters over a grid floor; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character, in a vibrant neon glitch aesthetic where glowing electric light meets failing digital transmission. The letterforms act as the primary light source, emitting maximally saturated neon hues of cyan, magenta, acid green, hot pink, and cold blue-white with intense luminosity. Cold blue-white overhead arc lighting strikes the letters, complemented by sharp cyan and magenta neon rim fill from the left and right at forty-five-degree angles. The letters cast a soft luminous penumbra into the surrounding near-black space, creating an extreme high-contrast boundary with narrow, sharp transitional mid-tones. Digital signal noise and electromagnetic interference degrade the environment, manifesting as faint horizontal scanlines, subtle atmospheric static grain, and translucent ghost-image echoes of the letters. The scene is set against a pure black background accented by faint, subtle digital-rain falling pixels in the extreme distance, while below, a dark purple perspective grid floor recedes and fades into complete blackness.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SPLIT" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SPLIT", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_neon_glitch.jpg)
 
 ## Examples made on FontVibe
 

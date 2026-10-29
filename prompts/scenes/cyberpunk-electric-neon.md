@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "NEON"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_electric_neon.jpg"
   passed: true
   note: "Pink and blue neon tubes on brick; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are shaped from real glass neon tubes with authentic thickness variation, glowing brightly with rich electric blue and vivid hot pink saturation. A warm, luminous light bloom radiates outward from each stroke, fading into a soft falloff around the edges. Mounted on a dark backing panel, the glowing glass casts subtle glossy reflections onto the surface directly behind it. The entire sign is set against a dark textured wall of exposed brick in a moody, dimly lit interior. A delicate atmospheric haze drifts through the ambient space, catching the colored neon glow to establish an evocative bar or studio setting. The text {{TEXT}} remains the only legible text in the scene, standing out crisply against the dark background.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "NEON" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "NEON", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_electric_neon.jpg)
 
 ## Examples made on FontVibe
 

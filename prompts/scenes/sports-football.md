@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "STRIKER"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/sports_football.jpg"
   passed: true
   note: "Stadium title with floodlights and confetti; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are positioned center frame as the dominant focal point, rendered in bold floodlit white-gold and vibrant championship team-color accents with warm golden reflections. The scene captures the electric spectacle of a grand championship night match inside an eighty-thousand-capacity football stadium packed to the rafters. Powerful four-corner floodlights blaze at full intensity through the night air, casting dramatic white-gold light beams and hazy flares across the arena. Below the text, the illuminated jade-green pitch glows vividly under the lights. The surrounding grandstands are filled with a roaring crowd whose cheering figures, scarves, and waving flags dissolve into a vibrant, high-contrast stadium bokeh. Dense golden celebratory confetti and glistening airborne particles cascade from above through the floodlit atmosphere. The visual tone is saturated, punchy, and dynamic, evoking peak matchday intensity under the stadium lights, with {{TEXT}} standing out cleanly as the sole legible typography amidst the celebration.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "STRIKER" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "STRIKER", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/sports_football.jpg)
 
 ## Examples made on FontVibe
 

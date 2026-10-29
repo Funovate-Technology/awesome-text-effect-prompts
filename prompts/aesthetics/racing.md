@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SPEED"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/racing.jpg"
   passed: true
   note: "Forward-leaning italic with speed streaks; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters display an aggressive forward-lean italic attitude with an exaggerated tilt and heavy aerodynamic visual weight, where thick strokes command gravity amid tight, compressed negative space. Fine horizontal speed lines in pure white trail behind each stroke edge, fading and dissolving rightward into the background to evoke high velocity. The letter surfaces showcase a bold racing livery palette of fierce reds, championship gold, and deep carbon-black shadows. A hard, cold-white overhead spotlight casts a crisp specular axis along the top plane of each stroke, throwing deep shadows underneath in the direction of motion. Dark grey race track asphalt fills the lower quarter of the frame with a faint painted white line, set against the full darkness of a night circuit pit lane atmosphere with atmospheric motion-haze scatter and a subtle lens flare from a distant track light at the upper right. Wide 16:9 composition.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SPEED" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SPEED", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/racing.jpg)
 
 ## Examples made on FontVibe
 

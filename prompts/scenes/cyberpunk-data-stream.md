@@ -27,7 +27,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "DATA"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_data_stream.jpg"
   passed: true
   note: "Terminal-green letters inside cascading code rain; spelled right."
 license: CC-BY-4.0
@@ -49,7 +49,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The primary letters of {{TEXT}} are formed from vibrant terminal-green (#00FF41) monospace characters emitting an intense phosphor-screen glow. A secondary layer of cascading smaller digital code characters flows through and around the main letterforms like falling rain. The density of these tiny digital characters is highest along the outer edges of the letters, producing a dissolving effect where the glyphs transition into the surrounding darkness. The entire image features vintage CRT monitor horizontal scanlines and a subtle screen-door pixel grid texture with deep, punchy contrast. The environment is a pure black void evoking a dark computer terminal. In the deep background, vertical streams of green code characters fall at varying speeds and opacities, while a subtle green ambient glow casts across the ground plane beneath the glowing typography.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "DATA" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "DATA", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_data_stream.jpg)
 
 ## Examples made on FontVibe
 

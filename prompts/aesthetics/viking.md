@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "ODIN"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/viking.jpg"
   passed: true
   note: "Heavy weathered stone/iron letters in a battlefield; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering is forged with an ancient Norse warrior aesthetic, featuring stark angular geometry and immense physical mass. Each letter is sculpted from battle-worn dark iron, showing a cold charcoal-grey body textured with visible forge-hammer marks, subtle aged bronze undertones, and hairline stress fractures along the diagonal strokes. Directional forge-light and cold torch-light sculpt the letterforms into pronounced high relief, catching narrow cold specular highlights across the upper edges and casting deep iron shadows beneath. Warm flickering highlights from nearby torch fire play against the cold granite and iron surfaces, creating rich contrast with dark amber accents. The letters stand as heavy, immovable monuments against an ancient Scandinavian landscape under a dramatic overcast sky filled with a cold blue-gray atmosphere, with no other text present.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "ODIN" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "ODIN", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/viking.jpg)
 
 ## Examples made on FontVibe
 

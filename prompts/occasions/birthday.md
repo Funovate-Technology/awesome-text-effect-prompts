@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "HAPPY BD"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/birthday.jpg"
   passed: true
   note: "Balloon letters with confetti and balloons; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. Ensure {{TEXT}} is the only legible text in the image. The letters are styled as bold, glossy party lettering featuring a crisp white outline and gleaming surface highlights, with each letter rendered in a different vivid, punchy saturated party color. A soft drop shadow separates the letters cleanly from the setting. The background is a bright, high-energy celebration scene featuring a rich, saturated gradient shifting smoothly from hot-pink into vibrant tangerine. A dense, dynamic burst of multicolor confetti scatters through the air around the words, complemented by luminous sparkles and bright light streaks. Generous clusters of colorful party balloons frame the outer edges of the composition. The entire space is bathed in bright, festive party light with sparkling glints, creating vibrant color contrast that keeps the scene joyful and high-energy.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "HAPPY BD" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "HAPPY BD", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/birthday.jpg)
 
 ## Examples made on FontVibe
 

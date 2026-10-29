@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "CYBER"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk.jpg"
   passed: true
   note: "Neon chrome letters with electric glitch in a dark street; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are formed from cold chrome, illuminated by a stark blue-white overhead arc light with intense electric cyan and hot magenta neon fill striking from both flanks. Electric cyan-white plasma threads crackle and arc along the outer perimeters of the letterforms. The entire graphic displays heavy digital distortion: pronounced RGB chromatic aberration with cyan shifted left and magenta shifted right, fine horizontal scan-line cuts across all surfaces, and digital glitch slice displacements where horizontal bands are shifted rightward to simulate CRT signal failure. All non-illuminated areas drop into cold blue-tinted shadows, strictly avoiding warm tones. The composition is set in a rain-soaked, tech-noir back alley at night amidst dense atmospheric fog and steam rising from street grates. The wet asphalt below mirrors fractured puddles of cyan and magenta light against a near-black background, with distant, unrecognizable neon blurs kept softly out of focus, ensuring {{TEXT}} remains the only legible text.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "CYBER" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "CYBER", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk.jpg)
 
 ## Examples made on FontVibe
 

@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "SYSTEM"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_tech_hud.jpg"
   passed: true
   note: "Glowing cyan tech lettering; spelled right. The HUD frame of the preview is mostly missing, so this one is weaker."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The text {{TEXT}} is positioned at center frame, occupying approximately two-thirds of the composition width slightly above the vertical midpoint, presented as an active tactical HUD readout. The letterforms are illuminated by an intense, hard-edged cold blue-white arc light from directly overhead, creating a strict lighting plane with zero warm fill. Secondary ambient light bleeds into the composition from off-screen display banks, casting cold cyan and vivid phosphor-green atmospheric hazes along the edges and mid-ground. The environment is a near-absolute black void featuring faint traces of cold blue-grey electromagnetic haze and a subtle horizontal scan-line interference field stretching across the entire visual plane. Luminous cyan and phosphor-green halos softly radiate from the crisp, high-contrast characters, grounding the text in a pure electronic display space with no physical objects and no other legible words or symbols.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "SYSTEM" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "SYSTEM", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/cyberpunk_tech_hud.jpg)
 
 ## Examples made on FontVibe
 

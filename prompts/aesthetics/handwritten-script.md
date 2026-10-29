@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "Elegance"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/handwritten_script.jpg"
   passed: true
   note: "Ink handwriting on paper with a wax seal; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The words appear as elegant, fluid handwritten script centered in the upper-to-mid frame, written in rich dark ink that sits proud on the surface of textured cream hot-press cotton rag paper filling the entire view. Thick downstrokes display a subtle, dimensional wet sheen, while delicate hairlines taper softly into the paper fibers, accompanied by faint ink bloom halos at dense endpoints. Intimate, raking morning window light enters from the upper left at a low angle, casting delicate shadows that reveal every grain, tooth, and chain line across the paper, complemented by a soft amber fill light from the right. The paper subtly deepens to a rich warm parchment amber toward the lower right corner, where a round, deep crimson wax seal with an embossed botanical motif rests, casting a tiny crisp shadow. The atmosphere is quiet and personal, with faint paper dust motes catching the gentle directional light, making "{{TEXT}}" the sole legible text in the composition.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "Elegance" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "Elegance", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/handwritten_script.jpg)
 
 ## Examples made on FontVibe
 

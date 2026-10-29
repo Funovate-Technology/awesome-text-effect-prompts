@@ -30,7 +30,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "FUTURE"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/futuristic.jpg"
   passed: true
   note: "Blue holographic wireframe letters with HUD corners; spelled right."
 license: CC-BY-4.0
@@ -52,7 +52,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The lettering appears as a three-dimensional holographic projection suspended in mid-air. Each letterform is constructed from a luminous triangulated wireframe mesh with razor-thin electric blue edges that outline its skeletal structure. The semi-transparent letter volumes possess a glass-thin depth with beveled top faces, illuminated by an intense inner glow that transitions from a cold white core to vibrant electric blue at the contours. A sharp neon blue halo radiates around every edge, while a horizontal scan beam of pure white-blue light sweeps across the surfaces. The holographic text floats above a faint, dark electric blue isometric ground grid in a deep space-black environment, casting a soft blue glow-shadow downward. Thin, dim electric blue HUD corner-brackets frame the four corners of the composition against deep blue atmospheric mist at the horizon. The overall lighting is clinical, cold, and entirely free of warm light sources.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "FUTURE" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "FUTURE", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/futuristic.jpg)
 
 ## Examples made on FontVibe
 

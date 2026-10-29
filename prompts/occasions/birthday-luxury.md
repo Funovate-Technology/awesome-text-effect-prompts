@@ -31,7 +31,7 @@ test:
   model: gemini-2.5-flash-image
   date: 2026-10-30
   text: "LUXURY"
-  image: ""
+  image: "https://cos.fontvibe.ai/opensource/text-effect-prompts/birthday_luxury.jpg"
   passed: true
   note: "Gold foil on black marble with frame; spelled right."
 license: CC-BY-4.0
@@ -53,7 +53,9 @@ Replace `{{TEXT}}` with your words. Written for general image models; tested on 
 Render the text "{{TEXT}}" exactly as written, character by character. The letters are rendered in a luxury metallic gold foil style, featuring an elegant gradient shifting from radiant bright gold highlights to deep, warm shadows, complete with a subtle reflective surface sheen and fine gold dust particles clinging to the edges. Wide letter spacing defines the arrangement. The lettering rests on a luxurious dark backdrop, featuring deep velvet or dark marble with subtle, tactile texture, bathed in a soft warm ambient glow. A few loose gold leaf flakes and a sparse scatter of no more than eight tiny gold stars accentuate the area around the words, enclosed by a delicate, fine gold border frame. The composition remains pristine, refined, and strictly minimal, entirely free from colorful confetti or colored balloons. The high-contrast gold-on-dark palette establishes a premium printed aesthetic where {{TEXT}} is the only legible text in the image.
 ```
 
-Tested on `gemini-2.5-flash-image` with the text "LUXURY" on 2026-10-30 — passed (legible, correctly spelled, recognisably this style).
+Generic-model test (`gemini-2.5-flash-image`, text "LUXURY", 2026-10-30):
+
+![test render](https://cos.fontvibe.ai/opensource/text-effect-prompts/birthday_luxury.jpg)
 
 ## Examples made on FontVibe
 
