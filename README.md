@@ -1,5 +1,7 @@
 # Awesome Text Effect Prompts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23776182.svg)](https://doi.org/10.5281/zenodo.23776182)
+
 **Copy-paste prompts for AI text effects — neon, chrome, liquid glass, ink brush, pixel art,
 pop art, Art Deco and more — with a `{{TEXT}}` placeholder for your own words.**
 
