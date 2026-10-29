@@ -1,0 +1,37 @@
+{
+  "upload_type": "dataset",
+  "title": "Awesome Text Effect Prompts: AI text-effect prompts tested on a general image model, with six-language style names",
+  "description": "<p>Copy-paste prompts for AI text effects, each with a {{TEXT}} placeholder for the user's own words. Every prompt is derived from a style in FontVibe's style library, screened for trademarks (styles that depend on a brand, franchise or real person are excluded; mentions in the rest are rewritten), rewritten by an LLM to work without FontVibe's font pipeline, and rendered on a general image model before inclusion. Every test image was reviewed by eye (by an AI assistant, Claude, against the FontVibe preview) for legible, correctly spelled text and a recognisable match to the style; prompts that failed are listed rather than published.</p><p>Each entry carries the standalone prompt, FontVibe's original style layer, links to example works, the test record (model, date, sample text) and the style's name and description in English, Japanese, Chinese, Spanish, Portuguese and German, taken from FontVibe's own translations. <code>scripts/verify.py</code> checks the published numbers, the test records, a trademark denylist and the links.</p><p>Also distributed as <code>text-effect-prompts</code> on npm. Every style can be tried with real fonts at <a href=\"https://fontvibe.ai/styles\">fontvibe.ai/styles</a>.</p>",
+  "creators": [
+    {
+      "name": "FontVibe"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "prompts",
+    "text effects",
+    "typography",
+    "lettering",
+    "text-to-image",
+    "image generation",
+    "prompt engineering",
+    "multilingual"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://fontvibe.ai/styles",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/text-effect-prompts",
+      "relation": "isIdenticalTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}

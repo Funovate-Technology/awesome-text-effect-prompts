@@ -1,0 +1,2763 @@
+{
+  "neon_glow": {
+    "attempts": [
+      {
+        "file": "neon-glow-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "NEON",
+        "aspect": "1:1",
+        "source_hash": "fc65bfc56bfa8335"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "NEON",
+    "image_file": "neon-glow-1.png",
+    "passed": true,
+    "note": "Bent glass neon tubes on concrete with brackets; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "3d_bold": {
+    "attempts": [
+      {
+        "file": "3d-bold-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "3D",
+        "aspect": "1:1",
+        "source_hash": "5c73bfcd972914e0"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "3D",
+    "image_file": "3d-bold-1.png",
+    "passed": true,
+    "note": "3D glossy chunky letters, spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "3d_bold_gold": {
+    "attempts": [
+      {
+        "file": "3d-bold-gold-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "GOLD",
+        "aspect": "1:1",
+        "source_hash": "b3c9e7b61a26e1f0"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "GOLD",
+    "image_file": "3d-bold-gold-1.png",
+    "passed": true,
+    "note": "Polished 3D gold on dark ground, close to preview.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "3d_bold_holographic": {
+    "attempts": [
+      {
+        "file": "3d-bold-holographic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "HOLO",
+        "aspect": "1:1",
+        "source_hash": "6eea2bf263926198"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "HOLO",
+    "image_file": "3d-bold-holographic-1.png",
+    "passed": true,
+    "note": "Iridescent 3D letters on dark ground; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "3d_bold_inflated": {
+    "attempts": [
+      {
+        "file": "3d-bold-inflated-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BUBBLE",
+        "aspect": "1:1",
+        "source_hash": "5d82fdf7e23ef9d0"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BUBBLE",
+    "image_file": "3d-bold-inflated-1.png",
+    "passed": true,
+    "note": "Puffy pastel balloon letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "3d_bold_neon": {
+    "attempts": [
+      {
+        "file": "3d-bold-neon-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SYNTH",
+        "aspect": "1:1",
+        "source_hash": "1622b7c8cf046ea8"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SYNTH",
+    "image_file": "3d-bold-neon-1.png",
+    "passed": true,
+    "note": "Neon-outlined 3D letters over a night city; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "anime": {
+    "attempts": [
+      {
+        "file": "anime-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "ANIME",
+        "aspect": "1:1",
+        "source_hash": "f1a17bff6f5df575"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "ANIME",
+    "image_file": "anime-1.png",
+    "passed": true,
+    "note": "Inked cel-shaded title over radial speed lines; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "anime_character": {
+    "attempts": [
+      {
+        "file": "anime-character-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "HELLO",
+        "aspect": "1:1",
+        "source_hash": "34261738beca668b"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "HELLO",
+    "image_file": "anime-character-1.png",
+    "passed": true,
+    "note": "Original anime portrait; the word is small in a corner but legible and correct.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "anniversary": {
+    "attempts": [
+      {
+        "file": "anniversary-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "US",
+        "aspect": "1:1",
+        "source_hash": "592c19efe4b6d911"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "US",
+    "image_file": "anniversary-1.png",
+    "passed": true,
+    "note": "Gold serif letters among candles; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "art_deco": {
+    "attempts": [
+      {
+        "file": "art-deco-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "ART DECO",
+        "aspect": "1:1",
+        "source_hash": "7b0b189773751e14"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "ART DECO",
+    "image_file": "art-deco-1.png",
+    "passed": true,
+    "note": "Gold deco relief with sunburst; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "birthday": {
+    "attempts": [
+      {
+        "file": "birthday-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "HAPPY BD",
+        "aspect": "1:1",
+        "source_hash": "26444a3ac9e917a1"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "HAPPY BD",
+    "image_file": "birthday-1.png",
+    "passed": true,
+    "note": "Balloon letters with confetti and balloons; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "birthday_kids": {
+    "attempts": [
+      {
+        "file": "birthday-kids-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "PARTY",
+        "aspect": "1:1",
+        "source_hash": "8555c1f97f5c5034"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "PARTY",
+    "image_file": "birthday-kids-1.png",
+    "passed": true,
+    "note": "Glossy multicolour balloon letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "birthday_luxury": {
+    "attempts": [
+      {
+        "file": "birthday-luxury-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "LUXURY",
+        "aspect": "1:1",
+        "source_hash": "93682e7098847013"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "LUXURY",
+    "image_file": "birthday-luxury-1.png",
+    "passed": true,
+    "note": "Gold foil on black marble with frame; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "brush_chinese_ink": {
+    "attempts": [
+      {
+        "file": "brush-chinese-ink-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "INK",
+        "aspect": "1:1",
+        "source_hash": "828fcb7343d4defc"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "INK",
+    "image_file": "brush-chinese-ink-1.png",
+    "passed": true,
+    "note": "Black ink brush on rice paper with splatter; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "brush_dry": {
+    "attempts": [
+      {
+        "file": "brush-dry-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "RAW",
+        "aspect": "1:1",
+        "source_hash": "8c1da0afe55bacf5"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "RAW",
+    "image_file": "brush-dry-1.png",
+    "passed": true,
+    "note": "Dry-brush paint strokes; spelled right (on paper rather than the preview's wood).",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "brush_japanese_ink": {
+    "attempts": [
+      {
+        "file": "brush-japanese-ink-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "RONIN",
+        "aspect": "1:1",
+        "source_hash": "37a14f2477a89394"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "RONIN",
+    "image_file": "brush-japanese-ink-1.png",
+    "passed": true,
+    "note": "Ink on washi; legible and spelled right, though strokes are thinner than the preview.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "brush_stroke": {
+    "attempts": [
+      {
+        "file": "brush-stroke-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Script",
+        "aspect": "1:1",
+        "source_hash": "395503161d05feb0"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Script",
+    "image_file": "brush-stroke-1.png",
+    "passed": true,
+    "note": "Brush script on warm paper; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "bubble": {
+    "attempts": [
+      {
+        "file": "bubble-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BUBBLE",
+        "aspect": "1:1",
+        "source_hash": "6f8946fff118461f"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BUBBLE",
+    "image_file": "bubble-1.png",
+    "passed": true,
+    "note": "Translucent pastel bubble letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "bw_aesthetic": {
+    "attempts": [
+      {
+        "file": "bw-aesthetic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "MOOD",
+        "aspect": "1:1",
+        "source_hash": "01c73668413a6b47"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "MOOD",
+    "image_file": "bw-aesthetic-1.png",
+    "passed": true,
+    "note": "Moody black-and-white rain portrait with the word legible; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "celestial_symbol": {
+    "attempts": [
+      {
+        "file": "celestial-symbol-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "MYSTIC",
+        "aspect": "1:1",
+        "source_hash": "927edad49f11fa20"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "MYSTIC",
+    "image_file": "celestial-symbol-1.png",
+    "passed": true,
+    "note": "Engraved silver serif on a dark night ground; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "chalk": {
+    "attempts": [
+      {
+        "file": "chalk-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SPECIAL",
+        "aspect": "1:1",
+        "source_hash": "311e229dd33e839e"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SPECIAL",
+    "image_file": "chalk-1.png",
+    "passed": true,
+    "note": "Chalk lettering with flourishes on a framed blackboard; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "chibi": {
+    "attempts": [
+      {
+        "file": "chibi-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "HELLO",
+        "aspect": "1:1",
+        "source_hash": "291ea0dc842fc2db"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "HELLO",
+    "image_file": "chibi-1.png",
+    "passed": true,
+    "note": "Chibi character with die-cut sticker border and the word beside it; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "chicano": {
+    "attempts": [
+      {
+        "file": "chicano-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Por Vida",
+        "aspect": "1:1",
+        "source_hash": "ab4fd26d81086c3a"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Por Vida",
+    "image_file": "chicano-1.png",
+    "passed": true,
+    "note": "Glossy black ornate script with soft shadow; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "chrome_metal_3d": {
+    "attempts": [
+      {
+        "file": "chrome-metal-3d-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CHROME",
+        "aspect": "1:1",
+        "source_hash": "d3a2fd92b075c570"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CHROME",
+    "image_file": "chrome-metal-3d-1.png",
+    "passed": true,
+    "note": "Mirror-chrome bevelled 3D letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cinematic": {
+    "attempts": [
+      {
+        "file": "cinematic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "RISE OF EMPIRES",
+        "aspect": "16:9",
+        "source_hash": "05ccff7daf3700cc"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "RISE OF EMPIRES",
+    "image_file": "cinematic-1.png",
+    "passed": true,
+    "note": "Monumental gold title over a golden-hour mountain landscape; three words, spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cinematic_action": {
+    "attempts": [
+      {
+        "file": "cinematic-action-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "IMPACT",
+        "aspect": "1:1",
+        "source_hash": "523e7c9e7f562a58"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "IMPACT",
+    "image_file": "cinematic-action-1.png",
+    "passed": true,
+    "note": "Brushed-steel title with sparks; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cinematic_blockbuster": {
+    "attempts": [
+      {
+        "file": "cinematic-blockbuster-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "EPIC",
+        "aspect": "1:1",
+        "source_hash": "2fa5b818b1ddb648"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "EPIC",
+    "image_file": "cinematic-blockbuster-1.png",
+    "passed": true,
+    "note": "Chrome title with lens flare and god rays; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cinematic_horror": {
+    "attempts": [
+      {
+        "file": "cinematic-horror-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "DREAD",
+        "aspect": "1:1",
+        "source_hash": "09ec06b27ffc6718"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "DREAD",
+    "image_file": "cinematic-horror-1.png",
+    "passed": true,
+    "note": "Weathered, dripping title in a cold dark scene; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cinematic_scifi": {
+    "attempts": [
+      {
+        "file": "cinematic-scifi-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SIGNAL",
+        "aspect": "1:1",
+        "source_hash": "a93e94d638fb1e1d"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SIGNAL",
+    "image_file": "cinematic-scifi-1.png",
+    "passed": true,
+    "note": "Cold metallic title with a planet behind; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cinematic_youtube_creator": {
+    "attempts": [
+      {
+        "file": "cinematic-youtube-creator-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CREATOR",
+        "aspect": "1:1",
+        "source_hash": "bd13686b9b04401e"
+      },
+      {
+        "file": "cinematic-youtube-creator-2.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CREATOR",
+        "aspect": "1:1",
+        "source_hash": "bd13686b9b04401e"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CREATOR",
+    "image_file": "cinematic-youtube-creator-2.png",
+    "passed": true,
+    "note": "Attempt 1: legible, but silver letters rather than the style's warm yellow with dark outline — not recognisably this style. Attempt 2: warm glowing letters over a golden-hour city rooftop; spelled right (lighter than the preview's yellow).",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "comic_book": {
+    "attempts": [
+      {
+        "file": "comic-book-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BOOM",
+        "aspect": "1:1",
+        "source_hash": "b0c86ea9b1a54301"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BOOM",
+    "image_file": "comic-book-1.png",
+    "passed": true,
+    "note": "Halftone comic letters on a red starburst; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "coquette_christmas": {
+    "attempts": [
+      {
+        "file": "coquette-christmas-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "NOEL",
+        "aspect": "1:1",
+        "source_hash": "f382cad040562d16"
+      },
+      {
+        "file": "coquette-christmas-2.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "NOEL",
+        "aspect": "1:1",
+        "source_hash": "f382cad040562d16"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "NOEL",
+    "image_file": "coquette-christmas-2.png",
+    "passed": false,
+    "note": "Both attempts rendered 'NOËL' instead of 'NOEL' (added a diaeresis).",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cursive": {
+    "attempts": [
+      {
+        "file": "cursive-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Amour",
+        "aspect": "1:1",
+        "source_hash": "3c45fdf440286276"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Amour",
+    "image_file": "cursive-1.png",
+    "passed": true,
+    "note": "Flowing ink script on cream paper; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cursive_aesthetic": {
+    "attempts": [
+      {
+        "file": "cursive-aesthetic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Angel",
+        "aspect": "1:1",
+        "source_hash": "5fd8801f0c8c01b7"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Angel",
+    "image_file": "cursive-aesthetic-1.png",
+    "passed": true,
+    "note": "Pink glitter script with ribbons; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cursive_calligraphy": {
+    "attempts": [
+      {
+        "file": "cursive-calligraphy-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Calligraphy",
+        "aspect": "16:9",
+        "source_hash": "0547b6ba513eab87"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Calligraphy",
+    "image_file": "cursive-calligraphy-1.png",
+    "passed": true,
+    "note": "Fine pointed-pen calligraphy; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "psychedelic": {
+    "attempts": [
+      {
+        "file": "psychedelic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "PSYCH",
+        "aspect": "1:1",
+        "source_hash": "67c9c1abd19ba2cd"
+      },
+      {
+        "file": "psychedelic-2.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "PSYCH",
+        "aspect": "1:1",
+        "source_hash": "67c9c1abd19ba2cd"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "PSYCH",
+    "image_file": "psychedelic-2.png",
+    "passed": true,
+    "note": "Attempt 1: letters dissolve into the background pattern; hard to read. Attempt 2: melting rainbow letters on concentric op-art waves; legible, spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cursive_modern": {
+    "attempts": [
+      {
+        "file": "cursive-modern-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Modern",
+        "aspect": "1:1",
+        "source_hash": "234657d511b6d84c"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Modern",
+    "image_file": "cursive-modern-1.png",
+    "passed": true,
+    "note": "Bold brush script on warm paper; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cursive_signature": {
+    "attempts": [
+      {
+        "file": "cursive-signature-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Signature",
+        "aspect": "1:1",
+        "source_hash": "4f63a9bf943a7b49"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Signature",
+    "image_file": "cursive-signature-1.png",
+    "passed": true,
+    "note": "Signature-style ink script on white; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cute_halloween": {
+    "attempts": [
+      {
+        "file": "cute-halloween-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BOO",
+        "aspect": "1:1",
+        "source_hash": "1fbe1db4b9ba658c"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BOO",
+    "image_file": "cute-halloween-1.png",
+    "passed": true,
+    "note": "Chubby cartoon letters with ghosts, pumpkins and bats; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk": {
+    "attempts": [
+      {
+        "file": "cyberpunk-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CYBER",
+        "aspect": "1:1",
+        "source_hash": "8732a8394384edac"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CYBER",
+    "image_file": "cyberpunk-1.png",
+    "passed": true,
+    "note": "Neon chrome letters with electric glitch in a dark street; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk_acid_rain": {
+    "attempts": [
+      {
+        "file": "cyberpunk-acid-rain-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "ACID",
+        "aspect": "1:1",
+        "source_hash": "01e80d88cd3198b0"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "ACID",
+    "image_file": "cyberpunk-acid-rain-1.png",
+    "passed": true,
+    "note": "Corroded metal letters with toxic green glow; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk_bio_mech": {
+    "attempts": [
+      {
+        "file": "cyberpunk-bio-mech-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "MECH",
+        "aspect": "1:1",
+        "source_hash": "7ffd552e1f21f6b0"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "MECH",
+    "image_file": "cyberpunk-bio-mech-1.png",
+    "passed": true,
+    "note": "Biomechanical bone-and-metal letters in a dark hall; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk_chrome": {
+    "attempts": [
+      {
+        "file": "cyberpunk-chrome-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CHROME",
+        "aspect": "1:1",
+        "source_hash": "4151ff27b01a3cd5"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CHROME",
+    "image_file": "cyberpunk-chrome-1.png",
+    "passed": true,
+    "note": "Liquid chrome letters on a dark reflective floor; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk_data_stream": {
+    "attempts": [
+      {
+        "file": "cyberpunk-data-stream-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "DATA",
+        "aspect": "1:1",
+        "source_hash": "e107e56b49a3bdd5"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "DATA",
+    "image_file": "cyberpunk-data-stream-1.png",
+    "passed": true,
+    "note": "Terminal-green letters inside cascading code rain; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk_electric_neon": {
+    "attempts": [
+      {
+        "file": "cyberpunk-electric-neon-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "NEON",
+        "aspect": "1:1",
+        "source_hash": "cde93d2c8fda1009"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "NEON",
+    "image_file": "cyberpunk-electric-neon-1.png",
+    "passed": true,
+    "note": "Pink and blue neon tubes on brick; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk_hologram": {
+    "attempts": [
+      {
+        "file": "cyberpunk-hologram-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "HOLO",
+        "aspect": "1:1",
+        "source_hash": "b8128ecd92d7ef25"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "HOLO",
+    "image_file": "cyberpunk-hologram-1.png",
+    "passed": true,
+    "note": "Translucent cyan hologram letters over a hex grid; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk_neon_glitch": {
+    "attempts": [
+      {
+        "file": "cyberpunk-neon-glitch-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SPLIT",
+        "aspect": "1:1",
+        "source_hash": "aa821ad044040769"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SPLIT",
+    "image_file": "cyberpunk-neon-glitch-1.png",
+    "passed": true,
+    "note": "RGB-split neon glitch letters over a grid floor; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk_synthwave": {
+    "attempts": [
+      {
+        "file": "cyberpunk-synthwave-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SYNTH",
+        "aspect": "1:1",
+        "source_hash": "9a0550ab06c00046"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SYNTH",
+    "image_file": "cyberpunk-synthwave-1.png",
+    "passed": true,
+    "note": "Chrome 80s letters over sunset and neon grid; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "cyberpunk_tech_hud": {
+    "attempts": [
+      {
+        "file": "cyberpunk-tech-hud-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SYSTEM",
+        "aspect": "1:1",
+        "source_hash": "ae036bc172399171"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SYSTEM",
+    "image_file": "cyberpunk-tech-hud-1.png",
+    "passed": true,
+    "note": "Glowing cyan tech lettering; spelled right. The HUD frame of the preview is mostly missing, so this one is weaker.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "drip_font": {
+    "attempts": [
+      {
+        "file": "drip-font-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "DRIP",
+        "aspect": "1:1",
+        "source_hash": "ecc63e5250cc7fc3"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "DRIP",
+    "image_file": "drip-font-1.png",
+    "passed": true,
+    "note": "Glossy paint-drip letters on a graffiti wall; spelled right (blue rather than the preview's red).",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "drip_font_blood": {
+    "attempts": [
+      {
+        "file": "drip-font-blood-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BLOOD",
+        "aspect": "1:1",
+        "source_hash": "9317fd7c06c6a5fe"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BLOOD",
+    "image_file": "drip-font-blood-1.png",
+    "passed": true,
+    "note": "Glossy red dripping letters on black; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "drip_font_ice": {
+    "attempts": [
+      {
+        "file": "drip-font-ice-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SWEET",
+        "aspect": "1:1",
+        "source_hash": "4a6c3e78cbf0924a"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SWEET",
+    "image_file": "drip-font-ice-1.png",
+    "passed": true,
+    "note": "Pastel ice-cream drip letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "drip_font_melting": {
+    "attempts": [
+      {
+        "file": "drip-font-melting-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "MELT",
+        "aspect": "1:1",
+        "source_hash": "2f9f4d4b1696db13"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "MELT",
+    "image_file": "drip-font-melting-1.png",
+    "passed": true,
+    "note": "Glowing molten dripping letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "duotone": {
+    "attempts": [
+      {
+        "file": "duotone-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "DUOTONE",
+        "aspect": "1:1",
+        "source_hash": "9f93693b8ba2dcb5"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "DUOTONE",
+    "image_file": "duotone-1.png",
+    "passed": true,
+    "note": "Two-colour red/navy halftone letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "elegant_script": {
+    "attempts": [
+      {
+        "file": "elegant-script-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Elegant",
+        "aspect": "1:1",
+        "source_hash": "5a7ab7a31c585f22"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Elegant",
+    "image_file": "elegant-script-1.png",
+    "passed": true,
+    "note": "Gold foil script on black; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "emboss": {
+    "attempts": [
+      {
+        "file": "emboss-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "PRESS",
+        "aspect": "1:1",
+        "source_hash": "83dee64d105262ed"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "PRESS",
+    "image_file": "emboss-1.png",
+    "passed": true,
+    "note": "Blind-embossed letters on paper; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "esports": {
+    "attempts": [
+      {
+        "file": "esports-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "VICTORY",
+        "aspect": "1:1",
+        "source_hash": "1f51a6f6040a7966"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "VICTORY",
+    "image_file": "esports-1.png",
+    "passed": true,
+    "note": "Angled esports title panel with slash bars; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "fairy_tale": {
+    "attempts": [
+      {
+        "file": "fairy-tale-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "MAGIC",
+        "aspect": "1:1",
+        "source_hash": "961109608f4f6a20"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "MAGIC",
+    "image_file": "fairy-tale-1.png",
+    "passed": true,
+    "note": "Glowing silver serif in a dark enchanted forest; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "family_love": {
+    "attempts": [
+      {
+        "file": "family-love-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "WITH LOVE",
+        "aspect": "1:1",
+        "source_hash": "2089a3f4b75c7861"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "WITH LOVE",
+    "image_file": "family-love-1.png",
+    "passed": true,
+    "note": "Knitted-yarn letters in a cozy room; two words, spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "fire_smoke": {
+    "attempts": [
+      {
+        "file": "fire-smoke-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BLAZE",
+        "aspect": "1:1",
+        "source_hash": "2e211d17ba10414f"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BLAZE",
+    "image_file": "fire-smoke-1.png",
+    "passed": true,
+    "note": "Letters made of flame with smoke; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "flat_cartoon": {
+    "attempts": [
+      {
+        "file": "flat-cartoon-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "YAY",
+        "aspect": "1:1",
+        "source_hash": "3b40b0044bf145d9"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "YAY",
+    "image_file": "flat-cartoon-1.png",
+    "passed": true,
+    "note": "Flat pastel cartoon letters with doodle characters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "floral": {
+    "attempts": [
+      {
+        "file": "floral-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Floral",
+        "aspect": "1:1",
+        "source_hash": "b388787e11a5d612"
+      },
+      {
+        "file": "floral-2.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Floral",
+        "aspect": "1:1",
+        "source_hash": "b388787e11a5d612"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Floral",
+    "image_file": "floral-2.png",
+    "passed": false,
+    "note": "Both attempts: flowers cover the letters and the word is not reliably readable.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "futuristic": {
+    "attempts": [
+      {
+        "file": "futuristic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FUTURE",
+        "aspect": "1:1",
+        "source_hash": "e046de10062bdf05"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FUTURE",
+    "image_file": "futuristic-1.png",
+    "passed": true,
+    "note": "Blue holographic wireframe letters with HUD corners; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "geometric": {
+    "attempts": [
+      {
+        "file": "geometric-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "GEO",
+        "aspect": "1:1",
+        "source_hash": "91e4c46864a47193"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "GEO",
+    "image_file": "geometric-1.png",
+    "passed": true,
+    "note": "Primary-colour geometric letters with bars; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "glass": {
+    "attempts": [
+      {
+        "file": "glass-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "GLASS",
+        "aspect": "1:1",
+        "source_hash": "e603327b4debb7d1"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "GLASS",
+    "image_file": "glass-1.png",
+    "passed": true,
+    "note": "Clear glass letters on a pale ground; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "glass_broken": {
+    "attempts": [
+      {
+        "file": "glass-broken-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SMASH",
+        "aspect": "1:1",
+        "source_hash": "aa47ad82918151c1"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SMASH",
+    "image_file": "glass-broken-1.png",
+    "passed": true,
+    "note": "Shattered glass letters with cracks; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "glass_color": {
+    "attempts": [
+      {
+        "file": "glass-color-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CYAN",
+        "aspect": "1:1",
+        "source_hash": "7528310a282e9921"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CYAN",
+    "image_file": "glass-color-1.png",
+    "passed": true,
+    "note": "Coloured stained-glass letters with reflections; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "glass_crystal": {
+    "attempts": [
+      {
+        "file": "glass-crystal-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "GEM",
+        "aspect": "1:1",
+        "source_hash": "63753e542dce3909"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "GEM",
+    "image_file": "glass-crystal-1.png",
+    "passed": true,
+    "note": "Faceted crystal letters with star glints; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "glass_frozen": {
+    "attempts": [
+      {
+        "file": "glass-frozen-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FROST",
+        "aspect": "1:1",
+        "source_hash": "d0a0c535fd83482a"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FROST",
+    "image_file": "glass-frozen-1.png",
+    "passed": true,
+    "note": "Ice-encased letters with icicles under an aurora; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "glass_liquid": {
+    "attempts": [
+      {
+        "file": "glass-liquid-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FLOW",
+        "aspect": "1:1",
+        "source_hash": "0443b771a6b36bc8"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FLOW",
+    "image_file": "glass-liquid-1.png",
+    "passed": true,
+    "note": "Translucent liquid-glass letters on a pastel gradient; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "glass_morphism": {
+    "attempts": [
+      {
+        "file": "glass-morphism-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BLUR",
+        "aspect": "1:1",
+        "source_hash": "fed5231964141557"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BLUR",
+    "image_file": "glass-morphism-1.png",
+    "passed": true,
+    "note": "Frosted glass letters over coloured bokeh; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "glitch": {
+    "attempts": [
+      {
+        "file": "glitch-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "GLITCH",
+        "aspect": "1:1",
+        "source_hash": "a99f5156a2398203"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "GLITCH",
+    "image_file": "glitch-1.png",
+    "passed": true,
+    "note": "Scanline RGB glitch letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "gothic_dark": {
+    "attempts": [
+      {
+        "file": "gothic-dark-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "DARK",
+        "aspect": "1:1",
+        "source_hash": "e645ea813d3993da"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "DARK",
+    "image_file": "gothic-dark-1.png",
+    "passed": true,
+    "note": "Dark iron blackletter with red glow in a cathedral; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "gothic_font": {
+    "attempts": [
+      {
+        "file": "gothic-font-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Gothic",
+        "aspect": "1:1",
+        "source_hash": "a882065cc6c977a6"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Gothic",
+    "image_file": "gothic-font-1.png",
+    "passed": true,
+    "note": "Gilded blackletter on a parchment scroll; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "graffiti": {
+    "attempts": [
+      {
+        "file": "graffiti-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "STREET",
+        "aspect": "1:1",
+        "source_hash": "a7afd1f2acef7342"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "STREET",
+    "image_file": "graffiti-1.png",
+    "passed": true,
+    "note": "Wildstyle-adjacent spray graffiti with drips; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "grunge": {
+    "attempts": [
+      {
+        "file": "grunge-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "GRUNGE",
+        "aspect": "1:1",
+        "source_hash": "76f3e9251576b06a"
+      },
+      {
+        "file": "grunge-2.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "GRUNGE",
+        "aspect": "1:1",
+        "source_hash": "76f3e9251576b06a"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "GRUNGE",
+    "image_file": "grunge-2.png",
+    "passed": true,
+    "note": "Attempt 1: main word correct, but the collage adds gibberish pseudo-text. Attempt 2: torn photocopy collage with the word clean and legible; no stray text.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "handwritten_script": {
+    "attempts": [
+      {
+        "file": "handwritten-script-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Elegance",
+        "aspect": "1:1",
+        "source_hash": "29ff90d8ecc42c16"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Elegance",
+    "image_file": "handwritten-script-1.png",
+    "passed": true,
+    "note": "Ink handwriting on paper with a wax seal; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "hawaiian": {
+    "attempts": [
+      {
+        "file": "hawaiian-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "ALOHA",
+        "aspect": "1:1",
+        "source_hash": "3e29a4130b166910"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "ALOHA",
+    "image_file": "hawaiian-1.png",
+    "passed": true,
+    "note": "Tiki-style carved letters with leis and torches; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "holographic": {
+    "attempts": [
+      {
+        "file": "holographic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "HOLO",
+        "aspect": "1:1",
+        "source_hash": "52bed2e9d5cf9496"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "HOLO",
+    "image_file": "holographic-1.png",
+    "passed": true,
+    "note": "Iridescent foil letters with reflection; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "horror": {
+    "attempts": [
+      {
+        "file": "horror-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "WICKED",
+        "aspect": "1:1",
+        "source_hash": "7f764ab28fcf9890"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "WICKED",
+    "image_file": "horror-1.png",
+    "passed": true,
+    "note": "Rotting letters with glowing lower edges; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "ice_crystal": {
+    "attempts": [
+      {
+        "file": "ice-crystal-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FROZEN",
+        "aspect": "1:1",
+        "source_hash": "b39b48e92f1f3c49"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FROZEN",
+    "image_file": "ice-crystal-1.png",
+    "passed": true,
+    "note": "Spiky ice-crystal letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "kagemoji": {
+    "attempts": [
+      {
+        "file": "kagemoji-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SHADOW",
+        "aspect": "1:1",
+        "source_hash": "073cc2bb081a6ad3"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SHADOW",
+    "image_file": "kagemoji-1.png",
+    "passed": true,
+    "note": "Flat letters with a long 45-degree solid shadow; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "kawaii": {
+    "attempts": [
+      {
+        "file": "kawaii-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CUTE",
+        "aspect": "1:1",
+        "source_hash": "abbadeb5c613639b"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CUTE",
+    "image_file": "kawaii-1.png",
+    "passed": true,
+    "note": "Pastel kawaii window-frame layout with bows and clouds; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "kids_gift": {
+    "attempts": [
+      {
+        "file": "kids-gift-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "WOW",
+        "aspect": "1:1",
+        "source_hash": "709c1d1ecfb5fb15"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "WOW",
+    "image_file": "kids-gift-1.png",
+    "passed": true,
+    "note": "Glossy balloon letters with balloons and confetti; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "laser_cut": {
+    "attempts": [
+      {
+        "file": "laser-cut-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CUT",
+        "aspect": "1:1",
+        "source_hash": "8d6db8b76a3d441b"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CUT",
+    "image_file": "laser-cut-1.png",
+    "passed": true,
+    "note": "Laser-cut wooden letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "luxury_gold": {
+    "attempts": [
+      {
+        "file": "luxury-gold-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "LUXE",
+        "aspect": "1:1",
+        "source_hash": "d6336a5239bb355a"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "LUXE",
+    "image_file": "luxury-gold-1.png",
+    "passed": true,
+    "note": "Hammered 3D gold on black; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "magic_fantasy": {
+    "attempts": [
+      {
+        "file": "magic-fantasy-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SPELL",
+        "aspect": "1:1",
+        "source_hash": "e9f49f6886a6cadd"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SPELL",
+    "image_file": "magic-fantasy-1.png",
+    "passed": true,
+    "note": "Glowing arcane title in a candlelit library; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "medieval": {
+    "attempts": [
+      {
+        "file": "medieval-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "QUEST",
+        "aspect": "1:1",
+        "source_hash": "43df4001064fb6d6"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "QUEST",
+    "image_file": "medieval-1.png",
+    "passed": true,
+    "note": "Illuminated-manuscript capitals with a knotwork border; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "metallic": {
+    "attempts": [
+      {
+        "file": "metallic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "METAL",
+        "aspect": "1:1",
+        "source_hash": "5de9ff10fda71409"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "METAL",
+    "image_file": "metallic-1.png",
+    "passed": true,
+    "note": "Brushed-steel 3D letters with reflection; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "minimal": {
+    "attempts": [
+      {
+        "file": "minimal-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "MINIMAL",
+        "aspect": "1:1",
+        "source_hash": "e37c5de166ecb0f9"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "MINIMAL",
+    "image_file": "minimal-1.png",
+    "passed": true,
+    "note": "Clean thin sans on white with a hairline rule; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "mothers_day": {
+    "attempts": [
+      {
+        "file": "mothers-day-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Happy Mother's Day",
+        "aspect": "16:9",
+        "source_hash": "35ffa6eec857c8f2"
+      },
+      {
+        "file": "mothers-day-2.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Happy Mother's Day",
+        "aspect": "16:9",
+        "source_hash": "35ffa6eec857c8f2"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Happy Mother's Day",
+    "image_file": "mothers-day-2.png",
+    "passed": true,
+    "note": "Attempt 1: rendered 'Happy Mother's Day Day' (word duplicated). Attempt 2: script with roses; all three words, spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "neon_80s": {
+    "attempts": [
+      {
+        "file": "neon-80s-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SYNTH",
+        "aspect": "1:1",
+        "source_hash": "4a637693adc46565"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SYNTH",
+    "image_file": "neon-80s-1.png",
+    "passed": true,
+    "note": "80s neon chrome letters over a grid with palms; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "neon_outline": {
+    "attempts": [
+      {
+        "file": "neon-outline-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "OUTLINE",
+        "aspect": "1:1",
+        "source_hash": "6c7a39e96bcc5a89"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "OUTLINE",
+    "image_file": "neon-outline-1.png",
+    "passed": true,
+    "note": "Thin neon outline letters with reflection; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "neon_sign": {
+    "attempts": [
+      {
+        "file": "neon-sign-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "OPEN",
+        "aspect": "1:1",
+        "source_hash": "f9896e46fcc7975c"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "OPEN",
+    "image_file": "neon-sign-1.png",
+    "passed": true,
+    "note": "Warm neon script sign on brick; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "nutcracker": {
+    "attempts": [
+      {
+        "file": "nutcracker-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "MERRY",
+        "aspect": "1:1",
+        "source_hash": "b86317b57af23560"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "MERRY",
+    "image_file": "nutcracker-1.png",
+    "passed": true,
+    "note": "Theatre stage with nutcracker soldiers and gilded title; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "origami": {
+    "attempts": [
+      {
+        "file": "origami-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FOLD",
+        "aspect": "1:1",
+        "source_hash": "7675245aff6b1954"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FOLD",
+    "image_file": "origami-1.png",
+    "passed": true,
+    "note": "Folded-paper letters with paper cranes; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "pink_christmas": {
+    "attempts": [
+      {
+        "file": "pink-christmas-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "MERRY",
+        "aspect": "1:1",
+        "source_hash": "2989e7dc24cb0d0a"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "MERRY",
+    "image_file": "pink-christmas-1.png",
+    "passed": true,
+    "note": "Pink satin-ornament scene with the word in pale relief; legible, spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "pink_halloween": {
+    "attempts": [
+      {
+        "file": "pink-halloween-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BOO",
+        "aspect": "1:1",
+        "source_hash": "46442d91f1767dcf"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BOO",
+    "image_file": "pink-halloween-1.png",
+    "passed": true,
+    "note": "Pink Halloween frame with ghosts and pumpkins; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "pixel_art": {
+    "attempts": [
+      {
+        "file": "pixel-art-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "PIXEL",
+        "aspect": "1:1",
+        "source_hash": "122cb5e1447db83c"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "PIXEL",
+    "image_file": "pixel-art-1.png",
+    "passed": true,
+    "note": "Pixel letters on a CRT screen; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "pop_art": {
+    "attempts": [
+      {
+        "file": "pop-art-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "POP!",
+        "aspect": "1:1",
+        "source_hash": "a764dcd916c43ef0"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "POP!",
+    "image_file": "pop-art-1.png",
+    "passed": true,
+    "note": "Ben-Day dot letters on a starburst with black outlines; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "post_apocalyptic": {
+    "attempts": [
+      {
+        "file": "post-apocalyptic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "WARZONE",
+        "aspect": "1:1",
+        "source_hash": "ef79318993e286fc"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "WARZONE",
+    "image_file": "post-apocalyptic-1.png",
+    "passed": true,
+    "note": "Cracked charred letters with ember glow; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "preppy_christmas": {
+    "attempts": [
+      {
+        "file": "preppy-christmas-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "MERRY",
+        "aspect": "1:1",
+        "source_hash": "62b6620ec7899b07"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "MERRY",
+    "image_file": "preppy-christmas-1.png",
+    "passed": true,
+    "note": "Tartan-framed card with bows; spelled right (letters are plain serif, not tartan-filled like the preview).",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "racing": {
+    "attempts": [
+      {
+        "file": "racing-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SPEED",
+        "aspect": "1:1",
+        "source_hash": "d1051a9e14d97454"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SPEED",
+    "image_file": "racing-1.png",
+    "passed": true,
+    "note": "Forward-leaning italic with speed streaks; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "rainbow": {
+    "attempts": [
+      {
+        "file": "rainbow-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "COLOR",
+        "aspect": "1:1",
+        "source_hash": "72666c1fcc848de5"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "COLOR",
+    "image_file": "rainbow-1.png",
+    "passed": true,
+    "note": "Rainbow-striped letters with confetti; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "retro_pop": {
+    "attempts": [
+      {
+        "file": "retro-pop-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "RETRO!",
+        "aspect": "1:1",
+        "source_hash": "5d5afe13812a2f52"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "RETRO!",
+    "image_file": "retro-pop-1.png",
+    "passed": true,
+    "note": "Mid-century pop letters with halftone and starburst; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "romantic_her": {
+    "attempts": [
+      {
+        "file": "romantic-her-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FOR YOU",
+        "aspect": "1:1",
+        "source_hash": "47d5b927b0c64922"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FOR YOU",
+    "image_file": "romantic-her-1.png",
+    "passed": true,
+    "note": "Rose-gold script among roses; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "romantic_him": {
+    "attempts": [
+      {
+        "file": "romantic-him-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FOR HIM",
+        "aspect": "1:1",
+        "source_hash": "fe36207cd9d01d42"
+      },
+      {
+        "file": "romantic-him-2.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FOR HIM",
+        "aspect": "1:1",
+        "source_hash": "fe36207cd9d01d42"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FOR HIM",
+    "image_file": "romantic-him-2.png",
+    "passed": false,
+    "note": "Both attempts: legible, but brass letters on a wood panel instead of stitched leather — not recognisably this style.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "sand_stone": {
+    "attempts": [
+      {
+        "file": "sand-stone-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "ANCIENT",
+        "aspect": "1:1",
+        "source_hash": "cd20ce3f9f5a93f6"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "ANCIENT",
+    "image_file": "sand-stone-1.png",
+    "passed": true,
+    "note": "Letters carved into a sandstone cliff; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "spooky_halloween": {
+    "attempts": [
+      {
+        "file": "spooky-halloween-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SPOOKY",
+        "aspect": "1:1",
+        "source_hash": "878e8ac0d1552ca6"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SPOOKY",
+    "image_file": "spooky-halloween-1.png",
+    "passed": true,
+    "note": "Halloween night scene with full moon and haunted house; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "sports": {
+    "attempts": [
+      {
+        "file": "sports-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CHAMPION",
+        "aspect": "1:1",
+        "source_hash": "b094d2ca069e08f7"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CHAMPION",
+    "image_file": "sports-1.png",
+    "passed": true,
+    "note": "Chrome athletic italic under stadium lights; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "sports_football": {
+    "attempts": [
+      {
+        "file": "sports-football-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "STRIKER",
+        "aspect": "1:1",
+        "source_hash": "ad0997c88a9c7e4c"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "STRIKER",
+    "image_file": "sports-football-1.png",
+    "passed": true,
+    "note": "Stadium title with floodlights and confetti; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "spring_holiday": {
+    "attempts": [
+      {
+        "file": "spring-holiday-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BLOOM",
+        "aspect": "1:1",
+        "source_hash": "ca4038834152b49a"
+      },
+      {
+        "file": "spring-holiday-2.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BLOOM",
+        "aspect": "1:1",
+        "source_hash": "ca4038834152b49a"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BLOOM",
+    "image_file": "spring-holiday-2.png",
+    "passed": false,
+    "note": "Both attempts: letters built from flowers; the word is barely readable.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "steampunk": {
+    "attempts": [
+      {
+        "file": "steampunk-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "STEAM",
+        "aspect": "1:1",
+        "source_hash": "fe2ba450bd4c1443"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "STEAM",
+    "image_file": "steampunk-1.png",
+    "passed": true,
+    "note": "Brass-and-pipe letters in a workshop with filament bulbs; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "stencil": {
+    "attempts": [
+      {
+        "file": "stencil-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CARGO",
+        "aspect": "1:1",
+        "source_hash": "bf8de145a031a272"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CARGO",
+    "image_file": "stencil-1.png",
+    "passed": true,
+    "note": "Spray-stencilled letters on concrete; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "superhero": {
+    "attempts": [
+      {
+        "file": "superhero-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "HERO",
+        "aspect": "1:1",
+        "source_hash": "ae529a402f50f907"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "HERO",
+    "image_file": "superhero-1.png",
+    "passed": true,
+    "note": "Red/blue/gold 3D letters bursting from an explosion; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "synthwave": {
+    "attempts": [
+      {
+        "file": "synthwave-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "SYNTH",
+        "aspect": "1:1",
+        "source_hash": "6c06325cb51e7258"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "SYNTH",
+    "image_file": "synthwave-1.png",
+    "passed": true,
+    "note": "Chrome gradient title over a neon grid and sun; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "tattoo": {
+    "attempts": [
+      {
+        "file": "tattoo-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Forever",
+        "aspect": "1:1",
+        "source_hash": "861655ede7c1b945"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Forever",
+    "image_file": "tattoo-1.png",
+    "passed": true,
+    "note": "Fresh black tattoo lettering on an arm; spelled right (plainer script than the preview).",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "teachers_day": {
+    "attempts": [
+      {
+        "file": "teachers-day-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Thank You",
+        "aspect": "1:1",
+        "source_hash": "712c44e28515db7b"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Thank You",
+    "image_file": "teachers-day-1.png",
+    "passed": true,
+    "note": "Friendly handwritten thank-you on a warm desk scene; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "typewriter": {
+    "attempts": [
+      {
+        "file": "typewriter-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "DISPATCH",
+        "aspect": "1:1",
+        "source_hash": "3012e8c7c6216be6"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "DISPATCH",
+    "image_file": "typewriter-1.png",
+    "passed": true,
+    "note": "Typewriter-struck letters on aged paper; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "vaporwave": {
+    "attempts": [
+      {
+        "file": "vaporwave-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "WAVE",
+        "aspect": "1:1",
+        "source_hash": "386976d8686d0444"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "WAVE",
+    "image_file": "vaporwave-1.png",
+    "passed": true,
+    "note": "Pastel vaporwave scene with bust, palms and checkerboard; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "viking": {
+    "attempts": [
+      {
+        "file": "viking-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "ODIN",
+        "aspect": "1:1",
+        "source_hash": "93d36d37faa02a29"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "ODIN",
+    "image_file": "viking-1.png",
+    "passed": true,
+    "note": "Heavy weathered stone/iron letters in a battlefield; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "viking_runic": {
+    "attempts": [
+      {
+        "file": "viking-runic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "ODIN",
+        "aspect": "1:1",
+        "source_hash": "040a46c6042d63d7"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "ODIN",
+    "image_file": "viking-runic-1.png",
+    "passed": true,
+    "note": "Angular rune-like carved letters on slate; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "vintage": {
+    "attempts": [
+      {
+        "file": "vintage-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FOREVER",
+        "aspect": "1:1",
+        "source_hash": "aef30c434e967f81"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FOREVER",
+    "image_file": "vintage-1.png",
+    "passed": true,
+    "note": "Letterpress-style letters on aged paper; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "vintage_christmas": {
+    "attempts": [
+      {
+        "file": "vintage-christmas-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "NOEL",
+        "aspect": "1:1",
+        "source_hash": "b103d301797744c3"
+      },
+      {
+        "file": "vintage-christmas-2.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "NOEL",
+        "aspect": "1:1",
+        "source_hash": "b103d301797744c3"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "NOEL",
+    "image_file": "vintage-christmas-2.png",
+    "passed": false,
+    "note": "Both attempts rendered 'NOËL' instead of 'NOEL' (added a diaeresis).",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "vintage_halloween": {
+    "attempts": [
+      {
+        "file": "vintage-halloween-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BOO",
+        "aspect": "1:1",
+        "source_hash": "40d3be45e24db409"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BOO",
+    "image_file": "vintage-halloween-1.png",
+    "passed": true,
+    "note": "Vintage Halloween card with banner, cat and pumpkin; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "watercolor": {
+    "attempts": [
+      {
+        "file": "watercolor-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Hello Spring",
+        "aspect": "16:9",
+        "source_hash": "cd3f4f8c09224ac9"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Hello Spring",
+    "image_file": "watercolor-1.png",
+    "passed": true,
+    "note": "Watercolour letters on paper; two words, spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "watercolor_christmas": {
+    "attempts": [
+      {
+        "file": "watercolor-christmas-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "JOY",
+        "aspect": "1:1",
+        "source_hash": "41a9566a302927a7"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "JOY",
+    "image_file": "watercolor-christmas-1.png",
+    "passed": true,
+    "note": "Watercolour letters above a snowy village; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "wedding": {
+    "attempts": [
+      {
+        "file": "wedding-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FOREVER",
+        "aspect": "1:1",
+        "source_hash": "d43fd0fd16b220a7"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FOREVER",
+    "image_file": "wedding-1.png",
+    "passed": true,
+    "note": "Gold foil letters on deckled card with roses; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "western": {
+    "attempts": [
+      {
+        "file": "western-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "WESTERN",
+        "aspect": "1:1",
+        "source_hash": "ec7f6487d1217913"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "WESTERN",
+    "image_file": "western-1.png",
+    "passed": true,
+    "note": "Carved wooden saloon sign; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "y2k": {
+    "attempts": [
+      {
+        "file": "y2k-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "Y2K",
+        "aspect": "1:1",
+        "source_hash": "e3cddf15c02bad2c"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "Y2K",
+    "image_file": "y2k-1.png",
+    "passed": true,
+    "note": "Iridescent foil-balloon letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "y2k_bubbly": {
+    "attempts": [
+      {
+        "file": "y2k-bubbly-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "BUBBLY",
+        "aspect": "1:1",
+        "source_hash": "3e1a48158d2c164a"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "BUBBLY",
+    "image_file": "y2k-bubbly-1.png",
+    "passed": true,
+    "note": "Puffy pink balloon letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "y2k_chrome": {
+    "attempts": [
+      {
+        "file": "y2k-chrome-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "CHROME",
+        "aspect": "1:1",
+        "source_hash": "f83b5c9922016f37"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "CHROME",
+    "image_file": "y2k-chrome-1.png",
+    "passed": true,
+    "note": "Holographic chrome letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "y2k_holographic": {
+    "attempts": [
+      {
+        "file": "y2k-holographic-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "HOLO",
+        "aspect": "1:1",
+        "source_hash": "026684ab321f990e"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "HOLO",
+    "image_file": "y2k-holographic-1.png",
+    "passed": true,
+    "note": "Holographic glossy letters with sparkles; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  },
+  "y2k_liquid": {
+    "attempts": [
+      {
+        "file": "y2k-liquid-1.png",
+        "error": "",
+        "model": "gemini-2.5-flash-image",
+        "date": "2026-10-30",
+        "text": "FLUID",
+        "aspect": "1:1",
+        "source_hash": "af1a63ca2950c13c"
+      }
+    ],
+    "model": "gemini-2.5-flash-image",
+    "date": "2026-10-30",
+    "text": "FLUID",
+    "image_file": "y2k-liquid-1.png",
+    "passed": true,
+    "note": "Liquid chrome dripping letters; spelled right.",
+    "reviewed_by": "claude (AI assistant) viewing each image side by side with the FontVibe preview"
+  }
+}

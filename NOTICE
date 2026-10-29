@@ -1,0 +1,23 @@
+awesome-text-effect-prompts
+Copyright (c) 2026 Funovate Technology (FontVibe, https://fontvibe.ai)
+
+Licensing
+  - Prompts, style layers, names, descriptions and all other data
+    (prompts/, index.json, data/, npm/data/): CC BY 4.0 — see LICENSE.
+  - Code (scripts/, npm/*.js, npm/*.mjs, npm/*.d.ts): MIT — see LICENSE-CODE.
+
+Attribution requested under CC BY 4.0
+  Link the FontVibe page of the style you used, e.g.
+  https://fontvibe.ai/styles/neon-glow — or https://fontvibe.ai/styles for
+  the collection. rel="nofollow" is fine. See README.md#attribution.
+
+Images
+  Preview and example images are not part of this repository. They are
+  hotlinked from FontVibe (cos.fontvibe.ai) and remain subject to
+  FontVibe's terms (https://fontvibe.ai/terms).
+
+Trademarks
+  Styles whose identity depends on a brand, franchise or real person were left
+  out, and brand / franchise / real-person mentions were removed from the
+  published prompts. The record of what was changed and why is
+  data/curation.json.

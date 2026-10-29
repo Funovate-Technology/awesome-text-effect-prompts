@@ -1,0 +1,62 @@
+{
+  "name": "text-effect-prompts",
+  "version": "1.0.0",
+  "description": "AI text-effect prompts with a {{TEXT}} placeholder, each tested on a general image model, with style names and descriptions in English, Japanese, Chinese, Spanish, Portuguese and German. From FontVibe. Zero dependencies.",
+  "keywords": [
+    "prompts",
+    "text-effects",
+    "typography",
+    "ai-art",
+    "image-generation",
+    "nano-banana",
+    "gemini",
+    "text-to-image",
+    "lettering",
+    "font-effects",
+    "dataset",
+    "multilingual"
+  ],
+  "homepage": "https://fontvibe.ai/styles",
+  "bugs": "https://github.com/Funovate-Technology/awesome-text-effect-prompts/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Funovate-Technology/awesome-text-effect-prompts.git",
+    "directory": "npm"
+  },
+  "license": "(MIT AND CC-BY-4.0)",
+  "author": "Funovate Technology (https://fontvibe.ai)",
+  "main": "./index.js",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.js"
+    },
+    "./data/index.json": "./data/index.json",
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "text-effect-prompts": "./cli.js"
+  },
+  "files": [
+    "index.js",
+    "index.mjs",
+    "index.d.ts",
+    "cli.js",
+    "data/index.json",
+    "README.md",
+    "LICENSE",
+    "LICENSE-CODE",
+    "NOTICE"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "prepack": "node scripts/sync-data.js",
+    "test": "node test.js"
+  }
+}

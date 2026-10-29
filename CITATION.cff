@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Awesome Text Effect Prompts"
+message: "If you use these prompts or this data, please cite it and link https://fontvibe.ai/styles."
+type: dataset
+authors:
+  - name: "FontVibe"
+    website: "https://fontvibe.ai"
+abstract: >-
+  Copy-paste prompts for AI text effects (neon, chrome, liquid glass, ink
+  brush, pixel art, pop art and more), each with a {{TEXT}} placeholder,
+  derived from FontVibe's style library, screened for trademarks, rewritten to
+  work without FontVibe's font pipeline, and tested on a general image model
+  before inclusion. Style names and descriptions in English, Japanese,
+  Chinese, Spanish, Portuguese and German.
+keywords:
+  - prompts
+  - text effects
+  - typography
+  - lettering
+  - text-to-image
+  - image generation
+  - prompt engineering
+  - multilingual
+license: CC-BY-4.0
+url: "https://fontvibe.ai/styles"
+repository-code: "https://github.com/Funovate-Technology/awesome-text-effect-prompts"
+version: "1.0.0"
+date-released: "2026-10-30"

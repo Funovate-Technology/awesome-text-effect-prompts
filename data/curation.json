@@ -1,0 +1,460 @@
+{
+  "_comment": "Machine-readable record of what was left out or rewritten, and why. scripts/export.py applies `scrub_rules` to every English text taken from the FontVibe API before publishing; scripts/verify.py fails if any `denylist` pattern survives anywhere in the published files.",
+  "excluded": [
+    {
+      "id": "cinematic_netflix",
+      "reason": "trademark",
+      "detail": "Style identity is a specific streaming service's key-art look; the name itself is a trademark (Netflix)."
+    },
+    {
+      "id": "spider_hero",
+      "reason": "trademark/franchise",
+      "detail": "Built around a specific superhero franchise and film title (Spider-Man: Brand New Day) and its setting."
+    },
+    {
+      "id": "cyberpunk_2077",
+      "reason": "trademark/franchise",
+      "detail": "Named after a video game and references its in-game corporations and city (Arasaka, Militech, Night City)."
+    },
+    {
+      "id": "barbie",
+      "reason": "trademark",
+      "detail": "Name and look depend on a toy brand (Barbie, Mattel)."
+    }
+  ],
+  "renamed": [
+    {
+      "id": "cinematic_youtube_creator",
+      "field": "name",
+      "from": "YouTube Creator",
+      "to": "Video Creator",
+      "reason": "trademark in the style name",
+      "note": "Non-English names on FontVibe also contain the brand; they are left empty here rather than machine-translated."
+    }
+  ],
+  "scrub_rules": [
+    {
+      "pattern": "The typographic language of Dragon Ball, Naruto, One Piece, Demon Slayer, Jujutsu Kaisen title cards",
+      "replace": "The typographic language of classic shounen anime title cards",
+      "styles": [
+        "anime"
+      ],
+      "reason": "franchise titles"
+    },
+    {
+      "pattern": "like a chapter title page from Weekly Shonen Jump",
+      "replace": "like a chapter title page from a weekly manga magazine",
+      "styles": [
+        "anime"
+      ],
+      "reason": "magazine trademark"
+    },
+    {
+      "pattern": "classic Shonen Jump title card standards",
+      "replace": "classic shounen manga title card standards",
+      "styles": [
+        "anime"
+      ],
+      "reason": "magazine trademark"
+    },
+    {
+      "pattern": "classic Shonen Jump title impact panel",
+      "replace": "classic shounen manga title impact panel",
+      "styles": [
+        "anime"
+      ],
+      "reason": "magazine trademark"
+    },
+    {
+      "pattern": "rendered in Roy Lichtenstein pop art style",
+      "replace": "rendered in classic 1960s comic-panel pop art style",
+      "styles": [
+        "pop_art"
+      ],
+      "reason": "real person"
+    },
+    {
+      "pattern": "Lichtenstein comic capitals",
+      "replace": "Pop-art comic capitals",
+      "styles": [
+        "pop_art"
+      ],
+      "reason": "real person"
+    },
+    {
+      "pattern": "Lichtenstein halftone",
+      "replace": "comic halftone",
+      "styles": [
+        "retro_pop"
+      ],
+      "reason": "real person"
+    },
+    {
+      "pattern": "a vintage Marvel/DC comic page panel",
+      "replace": "a vintage American comic page panel",
+      "styles": [
+        "pop_art"
+      ],
+      "reason": "publisher trademarks"
+    },
+    {
+      "pattern": "Apple Vision Pro material aesthetic",
+      "replace": "Premium spatial-computing material aesthetic",
+      "styles": [
+        "glass_liquid"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "Apple iOS frosted panels, macOS Big Sur glassmorphism UI",
+      "replace": "modern mobile-OS frosted panels, desktop glassmorphism UI",
+      "styles": [
+        "glass_morphism"
+      ],
+      "reason": "trademarks"
+    },
+    {
+      "pattern": "YouTube creator",
+      "replace": "video creator",
+      "styles": [
+        "cinematic_youtube_creator"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "YouTube Creator",
+      "replace": "Video Creator",
+      "styles": [
+        "cinematic_youtube_creator"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "YouTube banners, birthday cards, Discord headers",
+      "replace": "channel banners, birthday cards, chat-server headers",
+      "styles": [
+        "3d_bold_gold"
+      ],
+      "reason": "trademarks"
+    },
+    {
+      "pattern": "Discord headers",
+      "replace": "chat-server headers",
+      "styles": [
+        "3d_bold_inflated"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "a Discord banner",
+      "replace": "a chat-server banner",
+      "styles": [
+        "anime_character"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "use as Twitch or Discord emotes",
+      "replace": "use as streaming or chat emotes",
+      "styles": [
+        "chibi"
+      ],
+      "reason": "trademarks"
+    },
+    {
+      "pattern": "Instagram bios",
+      "replace": "social media bios",
+      "styles": [
+        "cursive_aesthetic"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "Kirby Krackle energy dots",
+      "replace": "cosmic crackle energy dots",
+      "styles": [
+        "comic_book"
+      ],
+      "reason": "real person (technique named after an artist)"
+    },
+    {
+      "pattern": "in Ferrari red",
+      "replace": "in racing red",
+      "styles": [
+        "comic_book"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": " — John Wick, Mission Impossible, Top Gun: Maverick\\.",
+      "replace": ".",
+      "styles": [
+        "cinematic_action"
+      ],
+      "reason": "film franchises"
+    },
+    {
+      "pattern": "The visual language of Christopher Nolan's hard science fiction",
+      "replace": "The visual language of modern hard science-fiction cinema",
+      "styles": [
+        "cinematic_scifi"
+      ],
+      "reason": "real person"
+    },
+    {
+      "pattern": "Delaunay triangulation mesh",
+      "replace": "triangulated wireframe mesh",
+      "styles": [
+        "futuristic"
+      ],
+      "reason": "proper name (removed to keep the denylist simple)"
+    },
+    {
+      "pattern": "the defining Moscoso / Fillmore optical effect",
+      "replace": "the defining 1960s concert-poster optical effect",
+      "styles": [
+        "psychedelic"
+      ],
+      "reason": "real person + venue trademark"
+    },
+    {
+      "pattern": "the kind pasted on a Fillmore wall during the Summer of Love",
+      "replace": "the kind pasted on a ballroom wall during the Summer of Love",
+      "styles": [
+        "psychedelic"
+      ],
+      "reason": "venue trademark"
+    },
+    {
+      "pattern": "Day-Glo",
+      "replace": "fluorescent",
+      "styles": [
+        "psychedelic"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "Xerox speckle",
+      "replace": "photocopy speckle",
+      "styles": [
+        "grunge"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "Vintage Underwood No\\.5 aesthetic",
+      "replace": "Vintage manual-typewriter aesthetic",
+      "styles": [
+        "typewriter"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "Clarendon or Rockwell slab",
+      "replace": "Clarendon or geometric slab",
+      "styles": [
+        "western"
+      ],
+      "reason": "typeface trademark (Rockwell)"
+    },
+    {
+      "pattern": "lit like a Windows-95 sunset",
+      "replace": "lit like a 1990s desktop-wallpaper sunset",
+      "styles": [
+        "vaporwave"
+      ],
+      "reason": "trademark"
+    },
+    {
+      "pattern": "Gatsby-era",
+      "replace": "Jazz Age",
+      "styles": [
+        "art_deco"
+      ],
+      "reason": "fictional character / film title"
+    },
+    {
+      "pattern": "Gatsby invites",
+      "replace": "Jazz Age invites",
+      "styles": [
+        "art_deco"
+      ],
+      "reason": "fictional character / film title"
+    },
+    {
+      "pattern": "Matrix-style cascading",
+      "replace": "Cascading",
+      "styles": [
+        "cyberpunk_data_stream"
+      ],
+      "reason": "film title"
+    },
+    {
+      "pattern": "matrix-rain characters",
+      "replace": "digital-rain characters",
+      "styles": [
+        "cyberpunk_data_stream"
+      ],
+      "reason": "film title"
+    },
+    {
+      "pattern": "phosphor matrix",
+      "replace": "phosphor code rain",
+      "styles": [
+        "cyberpunk_data_stream"
+      ],
+      "reason": "film title"
+    },
+    {
+      "pattern": "matrix characters",
+      "replace": "code characters",
+      "styles": [
+        "cyberpunk_data_stream"
+      ],
+      "reason": "film title"
+    },
+    {
+      "pattern": "matrix-style falling pixels",
+      "replace": "digital-rain falling pixels",
+      "styles": [
+        "cyberpunk_neon_glitch"
+      ],
+      "reason": "film title"
+    },
+    {
+      "pattern": "acid/gaming/matrix words",
+      "replace": "acid/gaming/hacker words",
+      "styles": [
+        "neon_outline"
+      ],
+      "reason": "film title"
+    },
+    {
+      "pattern": "Edison filament",
+      "replace": "vintage filament",
+      "styles": [
+        "steampunk"
+      ],
+      "reason": "real person"
+    },
+    {
+      "pattern": "Edison-bulb",
+      "replace": "filament-bulb",
+      "styles": [
+        "romantic_him"
+      ],
+      "reason": "real person"
+    },
+    {
+      "pattern": "Edison bulb",
+      "replace": "vintage filament bulb",
+      "styles": [
+        "chalk",
+        "steampunk"
+      ],
+      "reason": "real person"
+    },
+    {
+      "pattern": "polaroid frames",
+      "replace": "instant-photo frames",
+      "styles": [
+        "kawaii"
+      ],
+      "reason": "trademark (Polaroid)"
+    }
+  ],
+  "localized_policy": "Non-English names and descriptions are FontVibe's own translations and are never machine-translated here. If a localized description contains a denylisted term, only the sentences that contain it are dropped; if nothing is left, the field is left empty. Localized names that contain a denylisted term are left empty.",
+  "denylist": [
+    "Netflix",
+    "Spider-Man",
+    "Spider Man",
+    "Brand New Day",
+    "Cyberpunk 2077",
+    "Night City",
+    "Arasaka",
+    "Militech",
+    "Barbie",
+    "Mattel",
+    "Dragon Ball",
+    "Naruto",
+    "One Piece",
+    "Demon Slayer",
+    "Jujutsu",
+    "Shonen Jump",
+    "Shounen Jump",
+    "Lichtenstein",
+    "リキテンスタイン",
+    "利希滕斯坦",
+    "Marvel",
+    "\\bDC\\b",
+    "\\bApple\\b",
+    "Vision Pro",
+    "Big Sur",
+    "macOS",
+    "\\biOS\\b",
+    "YouTube",
+    "Discord",
+    "Twitch",
+    "Instagram",
+    "TikTok",
+    "Ferrari",
+    "Kirby",
+    "John Wick",
+    "Mission Impossible",
+    "Top Gun",
+    "Christopher Nolan",
+    "\\bNolan\\b",
+    "Delaunay",
+    "Moscoso",
+    "Fillmore",
+    "Day-Glo",
+    "Xerox",
+    "Rockwell",
+    "Underwood",
+    "Windows-95",
+    "Windows 95",
+    "Gatsby",
+    "ギャツビー",
+    "[Mm]atrix",
+    "Edison",
+    "Disney",
+    "Pixar",
+    "Ghibli",
+    "Pokémon",
+    "Pokemon",
+    "Nintendo",
+    "Batman",
+    "Superman",
+    "Star Wars",
+    "Harry Potter",
+    "LEGO",
+    "[Pp]olaroid"
+  ],
+  "kept_terms": [
+    {
+      "term": "Hollywood",
+      "reason": "a place / generic film-industry descriptor, not a mark used as a brand here"
+    },
+    {
+      "term": "Ben-Day dots",
+      "reason": "generic printing-technique term"
+    },
+    {
+      "term": "Clarendon",
+      "reason": "generic 1845 slab-serif genre name, public domain"
+    },
+    {
+      "term": "Spencerian",
+      "reason": "generic 19th-century handwriting genre"
+    },
+    {
+      "term": "Nutcracker",
+      "reason": "public-domain ballet"
+    },
+    {
+      "term": "Art Deco, Bauhaus, De Stijl, Swiss, Constructivist, Googie",
+      "reason": "art / design movements"
+    }
+  ],
+  "denylist_note": "Patterns are Python regular expressions, matched case-sensitively (so the fruit 'apple' and the word 'windows' are not flagged)."
+}

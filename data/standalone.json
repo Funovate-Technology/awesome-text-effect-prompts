@@ -1,0 +1,1476 @@
+{
+  "3d_bold": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words appear as massive, chunky 3D block letters with a heavyweight extruded depth measuring around half their height. The front faces are finished in an ultra-glossy lacquer resembling a hard candy coating or high-gloss toy paint, catching bright directional key light from the upper left with natural specular highlights. Each adjacent letter features a completely different, vivid, saturated hue to maximize chromatic contrast, while their side extrusion planes appear in noticeably darker tones of the same hue with sharp, unbeveled edges. Centered prominently in the frame from a frontal view with a slight low elevation, the letters cast long, parallel 45-degree shadows across a polished dark floor that catches clean mirror reflections. The background is a deep, dark studio environment with rich atmospheric depth, subtle warm amber to cool blue gradients, faint volumetric haze, and gentle environmental color bleed from the vibrant letters.",
+    "tips": [
+      "Short words or punchy acronyms with four to seven characters work best to let the heavy extrusion and distinct colors fill the frame without overcrowding.",
+      "You can change the multi-color treatment to a tight monochromatic spectrum, like shifting shades of hot pink or electric blue, for a more unified appearance."
+    ],
+    "test_text": "3D",
+    "source_hash": "5c73bfcd972914e0",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "3d_bold_gold": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are bold, three-dimensionally extruded, and centered in the frame with a heavyweight, prestigious presence. The surface is sculpted from polished 24-karat gold featuring a three-tone spectral gradient: deep amber-brown tones fill the shadow recesses, rich warm gold covers the lit faces, and razor-thin champagne-white specular lines trace the edges where direct light strikes. Illumination comes from a single hard key light angled from the upper-left at 45 degrees, casting crisp, sharp directional shadows toward the lower-right. Below the letters, subtle warm gold ambient light pools softly across the ground plane. The background is a near-black dark void with a faint warm amber ambient glow, completely free of other colored tints so the reflective gold metal commands all luminosity in the scene. Ensure {{TEXT}} is the only legible text in the entire image.",
+    "tips": [
+      "Short, punchy words or single ceremonial titles suit this heavyweight 3D style best.",
+      "Adjust the key light angle from upper-left to directly overhead if you want stronger downward shadow drops and heightened top-edge highlights."
+    ],
+    "test_text": "GOLD",
+    "source_hash": "b3c9e7b61a26e1f0",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "3d_bold_holographic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are bold, three-dimensionally extruded chrome with an iridescent oil-slick surface displaying a full rainbow spectral shift. Diffractive grating physics cause a vibrant color drift shifting smoothly across front-facing planes from hot pink through deep violet, electric cyan, and warm gold, resembling metallized polyester film catching directional light. The letterforms feature clean beveled edges with razor-sharp, hard-edged pure white specular highlights wherever the angled planes catch the studio light source. Each distinct plane—the front face, top surface, and extruded side depths—reflects contrasting environmental tones for rich volumetric depth. The scene is illuminated by a sharp studio key light positioned at a 45-degree angle from the upper-left, balanced by a subtle cold fill light from the opposite side. The base of the lettering casts deep, grounding shadows onto a ground plane. Set in a centered composition filling roughly 70% of the frame width, the entire subject rests against a pure black void background with faint iridescent ambient scatter.",
+    "tips": [
+      "Short words or compact acronyms work best because wide, solid letter surfaces give the rainbow gradient drift ample room to transition smoothly.",
+      "You can modify the background to a deep dark navy or adjust the key light angle to change where the sharp specular highlights and cyan-pink gradients settle on the bevels."
+    ],
+    "test_text": "HOLO",
+    "source_hash": "6eea2bf263926198",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "3d_bold_inflated": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are sculpted as hyper-glossy 3D inflated forms with a smooth candy lacquer surface. Each rounded, convex peak catches a strong circular specular highlight, giving the entire word a polished, tactile sheen. A vivid Y2K candy color palette is applied across the lettering, with each individual character independently colored in saturated bubblegum pink, mint green, electric lavender, or sky blue. Deep crevices between the plump letters display soft ambient occlusion, creating rich volumetric depth illuminated by a bright studio overhead key light. The entire arrangement casts a gentle, slightly blurred drop shadow beneath it against a complementary pastel gradient studio background, producing a joyful party energy while ensuring {{TEXT}} is the only legible text in the scene.",
+    "tips": [
+      "Short, punchy words maximize the puffy, inflated look of the letters.",
+      "Switching the pastel background to a dark candy-store studio backdrop will make the glossy reflections and vibrant candy colors pop with higher contrast."
+    ],
+    "test_text": "BUBBLE",
+    "source_hash": "5d82fdf7e23ef9d0",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "3d_bold_neon": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters appear as bold, dimensional three-dimensional forms featuring vivid neon-lit surfaces and glowing electric edge lighting. Driven by an authentic 1980s retrowave energy, the color palette is saturated with glowing hot magenta, electric cyan, and rich sunset orange. Deep, sharp cast shadows extend from the characters, while saturated neon light bleeds dynamically onto surrounding surfaces. The lettering stands prominently on a dark city rooftop at dusk, where wet concrete catches luminous chromatic reflections in scattered rainwater puddles below. In the background, faint electric grid lines are faintly visible across a hazy twilight sky. The text \"{{TEXT}}\" must remain the only legible writing within the entire scene.",
+    "tips": [
+      "Short, punchy words or vintage arcade-inspired titles pair best with the bold 3D structure and intense neon glow.",
+      "Adjust the dominant color by requesting either cyan or hot magenta to take lead over the scene's ambient lighting and puddle reflections."
+    ],
+    "test_text": "SYNTH",
+    "source_hash": "1622b7c8cf046ea8",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "anime": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are styled as bold, kinetic manga title lettering with dynamic hand-inked construction. Each letterform is defined by a thick black brush-ink outline with natural weight variations, encasing a crisp, flat cel-shaded fill. The coloration across the letters is divided into three distinct knife-edge zones with zero gradient blur: a bright highlight zone along the top edges, a vibrant and highly saturated primary color across the center, and a deep, solid shadow zone grounding the lower portions. The entire letter cluster is framed against a stark, pure white background filled with dense radial black ink speed lines exploding dramatically outward from a central burst point directly behind the text. Sharp graphic star-burst impact marks and angular emphasis symbols are scattered around the words, capturing the energetic high-contrast visual punch of a magazine action chapter title page.",
+    "tips": [
+      "Short, punchy action words or exclamations best match the explosive kinetic energy of the radial speed lines.",
+      "Specify a single vivid hue like fiery orange, crimson, or electric cyan to direct the primary center cel-shade zone."
+    ],
+    "test_text": "ANIME",
+    "source_hash": "f1a17bff6f5df575",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "anime_character": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The scene features original anime character art, depicted from the head and shoulders or half-body facing the viewer. The character has large expressive eyes with layered irises and crisp white catchlights, neatly clumped hair with a glossy highlight band, a delicate nose and mouth, and light blush. Clean line art outlines the figure, complemented by flat cel shading, a subtle shadow tone, and a soft rim light. The backdrop displays a softly blurred pastel sky with fluffy cumulus clouds and gently drifting cherry blossom petals in a soft daylight palette of pastel pink, sky blue, and cream. The character's face is centered in the frame. The text \"{{TEXT}}\" appears small and neat in a corner of the composition, completely away from the character's face, tinted to harmonize with the soft pastel palette and casting a faint, delicate shadow over the illustrated background. No other words or numbers are present in the image.",
+    "tips": [
+      "Short names, usernames, or single Japanese-inspired words work best to keep the focus on the anime portrait.",
+      "To vary the mood, swap the daylight pastel theme for a rainy night street with glowing bokeh or a sunset rooftop with a chain-link fence."
+    ],
+    "test_text": "HELLO",
+    "source_hash": "34261738beca668b",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "anniversary": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text \"{{TEXT}}\" is the sole illuminated subject, centered with visual dignity slightly above the vertical midpoint against a deep jewel-tone background of midnight navy, rich burgundy, and warm obsidian. Forward-facing surfaces catch warm amber-orange raking light from an intimate candlelit source positioned at 30 to 45 degrees, creating radiant glowing contours while casting rich, soft shadows. A gentle secondary fill of diffuse rose-gold and warm champagne light preserves depth without flattening contrast. The surrounding environment recedes into an extreme shallow depth of field, decorated with soft bokeh halos from tall ivory pillar candles, faintly glowing deep crimson rose petal edges in the lower frame, and delicate refracted amber arcs from crystal droplets and champagne coupe rims. The entire scene maintains a consistent warm color temperature between 2800K and 3200K with a subtle dark vignette around the edges, conveying an intimate, private ceremonial atmosphere completely free of cool tones.",
+    "tips": [
+      "Milestone years, couple names, or romantic celebratory words harmonize naturally with this warm ceremonial aesthetic.",
+      "Adjust the background balance toward midnight blue or warm charcoal to subtly shift the mood between rich romance and quiet elegance."
+    ],
+    "test_text": "US",
+    "source_hash": "592c19efe4b6d911",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "art_deco": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering of {{TEXT}} is crafted as opulent, polished Art Deco metalwork, combining warm gold and reflective cool chrome with sharp beveled facets, fine engraved pinlines, and subtle engine-turned guilloche patterns. Ensure {{TEXT}} is the only legible text in the entire image. The characters stand out boldly against a high-gloss black or deep-navy lacquer backdrop, enveloped by a perfectly symmetrical arrangement of radiating sunburst patterns, geometric fan forms, and stepped-skyscraper architectural motifs. A single dramatic, directional spotlight cuts across the scene like a Jazz Age theatre marquee, throwing brilliant specular highlights along the metallic bevels and generating rich, clean shadows. The high-contrast palette emphasizes rich gold, pale champagne, and mirror chrome against the dark lacquered surface, punctuated by subtle emerald and oxblood accents. The overall composition is balanced, architectural, and thoroughly luxurious, capturing the bold optimism and sleek geometry of the 1920s.",
+    "tips": [
+      "Short, capitalized words or single impactful terms best complement the rigid symmetry and architectural framework of the design.",
+      "Introduce deep emerald or rich oxblood as the primary lacquer ground to shift the mood while maintaining high-contrast metallic luxury."
+    ],
+    "test_text": "ART DECO",
+    "source_hash": "7b0b189773751e14",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "birthday": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. Ensure {{TEXT}} is the only legible text in the image. The letters are styled as bold, glossy party lettering featuring a crisp white outline and gleaming surface highlights, with each letter rendered in a different vivid, punchy saturated party color. A soft drop shadow separates the letters cleanly from the setting. The background is a bright, high-energy celebration scene featuring a rich, saturated gradient shifting smoothly from hot-pink into vibrant tangerine. A dense, dynamic burst of multicolor confetti scatters through the air around the words, complemented by luminous sparkles and bright light streaks. Generous clusters of colorful party balloons frame the outer edges of the composition. The entire space is bathed in bright, festive party light with sparkling glints, creating vibrant color contrast that keeps the scene joyful and high-energy.",
+    "tips": [
+      "Short names, celebratory exclamations, or birthday milestones work best to give the confetti and balloons plenty of room to frame the words.",
+      "To shift the mood, change the hot-pink and tangerine backdrop gradient to turquoise and violet while keeping the multicolor confetti."
+    ],
+    "test_text": "HAPPY BD",
+    "source_hash": "26444a3ac9e917a1",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "birthday_kids": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are styled in a vibrant kids birthday cartoon aesthetic, featuring smooth, glossy, shiny surfaces with bright highlight reflections. Each letter is rendered in a distinct, highly saturated color, cycling through vivid rainbow tones of red, orange, yellow, green, blue, and purple. Surrounding and weaving between the characters are large, colorful cartoon balloons, dynamic star bursts, floating hearts, and an energetic confetti explosion. Colorful confetti pieces rain down across the scene, while cheerful party streamers loosely frame the edges of the composition. The entire setting is presented against a bright white background under vibrant, natural party daylight, creating a clean, maximum-saturation children's party illustration filled with celebratory fun and playful energy.",
+    "tips": [
+      "Short words, party greetings, or children's names work best with this style to allow the balloon and confetti decorations room to pop.",
+      "You can easily adjust the party theme by requesting specific festive elements like party hats or wrapped gifts mixed in with the balloons."
+    ],
+    "test_text": "PARTY",
+    "source_hash": "8555c1f97f5c5034",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "birthday_luxury": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are rendered in a luxury metallic gold foil style, featuring an elegant gradient shifting from radiant bright gold highlights to deep, warm shadows, complete with a subtle reflective surface sheen and fine gold dust particles clinging to the edges. Wide letter spacing defines the arrangement. The lettering rests on a luxurious dark backdrop, featuring deep velvet or dark marble with subtle, tactile texture, bathed in a soft warm ambient glow. A few loose gold leaf flakes and a sparse scatter of no more than eight tiny gold stars accentuate the area around the words, enclosed by a delicate, fine gold border frame. The composition remains pristine, refined, and strictly minimal, entirely free from colorful confetti or colored balloons. The high-contrast gold-on-dark palette establishes a premium printed aesthetic where {{TEXT}} is the only legible text in the image.",
+    "tips": [
+      "Short milestone phrases, individual names, or anniversary numbers work best with this spacious, elegant layout.",
+      "Switching the background texture between dark velvet and black marble easily shifts the mood from soft warmth to sleek modern luxury."
+    ],
+    "test_text": "LUXURY",
+    "source_hash": "93682e7098847013",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "brush_chinese_ink": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. Make \"{{TEXT}}\" the only legible text in the image. The lettering is rendered in authentic Chinese ink brush calligraphy style, executed with a fully loaded sumi ink brush on aged cream rice paper featuring subtle washi fiber textures. The letters are composed of deep, rich black ink with genuine density variations, featuring thick black cores that naturally fade to watery grey across thinner passages. Wet ink visibly pools where the strokes begin, while feathered dry-brush textures trail off at the stroke endings. Fine bristle marks appear along the stroke contours, with the ink bleeding faintly into the porous paper fibers to form a soft, organic halo around the characters. Each stroke displays confident, intentional calligraphy energy. The scene is illuminated by soft, diffused natural light from above, producing a quiet, contemplative atmosphere across the textured paper surface.",
+    "tips": [
+      "Short words, solitary concepts, or nature-inspired terms harmonise best with this traditional calligraphy aesthetic.",
+      "Adjust the paper tone from aged cream to bright white or pale tea-stained parchment to subtly shift the historical mood."
+    ],
+    "test_text": "INK",
+    "source_hash": "828fcb7343d4defc",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "brush_dry": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words are rendered in a bold dry brush paint style, as if created with a heavily loaded paintbrush. Thick impasto strokes define the letterforms, showcasing distinct bristle spread across their surfaces. Raw, gritty texture appears throughout, featuring visible individual bristle lines, organic imperfections, and distressed grain. The edges of each mark are rough and torn where the paint runs thin, while thick paint buildup gathers at the stroke centers. Rendered in a single bold, raw off-black paint, the lettering conveys raw, high-contrast energy. The text rests on a rough textured paper surface, creating an authentic, physical, hand-painted scene. The paint slightly glistens at the thick stroke centers while remaining completely dry and matte along the frayed outer edges, leaving {{TEXT}} as the only legible text in the image.",
+    "tips": [
+      "Short, punchy words or action verbs work best to complement the forceful, energetic strokes of the dry brush.",
+      "Try changing the off-black paint to a bold primary color like crimson red or deep ultramarine to give the gritty brush marks a different visual impact."
+    ],
+    "test_text": "RAW",
+    "source_hash": "8c1da0afe55bacf5",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "brush_japanese_ink": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letterforms of {{TEXT}} are rendered in the visual language of Japanese sumi brush calligraphy, utilizing ink pigment that ranges from deep opaque black at the mark centers to soft charcoal and dilute transparent grey near the edges. Fully matte and deeply absorbed into the surface, the strokes display the characteristic soft, natural bleeding border quality of East Asian ink work. The letters rest centered on an authentic washi paper surface, featuring a warm cream-white tone with delicate visible fibers and paper texture. The entire scene is illuminated by soft, diffuse, north-facing studio light from above, completely even and shadowless, allowing the rich tonal gradation of the ink to stand out distinctly. The composition honors generous open space around and between the characters, creating a quiet, deliberate, and meditative atmosphere with ample breathing room.",
+    "tips": [
+      "Short single words or succinct terms work best, preserving the generous negative space essential to this style.",
+      "To adjust the mood, specify whether you want predominantly dense, saturated black ink marks or softer, more diluted grey washes."
+    ],
+    "test_text": "RONIN",
+    "source_hash": "37a14f2477a89394",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "brush_stroke": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are rendered as expressive Western brush script lettering with fluid connected strokes, showing visible bristle texture and authentic thick-to-thin pressure variation, with thick downstrokes and thin upstrokes reminiscent of a loaded calligraphy brush. The warm off-black ink appears slightly wet and glistening, featuring natural ink pooling at stroke beginnings and feathered dry-brush trails at stroke ends, capturing a hand-crafted artisan energy with realistic brush imperfections. The words {{TEXT}} are the only legible text in the image. The lettering is set against warm cream textured paper under soft diffused natural studio light coming from the upper left. Subtle paper grain is visible throughout the background, and the ink strokes cast light, soft warm shadows onto the surface, creating an intimate artisan letterpress atmosphere.",
+    "tips": [
+      "Short words or names in title case work best, allowing the fluid swashes and thick-to-thin stroke transitions to shine without crowding.",
+      "You can change the ink color to rich sepia, deep indigo, or forest green while keeping the wet bristle and dry-brush effects intact."
+    ],
+    "test_text": "Script",
+    "source_hash": "395503161d05feb0",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "bubble": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is rendered as puffy, rounded, and pillowy inflated bubble forms crafted from a soft, translucent jelly-like material. Each character exhibits a glossy, highly reflective surface with crisp, bright highlight spots and gentle internal light refraction, conveying the look of smooth, inflated candy bubbles. The color scheme is bright, sweet, and candy-toned, featuring a smooth gradient blend of bubblegum pink, lavender, sky blue, mint, and lemon, completely avoiding dark or matte finishes. The text sits prominently in a light, cheerful, and airy bubblegum atmosphere, set against a soft pastel gradient backdrop. Surrounding the lettering are small floating translucent bubbles and subtle glistening sparkles that enhance the buoyant, playful aesthetic. Ensure that {{TEXT}} is the focal point and remains the only legible text in the entire image.",
+    "tips": [
+      "Short, punchy words and playful exclamations suit the rounded, buoyant forms best.",
+      "You can narrow the color palette to specific pairings, such as mint and sky blue or pink and lemon, to evoke specific candy flavors."
+    ],
+    "test_text": "BUBBLE",
+    "source_hash": "6f8946fff118461f",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "bw_aesthetic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The scene is a moody, high-contrast black-and-white portrait featuring a single figure cropped close in three-quarter view, surrounded by deep negative black space. Hard, single-source side lighting carves out the form from the darkness, producing crushed blacks alongside bright, sharp highlights across wet skin, hair, and falling rain streaks. The surrounding atmosphere contains drifting smoke, reflections on wet pavement, and softly blurred nocturnal streetlights. The entire composition is captured in monochrome tones of black, white, and greys, textured with prominent film grain, shallow depth of field, and a soft dark vignette at the corners. The letters of {{TEXT}} sit quietly and subtly positioned within the dark negative space beside the subject, illuminated by the same directional side light in matte white and pale grey tones, remaining the sole legible writing in the image.",
+    "tips": [
+      "Short, single-word texts or understated titles work best, allowing the deep negative space and moody lighting to dominate the frame.",
+      "Introduce a single subtle deep red accent, such as a rose or a thread, to create a dramatic selective-color contrast against the monochrome scene."
+    ],
+    "test_text": "MOOD",
+    "source_hash": "01c73668413a6b47",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "celestial_symbol": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} are centered within a mystical, atmospheric night environment, illuminated by a single cold, silver-white directional key light shining from directly above like soft overhead moonlight. The text is rendered with an esoteric, symbolic presence that catches this cool top lighting, while casting subtle shadows downward. There is no warm ambient illumination and no daylight present anywhere in the scene. Surrounding {{TEXT}} is a deep midnight indigo to near-black atmospheric gradient background offering subtle environmental depth, populated by a faint, delicate star field rendered at very low opacity. The entire composition evokes a cool, otherworldly mood, with the pale silver-white celestial glow defining the upper contours of {{TEXT}} as the only legible element against the dark, quiet expanse.",
+    "tips": [
+      "Short, esoteric words or terms relating to mythology and cosmos harmonize best with this minimalist nocturnal mood.",
+      "Adjust the key light intensity if you want stronger contrast against the deep indigo background."
+    ],
+    "test_text": "MYSTIC",
+    "source_hash": "927edad49f11fa20",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "chalk": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are artisan hand-drawn in textured chalk with cream-white to warm ivory tones, exhibiting a soft, matte, powdery quality. Delicate dusty pastel accents in soft coral, sage, lavender, and warm mustard appear alongside simple hand-drawn chalk embellishments such as borders of dots, dashes, or small decorative leaves and stars. The letters are set against an authentic deep chalkboard green-black or charcoal slate surface, which functions as an active dark ground showing subtle texture within a wooden frame. {{TEXT}} fills the frame, positioned large and centered, ensuring it remains the only legible text in the composition. Overhead warm ambient lighting illuminates the scene from above at a low angle, evoking the cozy glow of morning light through a cafe window or a vintage filament bulb over a specials board. This gentle directional light reveals powdery chalk marks and surface depth without harsh contrast, accompanied by a faint hint of a warm interior at the outer frame edges.",
+    "tips": [
+      "Short phrases, culinary words, cafe specials, or warm artisanal slogans naturally fit this chalkboard look.",
+      "Swap the background between classic deep chalkboard green and dark charcoal slate to instantly change the atmosphere."
+    ],
+    "test_text": "SPECIAL",
+    "source_hash": "311e229dd33e839e",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "chibi": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering sits neatly in open space beside or below an invented super-deformed cute chibi character. The character stands two to three heads tall with an oversized head, tiny rounded hands and feet, rosy blush cheeks, a small happy mouth, and large shiny eyes with bright double white highlights, posed cheerfully waving or holding a heart. Thick, soft line art of uniform weight in dark brown outlines both the character and the letters, filled with flat and two-tone cel shading. The letters are styled in harmonious pastel tones matching the palette. The overall composition features a pastel base of baby pink, lavender, mint, and butter yellow, complemented by one deeper tone for clothing or hair. Surrounding the text and character are floating miniature hearts, sparkles, and puffy little clouds. Soft, even lighting illuminates the piece with gentle cel shadows under the chin and hair. A wide, smooth white die-cut sticker border hugs the outer contour against a plain pale pastel background.",
+    "tips": [
+      "Short names, playful nicknames, or single cheerful words fit best alongside the compact chibi figure without crowding the sticker silhouette.",
+      "Swap the white die-cut sticker border for a cozy pastel cafe or starry night background to turn the design into a miniature scene."
+    ],
+    "test_text": "HELLO",
+    "source_hash": "291ea0dc842fc2db",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "chicano": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is rendered in rich, jet-black glossy ink applied with sign-painter precision, featuring deep solid blacks with a wet sheen and razor-sharp edges. Delicate flourishes and sweeping swashes frame the characters, accented with fine gold-leaf pinstriping details. A faint, soft grey drop-shadow subtly lifts the letters off the background, giving them physical presence. The words rest against a smooth, cream-colored aged paper surface, capturing traditional hand-lettered tattoo and sign aesthetics. Warm, low-key lighting rakes across the surface from the side, producing deep, velvety shadows and gleaming highlights along the wet ridges of the ink. The overall mood is proud, personal, and street-royal, focused entirely on the pristine craft of the black ink.",
+    "tips": [
+      "Short names, family titles, or single proud street nicknames work best with these ornate, flourishing letterforms.",
+      "Change the background surface from cream paper to a deep candy-colored automotive paint panel or smooth skin to shift the feel between sign painting, lowrider art, and classic black-and-grey tattooing."
+    ],
+    "test_text": "Por Vida",
+    "source_hash": "ab4fd26d81086c3a",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "chrome_metal_3d": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are rendered as bold three-dimensional extruded forms with polished chrome metal surfaces and sharp beveled edges. The metallic material features cool blue-gray midtones contrasted with near-black cold shadow zones, embodying cold industrial precision. Ultra-sharp razor-thin white specular highlight lines run along all curved contours and beveled surfaces, capturing intense reflections across the mirror-clean finish. A subtle electric-blue rim light crisply traces the outer silhouette of the typography. The letters reflect their surroundings with striking high contrast, creating a clean mirror-finish chrome aesthetic. Set against a pure black background with subtle dark atmospheric depth, the reflective chrome forms stand isolated, with {{TEXT}} being the only visible and legible text in the entire composition.",
+    "tips": [
+      "Short, capitalized words work best to showcase the broad bevels and dramatic edge highlights.",
+      "Adjust the color of the rim lighting to cyan, amber, or violet to subtly alter the temperature of the scene while retaining the chrome finish."
+    ],
+    "test_text": "CHROME",
+    "source_hash": "d3a2fd92b075c570",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cinematic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character, appearing as a massive cinematic title in dimensional relief. The letterforms command the foreground with substantial physical depth and clean separation from the background. A strong directional key light defines the contours and surfaces of the letters, casting controlled, deep shadows. The setting is a grand, epic landscape at golden hour, featuring distant mountain ridges silhouetted against a radiant amber and gold sky. Atmospheric haze fills the vast space, with prominent volumetric light rays piercing through the air and an anamorphic lens flare grazing across the title text. The composition exhibits a rich, high-contrast color grade, a fine film grain texture across the entire frame, and a shallow depth of field that softly dissolves the periphery into bokeh. Ensure {{TEXT}} is the only legible text in the entire image.",
+    "tips": [
+      "Short, punchy words or single nouns deliver the most striking, cinematic impact across wide horizontal compositions.",
+      "To shift the mood from heroic to suspenseful, replace the golden hour amber light with cold blue undertones, night fog, and sharp backlighting."
+    ],
+    "test_text": "RISE OF EMPIRES",
+    "source_hash": "05ccff7daf3700cc",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cinematic_action": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} are sculpted from precision-machined brushed chrome steel, showcasing tactical weapon-grade metal with a distinct fine directional grain rather than a reflective mirror finish. Dramatic asymmetric lighting cuts across the typography: an intense, warm orange-gold key light illuminates one side of the letterforms, while a crisp, cool blue-white rim light highlights the opposing bevels, establishing razor-sharp contrast. An anamorphic horizontal lens flare streaks brilliantly across the composition. Subtle motion-blur trails brush the outer contours of the letters, imparting a sense of high-velocity kinetic force. In the surrounding space, a deep black void is layered with faint volumetric haze and scattered, high-speed metallic friction sparks. The entire presentation maintains a clean finish devoid of rust, molten fissures, or scorched earth, ensuring {{TEXT}} remains the only legible text in the cinematic frame.",
+    "tips": [
+      "Short, punchy words in all capital letters maximize the aggressive, heavy-metal impact of this treatment.",
+      "Swap the warm orange-gold and cool blue rim lighting for contrasting hues like neon cyan and crimson to evoke a different cinematic subgenre."
+    ],
+    "test_text": "IMPACT",
+    "source_hash": "523e7c9e7f562a58",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cinematic_blockbuster": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text \"{{TEXT}}\" appears as a monumental cinematic title with an ultra-polished chrome metallic surface and a razor-sharp mirror finish. An intense overhead directional spotlight strikes the text, casting hard, dramatic shadows directly beneath. The backdrop features an epic cinematic dark sky where dense storm clouds part above a ruined battlefield skyline. Brilliant golden volumetric god-rays and light shafts pierce through the darkness from behind the letters, while glowing ember sparks drift across the reflective metal. Dual horizontal anamorphic lens flares, one warm gold and one cold blue, streak across the wide cinematic frame. The atmosphere is defined by deep shadows, vivid specular highlights, and soaring volumetric illumination, with {{TEXT}} remaining the sole legible element in the scene.",
+    "tips": [
+      "Short, high-impact words or heroic single nouns work best to convey a massive, epic scale.",
+      "You can alter the mood by changing the warm golden god-rays and ember sparks to cold lightning or driving rain."
+    ],
+    "test_text": "EPIC",
+    "source_hash": "2fa5b818b1ddb648",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cinematic_horror": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The title typography exists completely inside a desolate cinematic horror environment, centered in a wide cinematic frame and filling sixty-five to eighty percent of the frame width. The distressed surfaces of the letters bear physical evidence of horror, marked with dried blood seepage along crack lines, heavy rust oxidation staining, deep decay, and weathered age damage. Illumination comes entirely from a single, psychologically unsettling light source: a cold blue-green underlight positioned at ground level, casting long, hard-edged vertical shadows that rise upward into absolute darkness. Extreme tonal contrast dominates the composition, with oppressive black shadows occupying at least sixty percent of the frame. Dense, heavy fog pools around the base of the letters while disturbed dust hangs suspended in the air. The camera angle is slightly too low and canted to create unease, utilizing vast, active negative space where darkness conceals an unspoken threat.",
+    "tips": [
+      "Short, punchy words or single-word titles maximize the active negative space and amplify the sense of isolation.",
+      "Change the cold blue-green underlight to a sickly pale yellow or dim crimson to alter the psychological tone of the scene."
+    ],
+    "test_text": "DREAD",
+    "source_hash": "09ec06b27ffc6718",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cinematic_scifi": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are crafted from cold brushed titanium featuring precision-machined edges, micro-etched technical detail lines, and an aerospace-grade matte finish with subtle anisotropic grain. Cryogenic blue-white edge illumination radiates coldly from the letter seams, producing sharp, laser-cut thresholds against the surrounding dark. Lighting arrives from a single distant star entering from the upper left, casting razor-edge directional shadows across the letterforms, complemented by a lone horizontal cyan-white anamorphic streak. The letters float in a hard vacuum environment with zero ambient scatter and maximum contrast. Behind {{TEXT}}, a colossal megastructure looms in deep space, silhouetted against a vast ringed gas giant at the horizon, with geometric running lights tracing through the void amidst a starfield of cold pinpricks against absolute black. The entire atmosphere is monumental, minimal, and intensely cold, defined strictly by titanium silvers, cyan-white radiance, and deep void black, completely devoid of warm tones or organic textures.",
+    "tips": [
+      "Short technological acronyms, vessel designations, or concise single words rendered in uppercase suit this monolithic aesthetic best.",
+      "To vary the composition, replace the ringed gas giant with an eclipse or a distant accretion disk while maintaining the strict cold blue and titanium palette."
+    ],
+    "test_text": "SIGNAL",
+    "source_hash": "a93e94d638fb1e1d",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cinematic_youtube_creator": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. Modern, energetic, and high-visibility letterforms are designed with a confident, bold presence suited for digital screens. The letters are finished in a vibrant palette of bold white and warm amber with luminous, glowing backlit edges. Position the text prominently in the center with strong directional lighting that creates clear visual hierarchy and sharp depth. The scene takes place on an urban rooftop during golden hour, with warm amber sunlight flooding the environment while a dusky, deep-toned city skyline rests softly blurred in the background. Rich shadows in the cityscape contrast dramatically with the illuminated lettering. A faint touch of cinematic film grain textures the atmosphere, enhancing the contemporary video creator aesthetic while ensuring {{TEXT}} remains the only legible text in the entire image.",
+    "tips": [
+      "Short, punchy words or single-title phrases in all caps best capture the high-impact thumbnail look.",
+      "Change the golden hour rooftop setting to a neon-lit city street with bright cyan and electric yellow accents for a cool-toned nighttime variation."
+    ],
+    "test_text": "CREATOR",
+    "source_hash": "bd13686b9b04401e",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "comic_book": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters appear as massive, graphic impact letterforms positioned dead center across the frame. Each letterform is filled with a saturated action yellow, bordered by a bold, hard flat black ink outline tracing every edge, with a subtle four-color print register misalignment where the yellow fill slightly offsets from the black linework. A regular circular Ben-Day halftone dot screen overlays all colored surfaces, evoking classic vintage four-color mechanical printing on a warm newsprint-white paper substrate. Exploding directly behind the lettering is a large starburst shape in vivid impact red featuring jagged, geometric spikes that radiate outward toward the edges of the composition, covered in its own dense halftone dot grid. Crisp diagonal and horizontal speed lines flash behind the graphic burst, accompanied by tiny scattered cosmic crackle energy dots. The entire composition is a completely flat, non-photographic graphic comic book panel with zero gradients and pure primary contrast, ensuring {{TEXT}} remains the sole legible focus.",
+    "tips": [
+      "Short action verbs, sound effects, and punchy single words best match the explosive panel aesthetic.",
+      "You can easily shift the mood by altering the primary color pair, such as swapping the yellow fill and red burst for force blue and white."
+    ],
+    "test_text": "BOOM",
+    "source_hash": "b0c86ea9b1a54301",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "coquette_christmas": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words appear in deep cherry red, sitting centrally inside a delicate scalloped oval frame on smooth cream card stock with a fine linen texture. The composition embraces an airy, vintage coquette Christmas aesthetic with plenty of breathing room. A silky satin ribbon bow in cherry red crowns the top of the frame, its long ribbon tails trailing gently down the sides with faint, soft shadows underneath. The border is accented with thin red-and-white candy stripes and delicate lace edges. Sparingly placed around the frame are tiny hand-drawn sage green Christmas trees, glossy little red cherries, tiny hearts, and scattered lustrous pearls. The entire scene is bathed in soft, diffused, gentle daylight, creating a clean, pastel, and festive aesthetic with pale pink undertones.",
+    "tips": [
+      "Short festive greetings, names, or single sweet holiday words work best to preserve the airy, delicate negative space.",
+      "To create a softer, more muted look, switch the cherry red elements and lettering to a monochromatic soft blush pink."
+    ],
+    "test_text": "NOEL",
+    "source_hash": "f382cad040562d16",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cursive": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text is rendered in flowing, poised cursive calligraphy executed with the rich, fluid body of deep elegant near-black ink. The pen strokes display a soft natural sheen and a fine wet-edge glisten where the ink catches the light, conveying subtle dimensional depth across each curl and flourish. Placed in a soft, refined calligraphy light field, a gentle directional light rakes across the composition from an upper angle, grazing the raised ink strokes while a soft ambient fill keeps the shadows intimate rather than harsh. The word sits large and centered with generous negative space across a clean, elegant art ground made of fine hot-press cream cotton paper, allowing the lettering to breathe with quiet sophistication. The overall atmosphere evokes the timeless, romantic feel of masterful pen calligraphy, perfectly balanced on a pristine fine-art stationery surface.",
+    "tips": [
+      "Short names, romantic words, or single celebratory sentiments suit the open composition and generous negative space best.",
+      "Try changing the cream paper ground to a quiet dark charcoal surface or specifying a deep walnut or jewel-toned ink to adjust the mood."
+    ],
+    "test_text": "Amour",
+    "source_hash": "3c45fdf440286276",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cursive_aesthetic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are styled with a soft, dreamy coquette aesthetic, featuring a delicate, dainty finish with a gentle pearly shimmer and a faint dusting of fine sparkle that softly catches the light. The lettering renders in a soft romantic tone, such as delicate blush pink or soft rose, appearing graceful rather than bold. The word sits large and centered within an airy composition against a dreamy pastel backdrop blending blush pink, cream, and faint lilac in a subtle gradient. Surrounding the text are delicate details like tiny out-of-focus sparkles, scattered miniature pearls, soft ribbons, and a hazy bokeh glow. The lighting is completely diffused, warm, and glowy, casting no harsh shadows and creating a romantic, sweet, and hazy atmosphere reminiscent of a delicate pastel journal spread. Ensure {{TEXT}} remains the sole legible text in the entire image.",
+    "tips": [
+      "Short names, affectionate pet names, or gentle romantic words naturally complement the delicate, dreamy look.",
+      "Adjust the background gradient toward pure cream or soft lavender to subtly alter the warmth of the scene."
+    ],
+    "test_text": "Angel",
+    "source_hash": "5fd8801f0c8c01b7",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cursive_calligraphy": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words {{TEXT}} are the only legible text in the image, presented in the exacting tradition of formal pointed-pen calligraphy, reminiscent of refined copperplate and Spencerian penmanship. The letters are written in crisp, controlled deep black or warm sepia ink that sits cleanly upon the page with sharp wet-ink edges and a subtle natural sheen where the surface catches the light. Every stroke reflects disciplined master penmanship with delicate hairlines and balanced swelling shades. The ground is fine calligraphy paper made of smooth cream or ivory hot-press cotton stock, surrounded by generous margins, occasionally showing very faint ruled guideline slants like a formal certificate or invitation. The scene is illuminated by even, clean studio light that is soft and flat, revealing the micro-textures of the paper and the wet-ink definition without dramatic shadows.",
+    "tips": [
+      "Words associated with formal occasions, names, or elegant single nouns work best with this disciplined penmanship aesthetic.",
+      "Switch between deep carbon black and warm sepia ink tones to adjust the vintage feel of the document."
+    ],
+    "test_text": "Calligraphy",
+    "source_hash": "0547b6ba513eab87",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cursive_modern": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is rendered in bold, contemporary hand-drawn brush script, appearing as though laid down with a fully loaded ink brush. The surface of the strokes features rich, saturated ink that is predominantly matte with a delicate fresh-ink sheen, accented by subtle brushed streaks and a hint of dry-brush texture where the strokes lift and trail off. Deep black or a single confident, bold tone defines the fluid letterforms, giving them an energetic and handcrafted appearance. The word sits prominently centered on a clean, modern studio backdrop in a soft neutral tone, surrounded by generous negative space. Illumination is provided by bright, even, contemporary studio lighting with minimal drama, making the sharp edges and rich texture of the brushwork pop against the smooth ground. The overall composition feels crisp, commercial, and confident, reminiscent of modern brand identity design, packaging, and clean apparel graphics.",
+    "tips": [
+      "Short, punchy words or action verbs suit this flowing, energetic brush style best.",
+      "Try changing the background to a bold, flat color block instead of a neutral backdrop to create a high-contrast graphic look."
+    ],
+    "test_text": "Modern",
+    "source_hash": "234657d511b6d84c",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cursive_signature": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is captured as an authentic hand-signed autograph, laid down in one confident pass as a real pen signature. The line work displays a fine matte pen-ink line with natural fountain-pen texture in a rich, dark blue-black ink. The stroke shows subtle ink pooling where curves turn and faint, natural pen-skips where the nib momentarily lifts from the surface, completely free of gloss, metallic reflections, or artificial embellishments. The name sits large and centered with generous negative space across a plain, crisp white document card stock with an understated, tactile paper surface. The scene is illuminated by soft, even daylight resembling gentle desk light, casting no dramatic shadows and keeping the writing flat, crisp, and fully legible. The overall atmosphere feels personal, confident, and genuine, capturing the authentic mark of an everyday handwritten signature.",
+    "tips": [
+      "Personal names, single titles, or short words work best to capture the natural rhythm and confident flow of a genuine signature.",
+      "Change the ink tone to near-black or place the writing on an aged notebook page to vary the type of stationery."
+    ],
+    "test_text": "Signature",
+    "source_hash": "4f63a9bf943a7b49",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cute_halloween": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are rendered with smooth flat fills and thick, soft rounded outlines using a cheerful palette of pumpkin orange, deep black, and soft lilac. The words are set against a calm, pale cream background with a faint hand-drawn paper grain and plenty of open negative space. Scattered around the text like charming die-cut stickers with neat white borders are round chubby little ghosts, smiling jack-o-lanterns, a sleepy curled-up black cat, candy corn, wrapped sweets, tiny bats, stars, and a soft crescent moon. Each little character features minimalist dot eyes and rosy pink blush cheeks. The entire composition is lit with soft, even, flat lighting free of dramatic shadows, keeping the atmosphere bright, sweet, and gentle.",
+    "tips": [
+      "Short, friendly seasonal greetings or playful Halloween phrases work best with this sweet aesthetic.",
+      "Try asking for a soft lilac or pale peach background instead of cream to give the design an evening feel."
+    ],
+    "test_text": "BOO",
+    "source_hash": "1fbe1db4b9ba658c",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are formed from cold chrome, illuminated by a stark blue-white overhead arc light with intense electric cyan and hot magenta neon fill striking from both flanks. Electric cyan-white plasma threads crackle and arc along the outer perimeters of the letterforms. The entire graphic displays heavy digital distortion: pronounced RGB chromatic aberration with cyan shifted left and magenta shifted right, fine horizontal scan-line cuts across all surfaces, and digital glitch slice displacements where horizontal bands are shifted rightward to simulate CRT signal failure. All non-illuminated areas drop into cold blue-tinted shadows, strictly avoiding warm tones. The composition is set in a rain-soaked, tech-noir back alley at night amidst dense atmospheric fog and steam rising from street grates. The wet asphalt below mirrors fractured puddles of cyan and magenta light against a near-black background, with distant, unrecognizable neon blurs kept softly out of focus, ensuring {{TEXT}} remains the only legible text.",
+    "tips": [
+      "Short, punchy words or acronyms work best, as they provide broad surfaces for the horizontal glitch bands and scan lines to show through clearly.",
+      "You can vary the mood by adjusting the level of digital corruption, dialing between subtle scan lines or heavily shattered CRT displacement slices."
+    ],
+    "test_text": "CYBER",
+    "source_hash": "8732a8394384edac",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk_acid_rain": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are fashioned from heavy industrial metal that appears heavily corroded and melting from toxic chemical exposure, with {{TEXT}} remaining the only legible text in the composition. Dripping trails of intense toxic-green acid eat deeply into the letterforms, flanked by rust-orange oxidation patches spreading outward from the eroded edges. The metallic surface texture is severely distressed with pitted craters, corrosive scaling, and chemical burn marks under high-contrast industrial lighting. In the background, an industrial wasteland atmosphere unfolds with thick acid-green mist rising from below against rust-stained concrete walls, while faint warning-yellow hazard chevrons disappear into the heavy fog. Streaks of poisonous, acidic rain droplets cascade through the foreground, catching the visceral glow of the bright green chemical runoff and dark metallic decay.",
+    "tips": [
+      "Short, punchy words related to industry, hazards, or decay complement the heavy corrosive textures best.",
+      "To shift the atmosphere, you can alter the density of the acid mist or emphasize the rust-orange oxidation over the green drips."
+    ],
+    "test_text": "ACID",
+    "source_hash": "01e80d88cd3198b0",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk_bio_mech": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are sculpted in a biomechanical style, fusing oil-stained forged steel with calcium-white bone matter erupting through stressed joint seams. Gear teeth, piston housings corroded with machine oil, and welded seams with mineral calcium deposits cover the letterforms along stress fractures, balancing a cold dark metal exoskeleton with warm ivory organic bone. Centered in the frame and filling 75 to 85 percent of the frame width, the text is viewed from a slight low angle. The setting is a dark industrial chamber featuring corrugated metal walls with exposed pipe bundles and cable conduits receding into darkness. A single cold blue-white industrial arc overhead serves as the primary key light, creating a tight oval pool on the oil-stained concrete floor beneath the text, while a deep amber-orange fill light from the lower-left simulates a distant machinery furnace glow. Deep shadows envelop the outer edges, leaving {{TEXT}} as the sole legible focus.",
+    "tips": [
+      "Short, aggressive words related to industry, technology, or anatomy work best with this aesthetic.",
+      "Shift the ratio between calcium bone matter and forged steel pistons to make the structure appear either more organic or more mechanical."
+    ],
+    "test_text": "MECH",
+    "source_hash": "7ffd552e1f21f6b0",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk_chrome": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is sculpted in a liquid chrome metal style, featuring a mirror-finish surface that looks like polished liquid mercury frozen in place. The forms display hyper-reflective exterior surfaces catching subtle environmental reflections, paired with sharp, brilliant specular highlights tracking crisply along the letter contours and bevels. A cool steel blue-silver color palette defines the metal, punctuated by deep, dramatic shadow contrast along the undersides and recesses. The letters stand against a clean, minimal dark studio background with a subtle floor reflection shimmering beneath them. A single overhead key light illuminates the entire composition from above, generating dramatic, focused specular highlights across the fluid metallic curvatures while maintaining a sleek, restrained atmosphere.",
+    "tips": [
+      "Short, bold words work best to showcase the fluid, reflective curves of the liquid mercury effect.",
+      "You can alter the ambient studio lighting to introduce subtle color tints into the chrome reflections."
+    ],
+    "test_text": "CHROME",
+    "source_hash": "4151ff27b01a3cd5",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk_data_stream": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The primary letters of {{TEXT}} are formed from vibrant terminal-green (#00FF41) monospace characters emitting an intense phosphor-screen glow. A secondary layer of cascading smaller digital code characters flows through and around the main letterforms like falling rain. The density of these tiny digital characters is highest along the outer edges of the letters, producing a dissolving effect where the glyphs transition into the surrounding darkness. The entire image features vintage CRT monitor horizontal scanlines and a subtle screen-door pixel grid texture with deep, punchy contrast. The environment is a pure black void evoking a dark computer terminal. In the deep background, vertical streams of green code characters fall at varying speeds and opacities, while a subtle green ambient glow casts across the ground plane beneath the glowing typography.",
+    "tips": [
+      "Short, tech-oriented words, commands, or acronyms work best with this computer terminal look.",
+      "Swap the terminal-green hex code for amber (#FFB000) or monochrome cyan to simulate other vintage phosphor monitor styles."
+    ],
+    "test_text": "DATA",
+    "source_hash": "e107e56b49a3bdd5",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk_electric_neon": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are shaped from real glass neon tubes with authentic thickness variation, glowing brightly with rich electric blue and vivid hot pink saturation. A warm, luminous light bloom radiates outward from each stroke, fading into a soft falloff around the edges. Mounted on a dark backing panel, the glowing glass casts subtle glossy reflections onto the surface directly behind it. The entire sign is set against a dark textured wall of exposed brick in a moody, dimly lit interior. A delicate atmospheric haze drifts through the ambient space, catching the colored neon glow to establish an evocative bar or studio setting. The text {{TEXT}} remains the only legible text in the scene, standing out crisply against the dark background.",
+    "tips": [
+      "Short phrases, single words, or punchy slogans mimic realistic bar and studio neon signage best.",
+      "Swap the electric blue and hot pink for acid green or golden yellow to instantly shift the mood."
+    ],
+    "test_text": "NEON",
+    "source_hash": "cde93d2c8fda1009",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk_hologram": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters appear as a translucent light-projected holographic display floating in space. Multiple semi-transparent cyan and teal layers are slightly offset from one another to create dimensional depth. Iridescent color fringing borders the edges of the letterforms, shifting between luminous cyan and vibrant electric blue. Fine horizontal scan lines run continuously through the body of each character, accompanied by subtle static noise along the letter silhouettes and glass-like refraction within the translucent fills. The scene is set in a dark void environment suggesting a high-tech command center, featuring a barely visible, faint hexagonal grid floor in deep teal beneath the projection. Atmospheric blue-cyan ambient light permeates the darkness, casting a soft volumetric glow around the hovering glowing text.",
+    "tips": [
+      "Short, modern acronyms or futuristic tech terms in all-caps work best with the projected interface look.",
+      "Try swapping the cyan and electric blue palette for vivid amber or emerald green to evoke retro computer terminals or tactical displays."
+    ],
+    "test_text": "HOLO",
+    "source_hash": "b8128ecd92d7ef25",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk_neon_glitch": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character, in a vibrant neon glitch aesthetic where glowing electric light meets failing digital transmission. The letterforms act as the primary light source, emitting maximally saturated neon hues of cyan, magenta, acid green, hot pink, and cold blue-white with intense luminosity. Cold blue-white overhead arc lighting strikes the letters, complemented by sharp cyan and magenta neon rim fill from the left and right at forty-five-degree angles. The letters cast a soft luminous penumbra into the surrounding near-black space, creating an extreme high-contrast boundary with narrow, sharp transitional mid-tones. Digital signal noise and electromagnetic interference degrade the environment, manifesting as faint horizontal scanlines, subtle atmospheric static grain, and translucent ghost-image echoes of the letters. The scene is set against a pure black background accented by faint, subtle digital-rain falling pixels in the extreme distance, while below, a dark purple perspective grid floor recedes and fades into complete blackness.",
+    "tips": [
+      "Short, techno-futuristic words with sharp angles work best to showcase the high-contrast light bleed and glitch effects.",
+      "Try tweaking the emission palette by emphasizing either acid green or hot magenta to significantly shift the mood of the digital degradation."
+    ],
+    "test_text": "SPLIT",
+    "source_hash": "aa821ad044040769",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk_synthwave": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are rendered in a synthwave retro-futuristic style with bold, geometric letterforms. Each letter features a beveled 3D extrusion giving it solid depth, filled with a deep magenta-to-violet gradient. A vibrant neon pink electric glow outlines the exterior of every letter, complemented by a polished chrome-like inner highlight strip running along the top edge. Subtle lens flares accent the sharp corners of the typography. The text floats above an iconic scene where an infinite perspective grid floor in glowing neon pink lines converges toward the horizon. Centered on the horizon sits an oversized sun segmented by horizontal gradient stripes transitioning through magenta, coral, and yellow. In the background, the sky fades from deep purple to dark black and is speckled with sparse, pink-tinted stars. {{TEXT}} must be the only legible text in the image.",
+    "tips": [
+      "Short, punchy words or short titles in all-capital letters complement the bold geometric 3D perspective best.",
+      "You can easily shift the mood by changing the neon grid and outline colors from pink to cyan or electric blue."
+    ],
+    "test_text": "SYNTH",
+    "source_hash": "9a0550ab06c00046",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "cyberpunk_tech_hud": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text {{TEXT}} is positioned at center frame, occupying approximately two-thirds of the composition width slightly above the vertical midpoint, presented as an active tactical HUD readout. The letterforms are illuminated by an intense, hard-edged cold blue-white arc light from directly overhead, creating a strict lighting plane with zero warm fill. Secondary ambient light bleeds into the composition from off-screen display banks, casting cold cyan and vivid phosphor-green atmospheric hazes along the edges and mid-ground. The environment is a near-absolute black void featuring faint traces of cold blue-grey electromagnetic haze and a subtle horizontal scan-line interference field stretching across the entire visual plane. Luminous cyan and phosphor-green halos softly radiate from the crisp, high-contrast characters, grounding the text in a pure electronic display space with no physical objects and no other legible words or symbols.",
+    "tips": [
+      "Short, tactical terms, status codes, or single operational words best suit this high-tech display aesthetic.",
+      "Swap the secondary cyan and phosphor-green rim lighting for an amber-orange alert glow to evoke a warning or critical status theme."
+    ],
+    "test_text": "SYSTEM",
+    "source_hash": "ae036bc172399171",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "drip_font": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The bold letterforms are constructed entirely from thick, glossy liquid paint, reading as three-dimensional liquid-material objects built from saturated, vivid electric blue pigment. Smooth high-gloss surfaces catch bright specular highlights across the curved tops and letter edges. Heavy tear-shaped drip extensions hang from the bases of the letters with realistic fluid physics and surface tension, showing viscous trails of varying lengths that thin before breaking into rounded points. Tangible paint depth is visible at every contour, casting distinct drip shadows underneath. The text is set against an urban street art wall of dark concrete or brick, where thick, cascading paint trails gather and pool along the ground line. The drips catch ambient light from below, creating deep shadows between the drops and bright glints at the curved top of each falling bead of paint.",
+    "tips": [
+      "Short, punchy words work best to give the heavy dripping trails enough vertical space to stretch and pool without overlapping neighboring letters.",
+      "Change the paint color to match the tone of your word, such as neon yellow-green for acidic themes, fiery red-orange for heat, or metallic gold for a luxurious look."
+    ],
+    "test_text": "DRIP",
+    "source_hash": "ecc63e5250cc7fc3",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "drip_font_blood": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are rendered as thick, viscous crimson blood fluid exhibiting authentic gravity-driven fluid behavior. Large tear-shaped drops hang suspended with visible surface tension at each drip terminus, while connecting streams thin as they descend past the letter baselines toward the lower third. The fluid displays a color gradient transitioning from bright arterial red on active drip paths to deep, near-black clot tones where the blood accumulates and pools. Material properties include subsurface scattering that imparts a deep red inner glow, high specular gloss across wet convex drip heads, and matte-dark textures in dense clotted sections. The text is positioned in the center frame with generous breathing room against a pure black void background devoid of any ambient fill or decoration. A single cold key light positioned at a forty-five-degree angle from the upper-left strikes the wet surfaces, creating intense specular peaks while casting deep, sharp shadows toward the lower-right.",
+    "tips": [
+      "Short words with broad, solid letter shapes give the fluid physics more surface area to generate heavy, dramatic drips and clots.",
+      "To modify the mood, adjust the single key light from cold white to a warm amber or sickly pale green tone."
+    ],
+    "test_text": "BLOOD",
+    "source_hash": "9317fd7c06c6a5fe",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "drip_font_ice": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are bold block letterforms formed from melting soft-serve ice cream, capturing a sweet summer aesthetic. Thick, creamy fluid flows from the bottom of every letter, featuring large rounded cream drops hanging with soft surface tension and slow, viscous trails running downward. The ice cream material exhibits a photorealistic, smooth creamy surface with a delicate, subtle gloss that catches the illumination. A warm pastel color palette defines the letters, presenting a visually delicious look influenced naturally by gravity. The scene features a clean, warm soft pastel background illuminated by gentle, inviting overhead light that highlights the realistic dripping details of each letterform. The text \"{{TEXT}}\" is the sole legible text in the entire image.",
+    "tips": [
+      "Short, punchy words with playful or summer themes work best to allow room for the heavy, dripping fluid effects.",
+      "Specify distinct pastel flavor shades, such as strawberry pink, pistachio green, or vanilla cream, to adjust the color theme."
+    ],
+    "test_text": "SWEET",
+    "source_hash": "4a6c3e78cbf0924a",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "drip_font_melting": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letterforms are sculpted from a warm amber-to-deep-orange heated translucent material, actively liquefying and flowing downward under intense heat. The lower portions of {{TEXT}} lose structural integrity, their edges softening and rounding outward as gravity draws down the molten mass. Drips of varying thickness descend from the forms, featuring one to two thick primary flows with bulged origins and teardrop ends, several medium streams, and fine capillary trails showing surface tension at the drip necks. Viscous molten material pools at the letter bases with a glossy, wet sheen. An intense overhead key light bleaches the upper contours, tracing specular highlight arcs along the crest of each character. Narrow bright streaks gleam across the accumulated liquid below. An ambient heat glow radiates outward against a deep, dark background imbued with faint warm undertones, where a soft heat haze gently blurs the distant edges while maintaining razor-sharp clarity on the dripping letter surfaces.",
+    "tips": [
+      "Short words or terms related to heat, wax, or temperature naturally complement the melting effect.",
+      "Change the warm amber tone to deep crimson, toxic green, or metallic silver to shift the style from melting resin to wax, slime, or molten metal."
+    ],
+    "test_text": "MELT",
+    "source_hash": "2f9f4d4b1696db13",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "duotone": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is rendered in a striking, punchy duotone treatment with a graphic print aesthetic. A dominant, flat bright color covers the face of the letters, while a deep contrasting tone fills a crisp, hard-edged offset drop shadow. A visible halftone screen-dot pattern overlays the dominant color, lending texture and depth without sacrificing sharp outlines. The palette consists strictly of a high-contrast two-color pair, such as vibrant vermillion red paired with deep midnight navy, remaining completely flat, saturated, and bold with no soft gradients or muddy transitions. The text is set against a clean, flat two-tone poster ground complemented by subtle geometric or halftone accents that reinforce the high-contrast graphic energy. Ensure {{TEXT}} is the only legible text in the entire image, commanding the composition with crisp print-like impact.",
+    "tips": [
+      "Short, punchy words or acronyms work best with this style to maximize the bold, poster-like graphic impact.",
+      "You can easily change the entire mood by swapping the two-color pair, such as using electric blue and hot pink instead of red and navy."
+    ],
+    "test_text": "DUOTONE",
+    "source_hash": "9f93693b8ba2dcb5",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "elegant_script": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering embodies the hushed luxury of an intimate, hand-signed brand mark, crafted in fine warm gold metallic ink that appears restrained, expensive, and never flashy. The strokes are pressed into the surface with the subtle crispness of an engraving, catching a single soft directional light that grazes across the letters to reveal their delicate metallic sheen and dimensional edges. The word {{TEXT}} sits large and centered against a premium, deep matte black luxury ground, framed by generous negative space that enhances its refined, high-end editorial atmosphere. The entire scene captures the quiet sophistication of a couture label, a boutique logo, or a perfume-bottle signature, with pure focus resting on the gleaming golden strokes and the tactile texture of the dark backdrop. Ensure {{TEXT}} is the only legible text in the image.",
+    "tips": [
+      "Short single words, monograms, or brief luxury names work best, allowing the generous negative space to maintain an uncluttered, premium feel.",
+      "To adjust the palette, change the deep matte black backdrop to textured ivory card or soft pale marble, paired with champagne or rose-gold metallic ink."
+    ],
+    "test_text": "Elegant",
+    "source_hash": "5a7ab7a31c585f22",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "emboss": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are rendered as a clean, dimensional blind-embossed relief raised directly from a surface of premium paper or card stock. Fine paper fibers are subtly visible around the letter edges where the raised topology meets the flat surrounding surface. Warm raking light shines from the upper-left at a low angle across the composition to emphasize the relief, creating a crisp highlight ridge along the top edge of each letter and a soft shadow on the opposite, lee side. No color is added; tonal contrast and dimensional depth serve as the primary visual language, preserving a uniform natural paper tone across the entire piece. There are no gradients on the letter faces, no glowing effects, and no outline strokes, creating a minimal, elegant stationery aesthetic defined by tactile paper texture catching the side lighting.",
+    "tips": [
+      "Short words, single names, or minimalist monograms work best, giving the delicate highlights and shadows enough space to stand out.",
+      "To subtly alter the mood, specify a particular paper tone such as warm ivory, soft cream, or pure white cotton cardstock."
+    ],
+    "test_text": "PRESS",
+    "source_hash": "83dee64d105262ed",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "esports": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} sit prominently on a flat, solid title panel cut at a sharp fifteen-degree slash angle with chamfered outer corners, lifted by a subtle, thin dark drop shadow under a hard white rim light coming from behind and above. The composition adopts the bold graphic language of competitive gaming visuals, surrounded by flat angular geometric panels in deep navy and near-black, paired with a dominant field of saturated team color and sharp accent highlights in electric cyan. Abstract graphic elements frame the composition, including a tight grouping of three angled chevrons, a slim band of diagonal hazard stripes, and small technical corner brackets, while leaving {{TEXT}} as the only legible writing. The setting evokes a dark arena filled with soft colored haze from an off-camera LED wall and pierced by narrow stage beams. Textures include fine film grain, subtle halftone dot fades along panel boundaries, and faint horizontal scanlines across the flat printed surfaces.",
+    "tips": [
+      "Short, aggressive team names, gamer tags, or single impact words in full capitals work best with this style.",
+      "Swap the electric cyan accent for acid lime, signal orange, or hot magenta to completely change the team's visual identity."
+    ],
+    "test_text": "VICTORY",
+    "source_hash": "1f51a6f6040a7966",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "fairy_tale": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} are wrapped in a soft, enchanted warm-amber ambient illumination, catching diffuse candlelit warmth across all surfaces with subtle cool silver-white moonlit highlights touching their top edges. Gentle rose-pink appears as a delicate secondary accent along the glowing contours. Centered across the middle third of the frame, the lettering stands out against a rich nocturnal backdrop shifting from deep midnight blue to forest shadow black. Behind the text, an enchanted realm recedes into dreamlike bokeh depth, featuring soft silhouettes of an ancient forest canopy and a distant castle touched by silver starlight. Atmospheric micro-particles and fine golden light-dust drift freely through the air alongside soft firefly traces in the deep distance, creating an ambient radiance rising from within the scene. The warm golden-amber luminescence and cool crown highlights ensure {{TEXT}} remains the only legible text and the glowing center of the composition.",
+    "tips": [
+      "Words evocative of folklore, magic, or storybook titles pair naturally with this warm nocturnal aesthetic.",
+      "Adjust the balance between the cool silver-white starlight and the warm golden-amber glow to dial the mood between an icy enchanted night and a cozy twilight tale."
+    ],
+    "test_text": "MAGIC",
+    "source_hash": "961109608f4f6a20",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "family_love": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering appears in warm, sincere hand-written forms featuring a cozy knit or tactile fabric texture, with soft honey-golden light gently emanating from the letter edges. Set within a snug, tender home atmosphere, the scene evokes a cherished family keepsake, surrounded by soft woven blankets and the gentle, comforting glow of a nearby fireside or warm window light. The color palette is deeply comforting and heartfelt, blending rich honey gold, soft cream, warm terracotta, dusty rose, and gentle warm brown tones, entirely free of harsh or cold lighting. The composition radiates intimacy, sincerity, and domestic warmth, keeping {{TEXT}} as the clear, glowing focal point resting amidst the soft, plush textures.",
+    "tips": [
+      "Short familial terms, affectionate titles, or sentimental words work best with this gentle, intimate aesthetic.",
+      "Adjust the background setting from a fireside glow to morning window sunlight to subtly alter the cozy home mood."
+    ],
+    "test_text": "WITH LOVE",
+    "source_hash": "2089a3f4b75c7861",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "fire_smoke": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are sculpted from active combustion, appearing fully ablaze with a brilliant white-yellow inner core that transitions outward through radiant orange and deep fiery red into turbulent flame tongues surging upward with natural random motion. Faint wispy blue-grey tips lick at the outer edges of the flames. Dense, dark smoke billows from the letters in heavy rolling columns, curling upward in charcoal and near-black volumes with faint translucency along the borders. Intense firelight self-illuminates from below with a warm amber-orange cast, creating a dramatic upward rim along the heat source underneath. Glowing embers drift upward through the surrounding space. The background consists of a deep charcoal haze with a faint ember glow, producing dramatic contrast between the combustion glow and the surrounding darkness as heavy smoke curls into the black above.",
+    "tips": [
+      "Short, punchy words work best, as rising flame tongues and thick rolling smoke can obscure dense or lengthy text.",
+      "To vary the mood, adjust the balance between the billowing dark smoke and the brilliant white-yellow flame core to suggest either a smoldering burn or an intense inferno."
+    ],
+    "test_text": "BLAZE",
+    "source_hash": "2e211d17ba10414f",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "flat_cartoon": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} appear as clean, solid vector shapes integrated seamlessly into a modern flat cartoon illustration. Surrounding the text are friendly cartoon characters constructed from minimal geometric forms, featuring round heads, neat dot eyes, simple curved smiles, and hair and clothing designed as solid, untextured shapes. All shapes interact with crisp color-against-color edges, completely free of heavy black outlines or contour lines. The entire composition rests on a clean cream or white background overlaid with soft organic blob shapes and plain flat color fields, playfully dotted with small floating accents such as miniature circles, leaves, sparkles, and hearts. The palette consists of four to six bright, saturated solid colors—specifically coral, sunny yellow, sky blue, mint green, and pink. Lighting is flat and shadowless across all elements, using at most a single subtle darker tone per shape for minimal depth, with no glossy highlights or gradients anywhere. Make {{TEXT}} the only legible text in the image.",
+    "tips": [
+      "Short, cheerful words like first names, greetings, or playful nicknames best complement the cute sticker-style character arrangement.",
+      "To achieve a more mature or calm editorial feel, replace the bright coral and mint palette with earthy tones like terracotta, sage, mustard, and warm beige."
+    ],
+    "test_text": "YAY",
+    "source_hash": "3b40b0044bf145d9",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "floral": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The solid letterforms serve as the structural foundation, adorned with botanical ornamentation growing naturally from their surfaces without ever obscuring the clean letter outlines or counter spaces. Lush floral blooms cluster primarily at stroke terminals, junctions, and apexes, while delicate vines and leaves trail along outer edges. The floral elements cover no more than a third of the letter surfaces, leaving the clean base clearly visible. The botanicals feature deep jewel tones inspired by still-life oil paintings, showcasing burgundy peonies, cream roses, forest-green leaves with visible venation, and gold-dusted stamens arranged in three distinct depths. A single directional key light strikes from the upper-left at a 45-degree angle, casting dramatic shadows and illuminating translucent petal edges and waxy leaf textures while mid-ground sprigs remain half-lit. The entire composition emerges against a deep, near-black velvet background with a soft, painterly depth of field that keeps the foreground petals razor-sharp.",
+    "tips": [
+      "Short, elegant words in title case or uppercase work best to give the floral embellishments ample space around the stroke junctions.",
+      "To alter the mood, swap the burgundy peony and cream rose palette for alternative jewel-toned or pastel flowers while keeping the dark background."
+    ],
+    "test_text": "Floral",
+    "source_hash": "b388787e11a5d612",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "futuristic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering appears as a three-dimensional holographic projection suspended in mid-air. Each letterform is constructed from a luminous triangulated wireframe mesh with razor-thin electric blue edges that outline its skeletal structure. The semi-transparent letter volumes possess a glass-thin depth with beveled top faces, illuminated by an intense inner glow that transitions from a cold white core to vibrant electric blue at the contours. A sharp neon blue halo radiates around every edge, while a horizontal scan beam of pure white-blue light sweeps across the surfaces. The holographic text floats above a faint, dark electric blue isometric ground grid in a deep space-black environment, casting a soft blue glow-shadow downward. Thin, dim electric blue HUD corner-brackets frame the four corners of the composition against deep blue atmospheric mist at the horizon. The overall lighting is clinical, cold, and entirely free of warm light sources.",
+    "tips": [
+      "Short, technical words, single nouns, or acronyms work best with this clinical digital interface look.",
+      "Change the electric blue and white palette to amber, cyan, or emerald green to evoke alternative sci-fi operating systems."
+    ],
+    "test_text": "FUTURE",
+    "source_hash": "e046de10062bdf05",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "geometric": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are centered, filling seventy-eight percent of the frame width, viewed from a head-on angle with zero perspective tilt against a pure, flat black architectural void with no visible floor and no horizon. Each letterform is rendered in a flat matte acrylic paint finish with zero sheen, cycling across a primary palette of signal red, cobalt blue, cadmium yellow, and flat black. The letterforms have a hard forty-five-degree isometric extrusion with pure-black side walls extending twenty-five percent of the letter height, defined by razor-sharp machined edges between the color face and extrusion. Flat geometric primary-color planes and compositional color bars in solid red, blue, and yellow appear alongside the letterforms with rigid grid precision. Overhead cold-white directional lighting produces ruler-sharp geometric shadow edges below all forms, with zero ambient scatter, no depth haze, and no surface gradients.",
+    "tips": [
+      "Short words, single terms, or all-caps acronyms work best with this style's cycling primary color pattern.",
+      "Switch the flat black background to stark white plaster or deep matte concrete to dramatically alter the contrast without losing the strict geometric feel."
+    ],
+    "test_text": "GEO",
+    "source_hash": "91e4c46864a47193",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "glass": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are sculpted from high-clarity optical glass, cast from pure transparent glass with intense light refraction transmitting through the entire material body. Sharp specular highlights trace along the letter edges wherever the glass thickness transitions. A subtle organic surface tension lends the letterforms a gently liquid-pulled quality at the curves and terminals, revealing deep internal optical depth within the solid glass. The material is purely transparent with no frosting, no opacity, and no color tinting. The scene is set in a clean, modern, airy studio against a soft pastel gradient background shifting smoothly from lavender to pale blue. Brilliant caustic light patterns project and pool onto the smooth surface directly beneath each letter, complemented by gentle ambient reflections that create a luminous, light, and weightless atmosphere. Ensure {{TEXT}} remains the central focal point and the sole readable text.",
+    "tips": [
+      "Short words with curved shapes maximize the visibility of internal optical refractions and liquid-pulled edge highlights.",
+      "You can alter the background gradient colors to introduce subtle reflections without tinting the clear glass itself."
+    ],
+    "test_text": "GLASS",
+    "source_hash": "e603327b4debb7d1",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "glass_broken": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are formed from shattered broken glass, with each character exploded outward from a central impact point via radial spiderweb crack networks. The glass fragmentation features large primary shards near the impact core lying nearly flat, medium secondary shards tilted fifteen to forty-five degrees outward, and small tertiary splinters completely detached and suspended mid-air at peak kinetic energy. Front-facing shard surfaces catch brilliant white specular highlights, while tilted pieces reveal a distinctive blue-green glass tint along their thick edges, and crack intersections scatter concentrated white light with needle-sharp edge glints. The background is a deep charcoal-to-black gradient with the subtle texture of demolished concrete. A harsh directional spotlight strikes from the upper-left, producing intense specular flares across facing facets, plunging rear edges into deep shadow, and catching clouds of fine glass dust particles that float as luminous specks in the dramatic chiaroscuro atmosphere.",
+    "tips": [
+      "Short, punchy words work best, as too many letters can cause the overlapping shard explosions and dust specks to appear cluttered.",
+      "Try changing the glass edge tint from blue-green to amber, rose, or smoked charcoal to easily shift the visual mood."
+    ],
+    "test_text": "SMASH",
+    "source_hash": "aa47ad82918151c1",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "glass_color": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words are sculpted as thick, solid colored glass letterforms with visible material weight and depth, crafted from deep-saturated jewel-tone glass. Each letter holds intense color throughout its transparent body—featuring vivid ruby, sapphire, emerald, or amber tones—with internal light scattering that produces a luminous glow at the core and rich saturation at the edges. Top surfaces carry sharp, mirror-bright specular highlights, while the sides reveal the full glass thickness and crisp refraction lines in the style of precision-cut optical glass sculpture. The letters rest on a dark, polished charcoal lacquer surface that produces clear mirror reflections directly beneath them. A single strong spotlight shining from the upper-left casts brilliant, rainbow-edged caustic light patterns and refraction fans across the ground plane. The background fades cleanly to near-black with a faint complementary gradient haze, keeping the composition uncluttered so the glowing, light-transmitting glass letters remain the primary, vibrant visual focus.",
+    "tips": [
+      "Short words with thick, bold structures highlight the internal light scattering, glass thickness, and caustic reflections best.",
+      "Specify a single jewel tone like ruby red, sapphire blue, or emerald green in the prompt if you prefer a unified color theme instead of multicolored letters."
+    ],
+    "test_text": "CYAN",
+    "source_hash": "7528310a282e9921",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "glass_crystal": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are carved from flawless, optically pure gemstone crystal, with each letterform cut into precision faceted geometry following brilliant-cut and emerald-cut diamond principles. Every facet plane is distinctly defined, featuring crisp table facets, crown facets, girdle edges, and pavilion facets. The crystalline material exhibits dazzling optical properties: intense white light brilliance, deep scintillation with extreme facet contrast, and rainbow spectral fire dispersion. Internal caustic light corridors glow from deep within each character, while sharp six-point sparkle flares emanate from letter apexes and prominent crown facet junctions. The letters float suspended against a deep navy-to-midnight-black gradient background reminiscent of a dark jeweler's velvet display. A single hard overhead pinpoint spotlight illuminates the scene, turning top table facets near-white and brilliant while deepening lower pavilion facets into rich blue-violet shadows. Precise prismatic rainbow beams radiate outward from the crown facets across the surrounding dark space.",
+    "tips": [
+      "Short words or uppercase acronyms work best, giving the intricate internal facets and prismatic flares enough room to remain sharp and legible.",
+      "To customize the tone, change the dark navy-to-midnight velvet backdrop to another rich, deep jewel tone such as dark emerald green or deep ruby red."
+    ],
+    "test_text": "GEM",
+    "source_hash": "63753e542dce3909",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "glass_frozen": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text is formed from massive, deep-frozen solid glacial ice blocks. Each letter features a smooth-polished outer surface rimmed with faint frost micro-crystal bloom and delicate edge frost textures. The body is thick, translucent ice with a pale blue-white tint, filled with suspended internal air bubble inclusions and fine crack networks branching inward from surface stress points. A deep, cold cyan-blue glow emanates from within the core of each letter via subsurface scattering, fading toward the crisp perimeters. Sharp icicle extensions hang from the letter bases, casting bright caustic refractions below, while polished edges catch incoming light in bright rim caustics and subtle cold-spectral micro-prisms. The letters rest against a deep arctic midnight backdrop of near-black darkness, accented by a faint cold blue-teal atmospheric aurora glow spreading across the upper frame. Fine airborne ice crystal particles drift through the air, catching the light as glittering specks. The glowing ice letters serve as the primary illumination in the scene, maintaining a palette of pure icy blues, cyans, and crisp whites with zero warm tones.",
+    "tips": [
+      "Short words with thick, bold letter shapes work best because they provide enough internal volume to display the cracks, trapped bubbles, and subsurface light glow.",
+      "To adjust the mood, you can emphasize heavier falling snow and blizzard drifts, or reduce the icicle drips for a cleaner carved-ice look."
+    ],
+    "test_text": "FROST",
+    "source_hash": "d0a0c535fd83482a",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "glass_liquid": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are sculpted as solid, three-dimensional volumetric glass forms with smooth, organic curvature and a glossy wet surface finish. Intense white specular highlights trace the peaks of curvature across each letter form. The material is semi-transparent with a clear-to-blue-teal gradient, displaying a faint blue-green tint along the shallow perimeter edges and rich refractive depth through the thicker central volumes. Internal caustic light patterns scatter throughout the transparent glass body, completely free of drips, running fluid, or hanging liquid droplets. Centered in the frame and filling approximately 75% of the width, the lettering is illuminated by soft overhead diffused key lighting that creates bright specular crowns atop the forms and casts subtle, soft shadows beneath. The backdrop is a clean, airy studio gradient blending from pale lavender to ice blue, enhancing the transparency, internal refraction, and luminous glass depth.",
+    "tips": [
+      "Short words or uppercase acronyms work especially well, allowing generous space to showcase the internal caustics and glass refraction.",
+      "You can modify the background gradient to warm tones like peach and amber to produce completely different internal color refractions through the glass."
+    ],
+    "test_text": "FLOW",
+    "source_hash": "0443b771a6b36bc8",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "glass_morphism": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. Each letter appears as a translucent frosted glassmorphism slab suspended in space with multi-layered optical depth. The material features three distinct optical zones: a razor-thin, bright white specular highlight tracing the perimeter, an interior surface of semi-transparent milky frosted glass with a subtle blur revealing the background at low opacity, and a soft internal glow concentrated at the center of each letterform. Soft dark inner shadows run along the glass edges to create physical thickness, while the frosted texture scatters illumination into a faint diffuse halo around the perimeter. The letters float before a deep midnight-blue background illuminated by vibrant, out-of-focus bokeh orbs in glowing shades of coral-orange, electric violet, cyan-teal, and emerald green. These colorful light spheres subtly bleed and refract through the semi-transparent glass bodies, making the letters act as frosted windows onto the luminous backdrop, with high contrast ensuring edge highlights stay razor-sharp.",
+    "tips": [
+      "Short, clean words work best, as the complex frosted reflections and background blur can become cluttered on lengthy phrases.",
+      "Change the palette of the floating background bokeh orbs to alter the overall color mood reflected through the frosted panels."
+    ],
+    "test_text": "BLUR",
+    "source_hash": "fed5231964141557",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "glitch": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is large, dominant, and fills the frame with a controlled digital corruption aesthetic. Authentic RGB chromatic aberration splits every letter edge, shifting the red channel cleanly to the left and the cyan channel to the right to produce a distinctive double-vision split. Dense, rhythmic, semi-transparent horizontal CRT scan lines cover the entire text surface, simulating a glowing phosphor monitor screen. At random vertical positions along the letters, several sharp-edged rectangular pixel blocks displace horizontally while keeping the text completely readable. A subtle cyan-white phosphor bloom glows along the outer contours of the characters. The entire composition is set against an empty, dark digital void accented by faint horizontal VHS tracking error bands and small clusters of corrupted pixel artifacts scattered throughout the atmosphere.",
+    "tips": [
+      "Short, punchy words or technical terminology in all capital letters work best to showcase the horizontal slice displacements.",
+      "To shift the mood, swap the red and cyan color channels for a magenta and green split, or adjust the intensity of the VHS tracking bands across the background."
+    ],
+    "test_text": "GLITCH",
+    "source_hash": "a99f5156a2398203",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "gothic_dark": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The heavy gothic lettering of {{TEXT}} is forged from cold dark iron, textured with subtle hammer marks, patches of rust, and beads of cold moisture. Delicate cobweb strands stretch across the negative spaces between the letters. The text stands bold and central within an ominous, dread-soaked gothic crypt of damp, dark weathered stone. Deep, heavy shadows envelop the environment, pierced from behind by dramatic, intense crimson backlighting that burns glowing red edges along the silhouette of {{TEXT}}. Faint tendrils of cold smoke and drifting mist curl through the crevices and hover around the base. The color palette is dominated by deep charcoal and near-black grounds, sharply contrasted with saturated blood-crimson rim light and glints of cold steel highlights, maintaining a brooding, atmospheric darkness.",
+    "tips": [
+      "Short, imposing words or dark, archaic terms work best with this heavy, ominous aesthetic.",
+      "Try shifting the crimson backlighting to a pale spectral blue or sickly emerald green to change the supernatural tone of the crypt."
+    ],
+    "test_text": "DARK",
+    "source_hash": "e645ea813d3993da",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "gothic_font": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character, ensuring it is the only legible text in the image. The letters are crafted in precise gothic blackletter calligraphy, characterized by diamond-shaped stroke terminals, dramatic thick-thin contrast, and pointed arch counters. Each glyph demonstrates medieval scribal precision, executed in rich black ink with warm undertones and refined gold ink highlights accenting the serifs and capitals. The lettering stands clean and unweathered, focused entirely on pure typographic craft without cobwebs or rust. In the background, dark parchment merges into a medieval cathedral interior lined with soaring stone arches that gently fade into distant fog. Warm candlelight flickers across nearby stone surfaces, curling ribbons of incense smoke drift through the air, and a solitary shaft of pale moonlight filters through a broken stained glass window, subtly illuminating the dark, solemn environment around the text.",
+    "tips": [
+      "Short Latin phrases, solemn titles, or single words in Title Case showcase the ornate blackletter capitals and rhythmic vertical strokes best.",
+      "Adjust the lighting balance between the warm flickering candlelight and the pale shaft of moonlight to make the mood feel either intimate or cold and haunting."
+    ],
+    "test_text": "Gothic",
+    "source_hash": "a882065cc6c977a6",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "graffiti": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words \"{{TEXT}}\" appear as the only legible text, rendered as a massive graffiti piece dominating a gritty urban wall of weathered red brick and textured concrete. The letters are built up in physical layers of aerosol spray paint, featuring a high-impact multi-color fade fill transitioning between hot magenta, electric blue, and vivid lime green, accented with bright white highlights. A thick, load-bearing black outline cleanly defines the letter shapes, complemented by an angled 3D block shadow that creates dramatic depth against the wall. Fine overspray mist haloes the perimeter of the piece, accompanied by spray-can mottling and scattered paint droplets. Heavy wet paint drips run naturally downward from saturated edges, pooling on the pavement below. The entire scene is illuminated by raw, natural street daylight, highlighting the authentic surface texture of the brick mortar and the vivid chromatic vibration of the fresh aerosol lacquer.",
+    "tips": [
+      "Short, punchy words, street tags, or single words between three to seven letters work best with the bold, heavy geometry of aerosol graffiti.",
+      "Change the background surface to a corrugated metal roller shutter or switch the fill to classic polished chrome with black outlines to create a distinct street aesthetic."
+    ],
+    "test_text": "STREET",
+    "source_hash": "a7afd1f2acef7342",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "grunge": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} are rendered in heavy, high-contrast black ink, featuring coarse halftone dot screens, ink bleed, low-ink roller streaks, and clogged edges on raw off-white newsprint paper. The letters appear cut out and pasted by hand, accented with torn paper borders, scissor-cut edges, lifted paper corners, and strips of tape. The surrounding scene functions as a photocopied punk-zine cover, featuring a layered cut-and-paste collage aesthetic with subtle spray-paint overspray, photocopy speckles, scratches, and nth-generation blurring. The color palette relies on high-contrast black ink against gritty off-white paper, disrupted by a single punchy accent slash of punk red that prints slightly off-register. The composition is raw and asymmetric, full of DIY collage energy, ensuring that {{TEXT}} remains the only legible text in the entire image.",
+    "tips": [
+      "Short, punchy words in all-caps work best to match the harsh, cut-and-paste aesthetic of underground zines.",
+      "Try swapping the red accent color for an acid yellow to change the visual tone while keeping the cheap two-color print look."
+    ],
+    "test_text": "GRUNGE",
+    "source_hash": "76f3e9251576b06a",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "handwritten_script": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words appear as elegant, fluid handwritten script centered in the upper-to-mid frame, written in rich dark ink that sits proud on the surface of textured cream hot-press cotton rag paper filling the entire view. Thick downstrokes display a subtle, dimensional wet sheen, while delicate hairlines taper softly into the paper fibers, accompanied by faint ink bloom halos at dense endpoints. Intimate, raking morning window light enters from the upper left at a low angle, casting delicate shadows that reveal every grain, tooth, and chain line across the paper, complemented by a soft amber fill light from the right. The paper subtly deepens to a rich warm parchment amber toward the lower right corner, where a round, deep crimson wax seal with an embossed botanical motif rests, casting a tiny crisp shadow. The atmosphere is quiet and personal, with faint paper dust motes catching the gentle directional light, making \"{{TEXT}}\" the sole legible text in the composition.",
+    "tips": [
+      "Short poetic phrases, formal names, dates, or correspondence sign-offs complement this intimate letter aesthetic best.",
+      "To alter the mood, specify a different paper substrate such as rough cold-press watercolor sheet or smooth aged vellum."
+    ],
+    "test_text": "Elegance",
+    "source_hash": "29ff90d8ecc42c16",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "hawaiian": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character, ensuring it is the only legible text in the image. The letters are crafted from deep aged mahogany wood with natural bamboo grain running horizontally across their surfaces, showing shallow relief grooves that evoke hand-carved island woodwork. Warm overhead light blazes down, casting brilliant golden highlights across the raised bamboo ridges and dropping deep amber shadows into the carved recesses, while a vibrant coral orange rim light catches every groove from the side. Set in a tropical nightfall tiki bar, the composition places {{TEXT}} prominently centered against a dark bamboo-paneled and weathered wood plank wall draped with fresh plumeria flower garlands. Flickering tiki torches and coconut shell sconces frame the perimeter, casting warm amber and flickering orange pools of light onto the scene edges. Broad palm fronds and bright hibiscus blossoms frame the background environment, with fallen tropical blossoms scattered across the ground in soft focus under a lush, celebratory island atmosphere.",
+    "tips": [
+      "Short island-themed phrases, vacation greetings, or cocktail names harmonize best with this bold, hand-carved woodwork style.",
+      "To adjust the mood, you can transition the scene from nightfall torchlight to daytime by replacing the torch flames with bright, dappled sunbeams filtering through palm fronds."
+    ],
+    "test_text": "ALOHA",
+    "source_hash": "3e29a4130b166910",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "holographic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are rendered with an iridescent holographic foil effect, featuring a multi-layer diffractive film surface that produces rainbow spectral shifts across the letter faces. Colors cycle through deep violet, electric cyan, hot pink, and warm gold through structural interference, blooming and fading under a directional overhead light source. Semi-transparent depth is visible through the letterforms, allowing the background to bleed through with slight chromatic distortion. The entire surface carries a fine diffraction grating micro-texture. Along all outer edges, a rainbow chromatic fringe dissolves outward into scattered prismatic light particles, softening the hard boundaries of each character. The composition is centered on a pure black background dotted with subtle prismatic scattered light spots from the diffractive scatter. The letters rest on a mirror-like reflective base plane that catches and mirrors the forms with rich iridescent color bleed.",
+    "tips": [
+      "Short words or acronyms work best, providing broad letter surfaces where the rainbow diffraction gradients can fully display.",
+      "To shift the mood, specify which color bands from the spectrum should dominate, such as leaning primarily into violet and cyan."
+    ],
+    "test_text": "HOLO",
+    "source_hash": "52bed2e9d5cf9496",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "horror": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is rendered in a bold, graphic consumer Halloween horror style with immediate, striking readability. The composition features harsh, dramatic underlighting with a warm amber-orange key light shining from directly beneath the letters, throwing the upper two-thirds into heavy shadow like a candle held under a face. Extreme contrast defines the surface, with brilliantly lit edges cutting directly into near-black shadow zones without soft mid-tones. The color palette includes deep candy-red crimson accents, fiery amber tones, and subtle hints of dark rust and mold green. The letters are set against a near-black background subtly showing the faint texture of a rough stone wall, accented by a very low-opacity sickly yellow-green ambient glow at the base and faint wisps of ground-level fog drifting along the bottom. Ensure {{TEXT}} is the only legible text in the entire image.",
+    "tips": [
+      "Short, punchy Halloween or spooky words work best with this intense underlit style to preserve maximum graphic impact.",
+      "Shift the secondary glow color from sickly yellow-green to dark crimson or purple to alter the mood of the ambient background."
+    ],
+    "test_text": "WICKED",
+    "source_hash": "7f764ab28fcf9890",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "ice_crystal": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is formed entirely from clear crystalline ice with delicate frost feathering like frozen fern leaves spreading outward from the edges. The letters have a glassy frozen surface that is transparent and naturally refracts light, embedded with tiny suspended ice particles. Set the piece in a cold winter atmosphere filled with drifting frost and fine snow dust. Illuminate the text with a dramatic icy blue backlight and crisp rim lighting that catches and defines the sharp crystal facets. The color palette is strictly cool, luminous, and never warm, dominated by ice blue, cyan, frost white, and pale teal with bright, gleaming highlights.",
+    "tips": [
+      "Short, punchy words related to winter, cold, or clarity emphasize the sharp crystalline facets best.",
+      "Adjust the amount of drifting frost and snow dust in the background to make the scene feel either like a calm deep freeze or a dynamic blizzard."
+    ],
+    "test_text": "FROZEN",
+    "source_hash": "b39b48e92f1f3c49",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "kagemoji": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of \"{{TEXT}}\" are rendered in a flat, solid cream-white. Every single letter casts a bold, exaggerated long shadow extending toward the lower-right at a precise 45-degree angle, stretching 2.5 to 3 times the height of the letters across the background. This shadow is rendered in a uniform, flat, solid deep brown-black tone with sharp, crisp, straight boundaries, entirely devoid of gradients, blur, glows, bevels, or vanishing points, maintaining a purely flat graphic silhouette rather than a three-dimensional block. The scene is illuminated by an implied single light source from the upper-left. The overall image presents a clean vintage print aesthetic in a warm, muted retro palette, positioned against a completely flat, solid-color background such as mustard yellow, burnt orange, faded teal, or olive green, without any photographic textures or gradients. The text is centered, occupying approximately 70% of the frame width with generous, even margins on all sides, ensuring {{TEXT}} is the sole visual element.",
+    "tips": [
+      "Short, punchy words work best, giving the long 45-degree shadow projections ample space to extend across the background without overlapping cluttered edges.",
+      "You can change the background color to specific retro shades like olive green, mustard, or burnt orange to alter the mood while preserving the crisp graphic style."
+    ],
+    "test_text": "SHADOW",
+    "source_hash": "073cc2bb081a6ad3",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "kawaii": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words {{TEXT}} are displayed prominently as the sole legible text inside a soft, rounded retro computer application window featuring a delicate top title bar with three tiny dot buttons and a slim bar beneath. The letterforms are rendered in gentle pastel tones with faint, soft shadows. The composition is arranged as an airy digital screen overlay on a pale cream background patterned with a subtle grid-paper texture. Sweet decorative elements are scattered around the frame, including tiny puffy clouds, delicate ribbon bows, four-point sparkles, pastel hearts, and an adjacent rounded display panel finished with lace-scalloped edges. The scene is bathed in bright, soft, even daylight with a gentle luminous bloom on the highlights and faint, tender shadows. The color palette centers on soft baby pink and sky blue accents across cream, leaving generous breathing space without any dark shadows or harsh neon tones.",
+    "tips": [
+      "Short, cheerful words or brief phrases fit best inside the rounded retro window without crowding the soft UI elements.",
+      "To alter the mood while keeping the style, swap the baby pink and sky blue palette for peach and lavender or mint and lilac."
+    ],
+    "test_text": "CUTE",
+    "source_hash": "abbadeb5c613639b",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "kids_gift": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is rendered as playful, glossy chunky 3D toy letters in maximum saturation candy colors, blending bright bubblegum pink, sunshine yellow, sky blue, and lime green. The letters are dimensional, smooth, and tactile with soft glossy highlights along their rounded surfaces. Cute miniature stars, little hearts, and magic rainbow sparkle trails float playfully around the characters. The text sits centered within a joyful, magical party setting filled with floating balloons, celebratory confetti, and cheerful ambient party lighting. The entire composition is vibrant, upbeat, and fun, with {{TEXT}} remaining the sole legible text in the image against the bright, celebratory backdrop.",
+    "tips": [
+      "Short names, playful greetings, and cheerful exclamations pair most naturally with the chunky, rounded toy style.",
+      "Try swapping the glossy plastic toy surface for shiny foil balloons or waxy crayon strokes to alter the tactile feel while maintaining the vibrant party palette."
+    ],
+    "test_text": "WOW",
+    "source_hash": "709c1d1ecfb5fb15",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "laser_cut": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text exists as a physical laser-cut wood slab resting flat on a dark raw-timber workshop surface, presented cleanly as if freshly released from the machine bed. Mathematically exact edges define each letter with zero roughness, where the laser kerf serves as the sole boundary. The letter faces display a warm honey wood grain, contrasting sharply with a charred dark seam along every cut kerf edge and exposing cross-grain across the dimensional material slab thickness. Enclosed letter counters are physically retained by thin, structural bridge connection tabs integrated seamlessly into the design. Negative space is open air revealing the dark textured surface underneath. Directional key light rakes across the piece from the upper left at a shallow angle, casting razor-fine, sharp shadows that emphasize the physical slab depth, complemented by a subtle warm amber secondary fill from the lower right amidst a near-black, atmospheric craft-studio setting.",
+    "tips": [
+      "Words with enclosed loops (like O, B, P, or R) will naturally highlight the authentic look of the laser-cut bridge tabs.",
+      "To vary the aesthetic, replace the wood description with frosted acrylic featuring glowing light-scattering edges, or brushed metal with bright machined cut faces."
+    ],
+    "test_text": "CUT",
+    "source_hash": "8d6db8b76a3d441b",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "luxury_gold": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text is centered in the frame, filling 70 to 80 percent of the canvas width, set against a pure deep black background with zero ambient fill. The letterforms possess substantial physical mass and thickness, resembling solid cast or stamped precious metal with embossed relief depth. Their surfaces exhibit a liquid 24-karat gold finish characterized by microscopic foil crinkle texture across all faces. Deep amber tones pool in the recesses, transitioning to rich warm gold across the main surfaces. A single dramatic spotlight shines from the upper-left at a 45-degree angle, casting crisp directional shadows and producing intense highlight contrast with razor-bright, champagne-white specular peaks where the direct beam strikes the metal. A subtle warm amber light pool rests on the ground plane directly beneath the letters, ensuring all visual luminosity radiates exclusively from the gold against the void.",
+    "tips": [
+      "Short single words or punchy acronyms work best to maximize letter thickness and showcase the fine crinkled foil details.",
+      "Remove the mention of the amber ground pool to make the gleaming gold letters appear as though they are floating weightlessly in deep space."
+    ],
+    "test_text": "LUXE",
+    "source_hash": "d6336a5239bb355a",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "magic_fantasy": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character, ensuring it is the only legible text in the composition. The lettering appears as ancient spellbook script with ornate fantasy serif letterforms imbued with a subtle interior glow. Ethereal purple and gold magical auras pulse around the characters, accompanied by orbiting glowing runes, mystical symbols, drifting sparkle particles, and delicate wisps of magical smoke. The surrounding scene features a dark enchanted atmosphere set in an ancient wizard tower library, illuminated by soft flickering candlelight casting warm shadows across aged, leather-bound book pages.",
+    "tips": [
+      "Short, evocative words like spell names, arcane elements, or fantasy titles work best with the mystical surrounding effects.",
+      "Change the purple and gold aura to emerald green, crimson, or icy cyan to represent different schools of magic."
+    ],
+    "test_text": "SPELL",
+    "source_hash": "e9f49f6886a6cadd",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "medieval": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are styled in the manner of an illuminated manuscript, featuring flat, opaque hand-painted jewel-tone pigments in deep ruby red and cobalt blue, outlined with burnished gold leaf that catches brilliant hot highlights. The text is centered across the composition against an aged vellum parchment background of warm ochre and cream, displaying subtle manuscript texture and gentle foxing marks. Framing the composition is an intricate Celtic knotwork border of emerald green and antique gold with illuminated rosette ornaments at each corner. At the lower right, a feathered writing quill rests softly out of focus. The scene is bathed in warm amber candlelight casting down from the upper right at a forty-five-degree angle, making the center glow warmly while the edges vignette into deep ochre shadow. Ensure {{TEXT}} is the only legible text in the entire image.",
+    "tips": [
+      "Short titles, single names, or archaic vocabulary harmonize best with the ornate illuminated border.",
+      "You can specify whether the lettering fill leans primarily into deep ruby red or rich cobalt blue to shift the overall color temperature."
+    ],
+    "test_text": "QUEST",
+    "source_hash": "43df4001064fb6d6",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "metallic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters appear as bold, 3D extruded forms crafted from solid brushed steel with a tactile matte-satin finish and subtle horizontal grain texture. The metallic surfaces interact dynamically with light, displaying realistic directional anisotropic highlight streaks and razor-sharp edge highlight compression along the beveled planes. Colored in cool industrial grey with soft steel undertones, the letters exhibit wide specular highlight gradients transitioning smoothly into rich shadow zones that subtly catch ambient environmental reflections. The scene is illuminated by a focused studio key light from the upper-left at a forty-five-degree angle, casting crisp, defined shadows, while a subtle secondary fill light from the lower-right ensures distinct edge separation. The composition is set against an atmospheric deep charcoal-to-steel-blue gradient backdrop, with the typography resting on a dark reflective ground plane that mirrors the metallic forms with precision clarity.",
+    "tips": [
+      "Short words or single titles in capital letters work best to showcase the heavy beveling and metallic reflections.",
+      "Change the cool steel grey and anisotropic grain to warm amber-gold with a smooth trophy polish to shift the atmosphere from industrial to celebratory."
+    ],
+    "test_text": "METAL",
+    "source_hash": "5de9ff10fda71409",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "minimal": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are styled as clean, thin, modern sans-serif letterforms rendered in a soft charcoal tone with a flat matte finish, free of gloss, heavy texture, or decorative ornament. The text is arranged with generous, wide letterspacing and sits perfectly centered, surrounded by abundant negative space to evoke quiet architectural emptiness and refined breathing room. A single fine hairline accent rule provides a subtle structural detail. The setting is a calm, bright, uncluttered space characterized by an even, diffuse light across a clean white or soft warm grey neutral ground. The palette is strictly sophisticated and monochrome, focusing on soft whites, muted greys, and deep charcoal, keeping the entire composition quiet, tonal, and restrained. Ensure {{TEXT}} is the only legible text in the image.",
+    "tips": [
+      "Short, single words work best to preserve the vast negative space and spacious atmosphere.",
+      "You can subtly vary the mood by shifting the backdrop from crisp white to a soft, warm architectural grey."
+    ],
+    "test_text": "MINIMAL",
+    "source_hash": "e37c5de166ecb0f9",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "mothers_day": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is rendered as elegant calligraphy with soft flowing script and graceful swashes, crafted in a warm cream-white material with a subtle gold ink shimmer. Realistic three-dimensional botanical elements are physically woven throughout the letterforms, featuring soft blush pink peonies, dusty roses, sprigs of lavender, and sage green foliage blooming between strokes and winding around the baseline. Delicate petals rest naturally on the curves of the letters. Gentle golden light spills from the upper left, creating warm bokeh that filters through the blossoms. Beneath the composition, scattered loose rose petals rest on the surface. The background is a rich, deep gradient moving from burgundy rose to wine-mauve, creating a dark, luminous contrast that makes the illuminated letters and fresh florals glow with a tender, celebratory warmth.",
+    "tips": [
+      "Short names, titles, or single affectionate words work best, allowing ample room for the elaborate floral weaving and swashes without cluttering.",
+      "You can easily alter the emotional tone or season by swapping the peonies and roses for botanicals like wildflowers, eucalyptus, or white lilies."
+    ],
+    "test_text": "Happy Mother's Day",
+    "source_hash": "35ffa6eec857c8f2",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "neon_80s": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters feature a high-gloss, mirror-finish automotive chrome surface with zero grain, acting as sharp environmental mirrors. The upper half of each letter reflects a vivid sunset gradient fading from hot pink to electric purple and deep navy, while the lower half reflects warped electric cyan and purple grid lines from below. Surrounding every stroke is a dual neon halo featuring a tight inner glow of electric purple, an expansive outer bloom of hot pink, and a delicate cyan rim at the extreme edge. Floating centrally above the floor, {{TEXT}} casts deep, clean purple-tinted shadows onto an endless geometric perspective wireframe grid that recedes to a single vanishing point on the horizon. The backdrop displays a layered sky shifting from a hot pink horizon through electric purple into deep navy-black, adorned with symmetrical black palm tree silhouettes and sharp pinpoint white stars. The entire composition has a clean, dry aesthetic overlaid with subtle horizontal analog scan lines.",
+    "tips": [
+      "Short, capitalized single words work best to maximize the bold chrome reflections and vibrant neon glow effects.",
+      "To alter the scene's temperature, replace the cyan grid and outer pink rim colors with laser green or amber orange."
+    ],
+    "test_text": "SYNTH",
+    "source_hash": "4a637693adc46565",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "neon_glow": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are formed from real bent glass neon tubes complete with visible tube brackets, mounting hardware, and subtle glass tube refraction. The glow shines in bright cyan and magenta neon light, displaying sharp glowing edges enveloped by a soft light bloom, featuring slightly uneven brightness between individual letters for realism. Mounted on a dark concrete wall, each letter's colored illumination pools softly onto the floor beneath it. Tiny dust particles drift and catch the glow in the illuminated air, alongside faint reflections cast across the slightly damp ground while deep shadow gathers around the edges of the frame.",
+    "tips": [
+      "Short, punchy words or single-word phrases work best to replicate the look of a real bent-glass sign without overcrowding.",
+      "Swap cyan and magenta for warm amber or ruby red in the prompt to shift the mood from a cool night scene to vintage roadside signage."
+    ],
+    "test_text": "NEON",
+    "source_hash": "fc65bfc56bfa8335",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "neon_outline": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. Render the letters as pure hollow neon outline letterforms, defined strictly by their glowing stroke borders with interiors remaining completely hollow and deep dark voids. The outline strokes emit electric blue and deep violet neon tube light, featuring an intense white-hot center core along the stroke path, a vivid colored glow zone expanding outward, and a soft wide halo. Following real gas-tube physics, the glow bleeds wider on the outside edge of each stroke than on the inside, with no light bleeding into the dark void centers. The strokes maintain crisp geometric precision with subtle organic brightness variations along the paths. The text is centered against a deep midnight blue-black atmospheric gradient, transitioning from indigo-black above to dark navy below with subtle electric blue ambient light scatter. Fine atmospheric haze and barely visible floating micro-particles catch the neon radiance. Below the text, a smooth obsidian floor with a faint wet sheen reflects elongated mirror columns of the glowing outlines, creating a cold, electric, and pristine minimalist setting.",
+    "tips": [
+      "Short words, technical terms, or punchy acronyms work best with hollow outline letterforms because they keep the negative space uncluttered.",
+      "Change the electric blue and violet glow to hot pink and magenta or warm amber to shift the scene from a cold, sleek mood to a vibrant pop or retro setting."
+    ],
+    "test_text": "OUTLINE",
+    "source_hash": "6c7a39e96bcc5a89",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "neon_sign": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} are crafted as a classic roadside neon sign, fashioned from glowing glass tubes that emit a warm, radiant light in soft pink and amber hues. Detailed physical features are visible along the letterforms, including precise glass tube bends, small mounting brackets, and a dark painted metal backing plate that anchors the sign. A warm light halo and luminous bloom wrap each letter, lending a subtle impression of buzzing electrical energy. The sign is mounted against a nighttime exterior wall featuring visible brick texture, subtly catching the vibrant glow of the neon. A faint rain shimmer glistens across the dark bricks beneath the soft halo bloom lingering in the night air, evoking a nostalgic Americana roadside aesthetic. The letters of {{TEXT}} must be the only legible text in the entire image.",
+    "tips": [
+      "Short, punchy words or single expressions work best to keep the glowing glass bends clear and readable.",
+      "Switch the neon tube colors from soft pink and amber to electric turquoise or deep cherry red to instantly shift the sign's mood."
+    ],
+    "test_text": "OPEN",
+    "source_hash": "f9896e46fcc7975c",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "nutcracker": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words {{TEXT}} are rendered in ornate antique gold lettering positioned across a central cream panel. The entire composition is designed as a theatrical storybook scene, framed by an ornate gilded ballet stage arch draped with rich crimson velvet curtains and festive garlands. Flanking the frame stand classic painted wooden nutcracker soldier figures in crisp red tunics, tall black hats, and polished gold buttons. Decorative elements including miniature drums, colorful candies, ribbons, and toy castles embellish the gilded filigree borders. The palette balances deep emerald green and crimson red against warm antique gold trim. Warm stage lighting casts a soft golden glow outward from the center with a gentle vignette at the edges, highlighting the subtle gloss and delicate glitter on the wooden surfaces while keeping {{TEXT}} as the only legible text in the entire image.",
+    "tips": [
+      "Holiday titles, seasonal greetings, and family names harmonize naturally with this storybook stage aesthetic.",
+      "For a softer confectionary aesthetic, replace the deep crimson and emerald elements with pastel pink, mint green, and ballet slippers."
+    ],
+    "test_text": "MERRY",
+    "source_hash": "b86317b57af23560",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "origami": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are formed as clean origami paper-craft pieces, showcasing crisp, geometric hand-folded precision. Each letter consists of clean colored paper with sharp crease lines and angular facets catching soft studio light at varying angles. Subtle shadows define the layers where paper folds overlap, giving the text depth without clutter. The color palette features bright, cheerful paper tones including coral, teal, mustard, sky blue, and soft white, maintaining a fresh and crafty aesthetic with crisp facet highlights and no grungy or dark elements. The text rests centrally within a bright, calm, and uncluttered studio setting illuminated by soft, even lighting. Surrounding the lettering are a few delicate, small folded paper shapes that complement the composition, establishing an organized, cheerful paper-craft atmosphere where {{TEXT}} remains the clear and only legible focus.",
+    "tips": [
+      "Short, punchy words work best, as fewer characters give each folded crease and paper facet enough room to remain clear and legible.",
+      "Try narrowing the color palette to monochrome or pastel tones if you prefer a softer, minimalist paper-craft aesthetic."
+    ],
+    "test_text": "FOLD",
+    "source_hash": "7675245aff6b1954",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "pink_christmas": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are displayed cleanly in a calm, open central space, surrounded by a festive arrangement of pink holiday decorations gathered along the edges and corners. The decorative elements feature glossy pink baubles, frosted pink tree branches, smooth satin ribbon bows, delicate snowflakes, miniature wrapped gifts, and glowing candles. The lighting provides a warm, soft glow reminiscent of fairy lights and candlelight, creating gentle shadows and subtle bokeh sparkles across the background. The color palette centers on blush and bubblegum pink, accented with shimmering rose gold, pearly white, and tiny touches of deep raspberry, entirely avoiding traditional red and green. Surfaces mix smooth satin ribbon, high-gloss ornament finishes, and a delicate dusting of fine glitter and soft snow for a modern, cozy celebration aesthetic.",
+    "tips": [
+      "Short holiday greetings, names, or seasonal words work best to preserve the calm, open space around the text.",
+      "To make the scene feel more energetic, shift the primary color balance toward vibrant bubblegum pink rather than soft blush."
+    ],
+    "test_text": "MERRY",
+    "source_hash": "2989e7dc24cb0d0a",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "pink_halloween": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words {{TEXT}} are the central focus, styled in contrasting black with soft pink accents, sitting cleanly in the middle of a framed wall-art composition. The surrounding graphic language is sweet and cute rather than scary, featuring pastel pink pumpkins dusted with subtle glitter, friendly little white ghosts wearing satin pink bows, delicate cobwebs, tiny black bats, wrapped candies, and small floating hearts gathered around the edges and corners to frame the lettering. The overall colour palette is defined by a soft blush and bubblegum pink background, offset by crisp black details and delicate touches of lilac and white, completely avoiding traditional orange. The aesthetic is a soft matte flat illustration with gentle satin sheens on ribbons and bows, illuminated by soft, even lighting casting only faint shadows and accompanied by a tender pink glow.",
+    "tips": [
+      "Short, playful holiday words, seasonal greetings, or cute party phrases complement this whimsical aesthetic best.",
+      "To adjust the mood, you can specify whether the cute decorative elements should cluster as a border around the text or scatter across the entire background."
+    ],
+    "test_text": "BOO",
+    "source_hash": "46442d91f1767dcf",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "pixel_art": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The typography is constructed entirely from vibrant, colored square pixel cells set within a curved CRT arcade monitor screen. Every character adheres strictly to a uniform retro pixel grid with zero anti-aliasing, ensuring crisp, distinct geometric edges and edge-to-edge clarity. Phosphor bloom radiates from the letters, casting soft glowing halos around the pixel clusters. A distinct horizontal scan-line grid stretches across the entire frame, accompanied by gentle barrel distortion and corner vignetting that deepens into near-black at the edges. The letters serve as the primary luminous element, illuminating the jet-black screen glass while the outer borders fade into darkness. The text is anchored at the vertical center and spans broadly across the display, completely unobstructed by foreground elements, making \"{{TEXT}}\" the sole legible text in the entire composition.",
+    "tips": [
+      "Short arcade-style verbs, gaming terms, or 1980s titles work best with the blocky pixel resolution.",
+      "To alter the retro era, describe replacing the CRT scan lines with a receding magenta floor grid or an isometric block builder stage."
+    ],
+    "test_text": "PIXEL",
+    "source_hash": "122cb5e1447db83c",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "pop_art": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are rendered in a classic 1960s comic-panel pop art style, featuring a thick uniform black outline tracing every contour and inner stroke with sharp, hard edges. The letter fills consist of large, individually visible Ben-Day halftone dots in flat primary colors—red, yellow, blue, and white—with no gradients, pastels, or color blending, maintaining a small bare white gap between the dot fill and the inner outline. A solid black graphic drop shadow projects at a crisp 45-degree angle to the lower right. The scene is framed as a comic book panel with a bold black border and a bright flat primary-color background. Directly behind {{TEXT}} is an oversized starburst action shape in flat yellow with a hard black outline. The surrounding background zones are filled with flat blue Ben-Day dot patterns. The entire composition maintains a completely flat silkscreen print aesthetic with high contrast and zero photographic realism, ensuring {{TEXT}} is the sole legible text.",
+    "tips": [
+      "Short, punchy action words and onomatopoeias pair naturally with the comic starburst framing.",
+      "Try alternating the starburst shape between flat red and flat yellow to change which primary tone dominates the composition."
+    ],
+    "test_text": "POP!",
+    "source_hash": "a764dcd916c43ef0",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "post_apocalyptic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text appears as action movie title typography in ultra-bold letterforms, centered horizontally in the frame. The letters feature a battle-worn, oxidized matte metal surface full of deep battle scars and fissure-like cracks, avoiding any glossy or reflective chrome finish. A vibrant, molten orange-red lava light glows intensely from deep within the fissures. Scorched earth lies beneath the lettering, with rising dust and atmospheric smoke haze drifting into the background. Fiery glowing ember particles and dark ash debris scatter away from the letter edges. Crisp, cool rim lighting touches the top edges of the characters to define their silhouettes against the dark backdrop. The composition uses a dramatic low-angle perspective and a high-contrast dark environment dominated by orange-red atmospheric backlighting, ensuring {{TEXT}} is the only legible text in the entire image.",
+    "tips": [
+      "Short, punchy single words or acronyms suit this heavy, battle-scarred aesthetic best.",
+      "Try shifting the inner crack glow from molten orange-red to an acid green or electric blue to evoke different post-disaster themes."
+    ],
+    "test_text": "WARZONE",
+    "source_hash": "ef79318993e286fc",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "preppy_christmas": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words {{TEXT}} appear in a refined, deep navy blue finish, prominently placed across a clean, smooth cream cardstock panel. The central panel is framed by crisp, tailored holiday patterns including classic red and hunter green tartan plaid, neat gingham, and fine candy stripes. Neatly tied velvet or grosgrain ribbon bows in deep navy and red adorn the borders, casting soft, crisp drop shadows against the paper. Elegant accents of metallic gold foil highlight the delicate inner border trim. The entire design has the feel of an upscale holiday stationery flat lay, captured under bright, clean, and even lighting that reveals the woven textures of the fabrics and the matte surface of the card. {{TEXT}} must be the only legible text present in the entire composition.",
+    "tips": [
+      "Short holiday greetings, family names, or classic single words like 'JOY' or 'CHEER' look best within the structured frame.",
+      "Introduce soft pink accents to the ribbon or stripes to shift the mood toward a brighter, more playful preppy look."
+    ],
+    "test_text": "MERRY",
+    "source_hash": "62b6620ec7899b07",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "psychedelic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text sits large and dominant in the center of the frame, rendered in glossy candy-gloss with a soft wet melting quality, drips sliding from its lower edges, and surfaces filled with vibrating rainbow color. The composition captures the aesthetic of a 1960s psychedelic concert poster under flat, even, high-key illumination that hums like a backlit print. Maximum-saturation complementary color pairs clash edge to edge—hot magenta against acid green, electric orange against cobalt blue, and cadmium yellow against violet—creating a buzzing simultaneous-contrast vibration along every flat, hard-edged, screenprint-clean boundary. Radiating outward from behind the letters to every edge is a symmetrical, hypnotic, kaleidoscopic field of concentric rainbow waves, spirals, and op-art ripples. Groovy flower-power daisies and paisley accents drift in the corners, completing an immersive visual field where {{TEXT}} is the only legible text.",
+    "tips": [
+      "Short, punchy single words or brief phrases work best, giving the heavy melting drips and radiating background waves ample space to breathe.",
+      "Swap the corner daisies and paisley accents for geometric op-art checkerboards to give the piece a sharper, more optical-art direction."
+    ],
+    "test_text": "PSYCH",
+    "source_hash": "67c9c1abd19ba2cd",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "racing": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters display an aggressive forward-lean italic attitude with an exaggerated tilt and heavy aerodynamic visual weight, where thick strokes command gravity amid tight, compressed negative space. Fine horizontal speed lines in pure white trail behind each stroke edge, fading and dissolving rightward into the background to evoke high velocity. The letter surfaces showcase a bold racing livery palette of fierce reds, championship gold, and deep carbon-black shadows. A hard, cold-white overhead spotlight casts a crisp specular axis along the top plane of each stroke, throwing deep shadows underneath in the direction of motion. Dark grey race track asphalt fills the lower quarter of the frame with a faint painted white line, set against the full darkness of a night circuit pit lane atmosphere with atmospheric motion-haze scatter and a subtle lens flare from a distant track light at the upper right. Wide 16:9 composition.",
+    "tips": [
+      "Short, punchy action words or velocity-themed terms pair most naturally with the extreme forward tilt and horizontal speed streaks.",
+      "Swap the red and gold livery colors for electric blues or high-visibility yellows to evoke different competitive team aesthetics."
+    ],
+    "test_text": "SPEED",
+    "source_hash": "d1051a9e14d97454",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "rainbow": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. Clean, bold letters form {{TEXT}}, which is the only legible text in the image. Each individual letter contains a complete top-to-bottom ROYGBIV rainbow gradient entirely within itself: vibrant red at the top, orange in the upper section, yellow-green in the middle, blue-indigo across the lower portion, and deep violet at the bottom. The colors are rendered at full chroma Pride-flag saturation, vivid and unmuted, ensuring every letter independently showcases its own complete vertical spectrum rather than spreading across the entire word. Strong directional sunlight strikes the letters from the upper-right, producing sharp specular highlights across their smooth surfaces. The background depicts a vibrant outdoor festival scene beneath a deep sky gradient shifting from warm amber-orange at the horizon to rich cobalt blue overhead. Soft bokeh orbs of floating festival lights in pink, yellow, cyan, and violet drift through the mid-air, complemented by a faint scatter of colorful confetti drifting below the letters.",
+    "tips": [
+      "Short, uplifting words or celebratory greetings work best to allow each letter's full vertical rainbow gradient to remain clear and readable.",
+      "To shift the mood, try altering the time of day in the festival scene, such as twilight or night, to make the bokeh orbs and specular highlights pop even more."
+    ],
+    "test_text": "COLOR",
+    "source_hash": "72666c1fcc848de5",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "retro_pop": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is bold, dominant, and set at a slightly tilted, playful angle in the style of a cheerful mid-century retro pop poster. The characters feature thick black keyline outlines enclosing flat, vibrant candy-color fills, overlaid with a distinct Ben-Day halftone dot texture and accompanied by a crisp comic-book drop shadow. A dynamic starburst and atomic-orbit motif radiates directly behind {{TEXT}}, framed by playful boomerang accents on a warm cream ground. The color scheme is saturated, flat, and vivid, drawing from a cheerful candy palette of cherry red, sunshine yellow, turquoise, mint, hot orange, and rich cream, without any muddy tones. Ensure {{TEXT}} remains the sole legible lettering in the entire scene, standing out with high-energy diner and jukebox Americana pop aesthetic.",
+    "tips": [
+      "Short, punchy words, comic exclamations, or vintage diner food names look best with this high-energy graphic treatment.",
+      "Swap the warm cream background for mint green or bright turquoise to give the entire piece a cooler vintage tone."
+    ],
+    "test_text": "RETRO!",
+    "source_hash": "5d5afe13812a2f52",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "romantic_her": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of \"{{TEXT}}\" appear in graceful, flowing script with a delicate rose-gold metallic finish, carrying a soft satin sheen and subtle shimmer highlights that catch the light gently without looking heavy or harsh. The text rests amidst a soft, romantic setting framed by scattered blush rose petals and gentle peony and ranunculus blooms. The surrounding environment glows with a dreamy, warm bokeh glow and delicate specks of fine sparkle, evoking the tender sentiment of an intimate love letter. The palette is soft, warm, and distinctly feminine, composed of blush pink, rose, gentle coral, warm champagne, and creamy ivory accents balanced with the gleaming rose-gold of the lettering. Soft, diffused lighting illuminates the scene, casting gentle shadows and highlighting the tender textures of the flower petals and the quiet brilliance of the metallic surface.",
+    "tips": [
+      "Short sentimental phrases, romantic expressions, or names suit this gentle and floral composition best.",
+      "To adjust the seasonal mood, alter the surrounding flora from roses and peonies to blossoms or delicate white petals while keeping the warm champagne and rose-gold palette intact."
+    ],
+    "test_text": "FOR YOU",
+    "source_hash": "47d5b927b0c64922",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "romantic_him": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is crafted in antique brass and muted gold with a dimensional, engraved surface relief, evoking an heirloom plaque or prestige seal. A single warm amber key light strikes from the upper-right at a forty-degree angle, raking low across the raised letterforms to catch every edge in sharp definition while casting long directional shadows toward the lower-left. A cool blue-grey ambient fill from the upper-left provides subtle dimensional depth and balances the shadows. The letters are mounted against a dark aged walnut wood panel background featuring fine horizontal grain, framed subtly by small antique brass corner hardware. The surrounding atmosphere is steeped in deep warm darkness with tones of cognac amber, deep burgundy, and aged charcoal, leaving the warm glowing metallic letters as the sole focus.",
+    "tips": [
+      "Short titles, surnames, monograms, or single prestige words like 'RESERVE' or 'ESTATE' work best with this aesthetic.",
+      "To vary the mood, try replacing the dark walnut wood background with aged dark slate or deep forest green velvet."
+    ],
+    "test_text": "FOR HIM",
+    "source_hash": "fe36207cd9d01d42",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "sand_stone": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters appear as deep, irreversible physical carvings in an ancient desert stone face. Chiseled in sharp V-cut bas-relief grooves, the freshly cut interior sections expose pale cream-beige rock that contrasts boldly with the weathered, amber-ochre and warm sienna exterior. Horizontal sedimentary grain lines, mineral oxidation staining, and fine micro-pitting from wind erosion run across the letters, with specks of loose quartz sand settled into their bases. A low-angle raking sidelight from the lower-left at a shallow twenty-degree angle sweeps across the rock, casting deep amber-brown shadow pools into the carved grooves and accentuating every textural ridge, patina unevenness, and incised edge. The scene is set against a dark desert earth ground under a warm golden-hour haze with fine airborne dust. The entire composition strictly adheres to a warm geological palette of cream, terracotta red, and burnt umber without cool tones or modern polished surfaces, making {{TEXT}} the sole legible text in the image.",
+    "tips": [
+      "Short, punchy words, monumental titles, or ancient place names look especially natural carved into heavy geological stone.",
+      "To shift the variant, swap the carved stone description for incised petroglyph scratches revealing pale rock through a dark desert varnish, or painted red-ochre on sun-baked adobe plaster."
+    ],
+    "test_text": "ANCIENT",
+    "source_hash": "cd20ce3f9f5a93f6",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "spooky_halloween": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters appear in pumpkin orange and moon white, positioned prominently within a calm open area of deep indigo-purple night sky. They are illuminated by cool moonlight from above and catch a warm pumpkin glow from below. The backdrop is a classic outdoor Halloween night composed of clean flat illustrated shapes with a fine paper grain texture. High in the sky hangs a massive luminous full moon crossed by silhouettes of flying bats. Below the text rests a spooky landscape featuring dark silhouettes of a haunted house with glowing warm windows, bare twisted trees, a crooked graveyard fence, and ancient gravestones shrouded in soft drifting mist. A row of carved jack-o-lanterns sits along the ground, casting vibrant pumpkin-orange candle glow upwards, complemented by subtle accents of slime green. The moonlight provides a cool rim light along the dark silhouettes, ensuring {{TEXT}} remains the striking focal point against the nocturnal scene.",
+    "tips": [
+      "Short seasonal words, exclamations, or party titles such as 'SPOOKY', 'BOO', or 'TRICK OR TREAT' fit naturally in the central sky area.",
+      "You can alter the mood slightly by shifting the slime green accent toward a cold ghostly white or by increasing the amount of drifting mist among the gravestones."
+    ],
+    "test_text": "SPOOKY",
+    "source_hash": "878e8ac0d1552ca6",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "sports": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character, positioned centrally in the frame. The letterforms display a tactile screen-printing ink texture with fine halftone grain across the ink surfaces and a subtle edge bleed along the borders, combined with polished chrome metallic facets. A strong side rim light shines from the upper-left, casting a sharp, bright outline across the letter contours with deep contrast shadows on the opposite side, while crisp lens flares glint off the metallic edges. Powerful stadium floodlights cut down through arena darkness, illuminating a faint atmospheric particle haze suspended in the floodlit air. Subtle kinetic speed lines radiate outward from behind {{TEXT}}, conveying intense forward momentum. The entire scene is anchored against a deep broadcast-black background, with a soft athletic field turf texture fading into the dark base of the composition.",
+    "tips": [
+      "Short, punchy words in all-caps work best with the bold stadium lighting and dynamic speed lines.",
+      "Adjust the angle or intensity of the floodlights to shift between a gritty arena match atmosphere and a clean studio broadcast appearance."
+    ],
+    "test_text": "CHAMPION",
+    "source_hash": "b094d2ca069e08f7",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "sports_football": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are positioned center frame as the dominant focal point, rendered in bold floodlit white-gold and vibrant championship team-color accents with warm golden reflections. The scene captures the electric spectacle of a grand championship night match inside an eighty-thousand-capacity football stadium packed to the rafters. Powerful four-corner floodlights blaze at full intensity through the night air, casting dramatic white-gold light beams and hazy flares across the arena. Below the text, the illuminated jade-green pitch glows vividly under the lights. The surrounding grandstands are filled with a roaring crowd whose cheering figures, scarves, and waving flags dissolve into a vibrant, high-contrast stadium bokeh. Dense golden celebratory confetti and glistening airborne particles cascade from above through the floodlit atmosphere. The visual tone is saturated, punchy, and dynamic, evoking peak matchday intensity under the stadium lights, with {{TEXT}} standing out cleanly as the sole legible typography amidst the celebration.",
+    "tips": [
+      "Short, punchy words such as victory anthems, team monikers, or sports verbs feel most natural in this high-energy broadcast setting.",
+      "Adjust the accent lighting and letter hues to specific color pairings, like royal blue or deep crimson, to evoke different club identities."
+    ],
+    "test_text": "STRIKER",
+    "source_hash": "ad0997c88a9c7e4c",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "spring_holiday": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are styled in a soft, rounded form, wrapped and entwined with fresh spring botanicals. Delicate cherry blossoms, tulips, daisies, and tender green leaves grow naturally around and through the letterforms, evoking a soft watercolor-and-petal delicacy. The composition is bathed in gentle morning sunlight with warm golden rays cutting through a light, airy garden atmosphere, while loose petals drift softly around the letters. A sweet pastel color palette defines the scene, featuring shades of blush pink, mint green, butter yellow, lavender, and sky blue against a clean, creamy backdrop. The overall mood is fresh, cheerful, and full of blooming optimism, keeping {{TEXT}} as the singular, clear, and vibrant centerpiece without any dark or heavy elements.",
+    "tips": [
+      "Short, cheerful words and nature-inspired phrases best complement the airy, botanical wrapping.",
+      "Swap or highlight specific spring flowers, such as lilacs or daffodils, to subtly shift the overall garden character."
+    ],
+    "test_text": "BLOOM",
+    "source_hash": "ca4038834152b49a",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "steampunk": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text {{TEXT}} is centered in the frame, filling most of the width, and serves as the sole legible subject. The letters are crafted with metallic steampunk materials featuring polished brass highlights, dark patina bronze, aged verdigris copper-green accents, and deep cast iron shadows. The scene is illuminated by dual-light thermal contrast: a warm amber vintage filament bulb from the upper-right at 45 degrees casting bright directional specular highlights with deep warm shadows at the letter bases, countered by a cool blue-grey secondary fill from the upper-left. The letters rest on a dark mahogany workbench inside a Victorian inventor's workshop, with small brass gears, calipers, coiled copper wire, and clockwork components scattered in soft focus around the base. Soft steam vents from distant pipe joints into the warm amber haze, with a receding brick wall and hanging filament bulbs blurred in the background. The camera views the scene from a slight low angle, keeping the letters sharp while foreground props and background elements softly blur.",
+    "tips": [
+      "Words related to machinery, exploration, invention, or industrial themes feel most natural in this aesthetic.",
+      "To adjust the mood, alter the balance between the warm filament amber light and the cool blue fill light to make the scene feel either cozier or more industrial."
+    ],
+    "test_text": "STEAM",
+    "source_hash": "fe2ba450bd4c1443",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "stencil": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is applied in a stencil spray application aesthetic, rendered in matte black spray paint onto an aged, rough concrete grey wall. Paint deposited through a physical cut template forms the letters, featuring crisp inner boundaries contrasted with subtle, soft outer halos where overspray has bled beyond the masking edges. Stroke centers have the highest pigment density, thinning out toward the peripheries, with a few occasional drip runs descending from areas of heavy paint buildup. The rugged texture and aggregate of the concrete substrate show visibly through the thinner coverage of the matte paint. Harsh directional light strikes from directly above at a low raking angle, casting deep micro-shadows across the pitted surface imperfections of the concrete and accentuating the binary, industrial contrast. The text {{TEXT}} is large and centered, dominating the frame as the sole legible wording, with the weathered industrial concrete surface extending continuously to all edges.",
+    "tips": [
+      "Short, punchy words, warnings, or utilitarian codes work best to match the functional industrial aesthetic.",
+      "To create a different setting, swap the concrete wall and black paint for warning red spray paint on industrial steel or military olive on weathered wood crates."
+    ],
+    "test_text": "CARGO",
+    "source_hash": "bf8de145a031a272",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "superhero": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters dominate the frame in a dynamic low-angle heroic view, powering forward toward the viewer with bold, dimensional presence. Each letter is finished in a vibrant comic-inspired palette of bold red, deep blue, and gleaming chrome metallic with radiant gold highlights. An explosive burst of energy erupts directly behind {{TEXT}}, sending sharp comic-book speed lines radiating outward across a charged, dramatic sky filled with flying sparks, streaks of light, and kinetic debris. Rich atmospheric haze and saturated beams in red, blue, and gold illuminate the dark backdrop. A single strong directional key light produces crisp specular reflections and intense contrast across the glossy surfaces, ensuring the composition feels frozen mid-action with high saturation and maximum kinetic power.",
+    "tips": [
+      "Short, punchy words or action titles work best with this style to emphasize the dramatic low-angle perspective and explosive backdrop.",
+      "You can swap the red, blue, and gold lighting palette for emerald green, violet, or dark crimson to evoke different energy powers."
+    ],
+    "test_text": "HERO",
+    "source_hash": "ae529a402f50f907",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "synthwave": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are sculpted in glossy, highly reflective chrome, displaying a sharp horizontal specular streak across their face. They reflect an impossible neon sunset gradient across their surfaces: cool cyan-teal along the top, hot magenta-pink through the middle, and warm orange-red near the base. A vibrant double-color rim glow in electric cyan and magenta outlines every letter with a soft bloom. The text sits large and dominant in the upper-center of the frame against a deep violet-to-indigo night sky scattered with faint stars. Below, an electric neon perspective grid sweeps across the floor toward a vanishing point on the glowing horizon, framed by a striped retro sun sitting low alongside distant wireframe mountain ridges and silhouetted palm trees. Rich deep blacks contrast with hyper-saturated neon lighting, unified by a subtle analog texture with faint horizontal scanlines, gentle chromatic aberration at high-contrast edges, and light VHS grain, with {{TEXT}} as the only legible text.",
+    "tips": [
+      "Short, punchy words in all-caps suit this aesthetic best, giving the chrome reflections and glowing outlines maximum surface area.",
+      "To vary the atmosphere, emphasize either the wireframe mountain landscape for a digital look or silhouetted palm trees for a coastal evening feel."
+    ],
+    "test_text": "SYNTH",
+    "source_hash": "6c06325cb51e7258",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "tattoo": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letterforms appear as authentic fresh tattoo ink applied directly onto skin, centered in a close-up composition on an inner forearm. The ink is a rich, saturated, velvety matte deep black with a subtle blue-black undertone characteristic of needle-applied work. Each stroke exhibits an organic hand-applied quality, featuring crisp edges with minimal feathering, slight ink spread at junctions, and saturation that is heaviest at stroke centers with natural density variations. Subtle, precise imperfections reflect intentional needlework rather than mechanical perfection. The skin has a realistic medium tone, with fine pore texture showing through the ink and a very slight raise along the stroke edges. Diffused studio lighting from above-left casts soft shadows that reveal the delicate skin texture around the ink. The background is a soft, blurred neutral studio environment, framing the shot in a documentary tattoo photography style with focus strictly held on the tattooed lettering.",
+    "tips": [
+      "Short, punchy words, names, or single-word mantras work best to maintain the authentic look of a forearm tattoo.",
+      "To vary the atmosphere, you can change the placement location on the body or specify healed, softened ink rather than fresh needlework."
+    ],
+    "test_text": "Forever",
+    "source_hash": "861655ede7c1b945",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "teachers_day": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is rendered in a rich, warm hand-lettered ink or marker finish using a deep tone for strong, clear contrast. Positioned in the open middle of the composition with generous breathing room, {{TEXT}} forms the primary focal point of the scene. The palette is generously saturated and warm, featuring cheerful touches of sunny yellow, blush pink, sky blue, apple red, and leaf green set against a warm apricot surface and a pale oat-cream background catching soft natural window light. Complementary desk objects flank the text and sit behind it, resting on the surface with natural soft contact shadows rather than flat graphics. A shallow depth of field keeps the foreground and lettering crisply defined while gently softening the edges of the background arrangement. The words {{TEXT}} must remain the sole readable text in the image.",
+    "tips": [
+      "Short celebratory phrases, subject names, or teacher greetings work best to keep the hand-lettered marker finish bold and readable.",
+      "Shift the primary surface wash between sunny yellow, warm apricot, or blush pink to easily change the mood of the palette."
+    ],
+    "test_text": "Thank You",
+    "source_hash": "712c44e28515db7b",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "typewriter": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. Present {{TEXT}} in monospaced mechanical typewriter letterforms featuring authentic key-strike impressions. The ink application displays realistic uneven distribution across the letters, with certain strokes darker and others lighter, and thicker ink pooling at the stroke terminals. A distinct woven ribbon texture is visible throughout the letterforms, complemented by slightly irregular baseline alignments and natural letter spacing imperfections. Rendered in a warm sepia-tinted black ink, each character presses subtly into an aged cream bond paper surface that showcases a delicate fiber texture and fine paper grain. Soft directional side lighting casts gentle, subtle micro-shadows from the stamped letterforms onto the textured paper beneath them. The composition is completely minimalist and clean, containing no props, extra graphics, or decorative elements, keeping {{TEXT}} as the sole legible focus on the warm paper background.",
+    "tips": [
+      "Short poetic phrases, single words, or manuscript-style excerpts suit this mechanical printing aesthetic best.",
+      "Try shifting the ink color description to a dual-color red and black ribbon style to create a classic editorial revision look."
+    ],
+    "test_text": "DISPATCH",
+    "source_hash": "3012e8c7c6216be6",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "vaporwave": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text sits large and dominant in the center, rendered in a soft pink-to-cyan vaporwave gradient with a gentle luminous bloom and faint drifting scanlines across its surface. Make {{TEXT}} the only legible text in the entire image. The lettering is placed within a nostalgic 1990s dreamscape illuminated by the soft glow of an early CRT screen. An early-3D perspective checkerboard grid recedes toward a gentle pastel horizon beneath a serene sunset sky. A classical marble bust rests quietly to one side, complemented by dark palm silhouettes along the edges. The entire composition is bathed in a dreamy, low-saturation pastel palette of cotton-candy pink, soft cyan-teal, and lilac-purple. A subtle analog VHS texture blankets the scene, complete with horizontal scanlines, delicate tracking lines, hazy diffusion, and magenta-cyan chromatic aberration edge bleed, evoking a calm, atmospheric retro aesthetic.",
+    "tips": [
+      "Short, evocative words like 'DREAM', 'NOSTALGIA', or 'HORIZON' in uppercase complement the retro digital atmosphere especially well.",
+      "To shift the mood from peaceful pastel to late-night broadcast, emphasize heavy VHS tracking lines and stronger chromatic aberration."
+    ],
+    "test_text": "WAVE",
+    "source_hash": "386976d8686d0444",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "viking": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is forged with an ancient Norse warrior aesthetic, featuring stark angular geometry and immense physical mass. Each letter is sculpted from battle-worn dark iron, showing a cold charcoal-grey body textured with visible forge-hammer marks, subtle aged bronze undertones, and hairline stress fractures along the diagonal strokes. Directional forge-light and cold torch-light sculpt the letterforms into pronounced high relief, catching narrow cold specular highlights across the upper edges and casting deep iron shadows beneath. Warm flickering highlights from nearby torch fire play against the cold granite and iron surfaces, creating rich contrast with dark amber accents. The letters stand as heavy, immovable monuments against an ancient Scandinavian landscape under a dramatic overcast sky filled with a cold blue-gray atmosphere, with no other text present.",
+    "tips": [
+      "Short, forceful words or titles emphasizing strength, myth, or warfare harmonize best with this heavy iron aesthetic.",
+      "Adjust the lighting balance between the cold blue ambient sky and the warm amber torch glow to shift the mood from bleak winter to a fiery forge."
+    ],
+    "test_text": "ODIN",
+    "source_hash": "93d36d37faa02a29",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "viking_runic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are styled with Elder Futhark runic aesthetics, constructed entirely from straight segments at horizontal, vertical, and 45-degree diagonal angles, featuring no curves anywhere. This angular geometry mimics the look of carving into hard stone with a straight blade, showing tall, narrow proportions, a strong vertical emphasis, and sharp pointed terminals where individual strokes meet. Each stroke presents a flat, angular face, with alternating illuminated and shadowed facets across the word that produce the distinct highlight pattern of hand-carved masonry. The lettering is set upon a flat, dark slate surface and illuminated by cold directional light cast from the upper left, throwing clean, sharp shadows into the cuts and across the stone. The composition is minimal, framed against a pure black background to emphasize the stark, powerfully ancient geometry.",
+    "tips": [
+      "Short words or names with naturally angular consonants render best, as dense rounded text can become difficult to read under strictly straight-stroke rules.",
+      "Try swapping the cold light for warm amber torchlight to give the slate a subterranean cavern atmosphere."
+    ],
+    "test_text": "ODIN",
+    "source_hash": "040a46c6042d63d7",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "vintage": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters appear as a classic letterpress impression bitten deeply into textured, aged cream cotton paper, with warm faded ink that is slightly broken up along the edges. The piece carries the tactile physical evidence of heritage craftsmanship softened by time, featuring subtle foxing, paper grain, and gentle wear. The scene is illuminated by soft amber light in a warm nostalgic setting, highlighting the tactile relief of the debossed print. The color palette consists of time-softened vintage tones such as warm sepia, faded navy, muted tan, and gentle cream, entirely free of synthetic or neon brightness. {{TEXT}} rests bold and timeless at the center of the composition, serving as the sole legible text in the image, evoking an authentic antique archival atmosphere with soft dust motes and a quiet, historical patina.",
+    "tips": [
+      "Short titles, classic trade occupations, or single heritage words pair naturally with the letterpress aesthetic.",
+      "Describe the background as weathered dark wood or chipped enamel metal instead of cream paper to transform the look into an old mercantile sign."
+    ],
+    "test_text": "FOREVER",
+    "source_hash": "aef30c434e967f81",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "vintage_christmas": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text \"{{TEXT}}\" is integrated into the scene of a vintage holiday card, displayed neatly across a decorative banner or open teal sky band as the central title. The letterforms are treated with a limited, faded retro palette of cherry red, mustard, and pine green on aged cream card stock. Surrounding the greeting is an illustrated winter landscape composed of flat painted shapes with simple outlines and printed-looking edges: charming little red houses on snowy hills, stylised pine trees, atomic stars, and holly sprigs. The lighting is completely flat and printed, featuring painted-in highlights rather than photographic shading. The surface displays tactile print textures, including fine paper grain, slight misregistration of the ink layers, subtle sparkles of glitter on the snow, and softly worn corners, evoking a preserved mid-century printed keepsake. Make {{TEXT}} the only legible text in the entire image.",
+    "tips": [
+      "Short seasonal greetings or single festive words fit most naturally across the central banner.",
+      "Describe ornate gilt borders, bells, and sepia tones instead of atomic stars to evoke Victorian ephemera rather than mid-century print."
+    ],
+    "test_text": "NOEL",
+    "source_hash": "b103d301797744c3",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "vintage_halloween": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The words {{TEXT}} are displayed prominently across an arched ribbon banner in the style of a 1930s to 1950s vintage Halloween paper postcard or party decoration, serving as the sole legible writing in the composition. The letterforms are rendered as flat printed shapes in pumpkin orange and dark black with simple outlines against an aged cream card background. Surrounding {{TEXT}} are classic paper decoration motifs including grinning jack-o'-lanterns, an arched black cat, a smiling crescent-moon face, flying bats, owls perched on branches, and scattered autumn leaves. The illumination is flat printed graphic light, featuring shading achieved purely through flat color shapes and coarse halftone dot patterns. The palette relies on a limited vintage scheme of pumpkin orange, deep black, and warm cream, accented sparingly with aged olive green and old faded red, without any neon hues. The scene carries the authentic texture of weathered, yellowed card with slightly misregistered color print plates, soft creases, and gently worn edges.",
+    "tips": [
+      "Short seasonal exclamations, greetings, or spooky single words fit the mid-century paper ephemera style best.",
+      "You can swap the ribbon banner for a scalloped die-cut frame to shift the composition from a postcard look to a hanging party decoration."
+    ],
+    "test_text": "BOO",
+    "source_hash": "40d3be45e24db409",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "watercolor": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} are painted as luminous, transparent wet-on-wet watercolor washes directly onto bright cold-press watercolor paper. The pigment disperses unevenly across each character, pooling darker along the outer edges while centers stay pale, with soft cauliflower blooms where wet paint meets wet and crisp hard edges where paint dried on dry paper. Granulating pigment settles into the textured paper tooth, revealing tiny flecks of bare paper that act as the lightest values in the composition. The lettering is rendered in a fine-art aquarelle palette featuring layered washes of sap and olive green, rose madder, blush, cobalt, cerulean blue, indigo, and raw sienna, remaining completely transparent and luminous without opacity. The text sits large and centered with generous negative space across the paper sheet, bordered by faint deckled torn edges and grounded by a gentle, cool shadow under soft, even north-light, accompanied only by a few loose botanical sprigs and subtle drifting pigment specks.",
+    "tips": [
+      "Short, evocative nature words, names, or poetic terms harmonize best with the delicate, organic watercolor bleed.",
+      "To shift the mood, narrow the color palette to specific combinations like deep indigo and raw sienna or soft rose madder and olive green."
+    ],
+    "test_text": "Hello Spring",
+    "source_hash": "cd3f4f8c09224ac9",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "watercolor_christmas": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} are hand-painted in muted winter tones of slate blue, pine green, and warm brick red, resting prominently against generous, clean white cold-press watercolor paper. The surface features visible cold-press paper grain, soft pigment blooms, and natural granulation. Below the text, a loose wet-on-wet watercolor winter landscape forms a gentle vignette across the lower portion of the composition. This scene depicts a charming row of little Christmas village houses with warm golden light glowing from their windows, nestled among snowy pine trees, soft rolling hills, and a small stone bridge. The brushwork is delicate and ink-free with soft bleeding edges that fade out naturally into the white paper margins. Tiny specks of white gouache dot the air as drifting snow, illuminated by soft, cold winter daylight that contrasts with the cosy golden glow from the cottage windows. The text {{TEXT}} is the only legible text in the entire image.",
+    "tips": [
+      "Short festive words, holiday greetings, or family names look best suited to this stationery card layout.",
+      "To shift the atmosphere from a cosy village to a quiet winter wilderness, swap the houses and glowing windows for snow-laden pines and a frozen stream."
+    ],
+    "test_text": "JOY",
+    "source_hash": "41a9566a302927a7",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "wedding": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text sits centered with generous, airy spacing on a luxurious sheet of warm ivory cotton paper featuring a soft deckled edge. The lettering is rendered in rich, warm antique gold-leaf foil with metallic gold ink, showing a bright specular highlight along one edge and a darker metallic shadow along the other to establish tangible depth. Crisp, subtle letterpress indentation presses the characters gently into the paper, creating soft debossed shadows around the gilded strokes. Gentle, directional daylight rakes across the textured surface, illuminating the metallic sheen while preserving the quiet, refined atmosphere. Delicate botanical accents—sparing sprigs of eucalyptus and soft blush roses—subtly frame one corner without crowding the text. The composition maintains generous negative space, harmonizing ivory, champagne, and antique gold with muted eucalyptus greens for an elegant, calm stationery aesthetic.",
+    "tips": [
+      "Short phrases, couples' names, or single celebratory words best complement the refined, spacious layout.",
+      "Swap the eucalyptus and blush rose botanicals for olive leaves, winter pine, or white peonies to easily shift the seasonal mood."
+    ],
+    "test_text": "FOREVER",
+    "source_hash": "d43fd0fd16b220a7",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "western": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters of {{TEXT}} are styled in bold western slab forms, deeply carved and hand-painted onto a sun-bleached, weathered timber plank. Visible wood grain, rough chisel marks, and chipped, faded barn-red and sun-bleached cream paint give the lettering an authentic aged surface. The rustic wooden board is set against a dusty 19th-century frontier saloon porch bathed in warm desert golden-hour light, with soft dust motes suspended in the air. A softly blurred background features ranch timber, a weathered horseshoe, and a coiled length of rough rope, emphasizing a rugged Wild West frontier mood. The color palette relies strictly on dusty, warm earth tones, including weathered ochre, leather brown, sandy tan, and charcoal wear, remaining completely matte, tactile, and free of any gloss or modern elements. Ensure {{TEXT}} is the only legible text in the entire image.",
+    "tips": [
+      "Short, punchy words or single nouns in all-caps best complement the heavy carved slab style.",
+      "Change the background plank to branded saddle leather or letterpressed aged kraft paper to alter the frontier artifact feel."
+    ],
+    "test_text": "WESTERN",
+    "source_hash": "ec7f6487d1217913",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "y2k": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The lettering is rendered with soft inflated bubble volume and glossy liquid chrome surfaces, showing smooth pillowy contours and electroplated silver shine. Prismatic color shifts sweep across the mirrored faces, blending iridescent holographic foil reflections of bubblegum pink, electric lavender, and vivid cyan against bright silver highlights. The letters command the composition within a playful millennium-party atmosphere, set against a frosted gradient backdrop illuminated by a soft studio glow. Subtle iridescent star stickers and prismatic sparkles shimmer gently around the glossy letters, enhancing the futuristic early-2000s aesthetic. The entire scene is vibrant, high-saturation candy gloss with no muted or aged tones, ensuring {{TEXT}} remains the only legible text in the image.",
+    "tips": [
+      "Short, punchy words or early-2000s cyber slang fit the bubbly, futuristic aesthetic especially well.",
+      "Adjust the color balance toward cyan and silver for a more futuristic techno look, or push more bubblegum pink and lavender for a playful candy feel."
+    ],
+    "test_text": "Y2K",
+    "source_hash": "e3cddf15c02bad2c",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "y2k_bubbly": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The text appears as extremely round, pillow-soft bubbly letters, completely inflated like over-pressurized balloons with maximum bubbly inflation. The letters feature an ultra-smooth, glossy candy surface washed in a seamless pastel pink-to-lavender gradient. A strong, bright white specular highlight curves across the top of each inflated letter, giving the forms a soft, tactile, high-shine appearance. Set against a dreamy pastel backdrop in soft cotton candy pink fading to lavender, the scene is illuminated with warm, diffused soft-box lighting. Tiny star confetti is delicately scattered around the floating letters, completing a sweet early-2000s party aesthetic. Ensure {{TEXT}} remains the only legible text in the entire image.",
+    "tips": [
+      "Short, playful words, pet names, or abbreviations look best with this intensely puffed, bubbly treatment.",
+      "You can easily shift the palette by swapping the pink-to-lavender gradient for pastel mint, peach, or baby blue while retaining the glossy top specular highlights."
+    ],
+    "test_text": "BUBBLY",
+    "source_hash": "3e1a48158d2c164a",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "y2k_chrome": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters have a hyper-reflective, mirror-polished chrome surface with zero surface roughness, capturing an extreme specular quality reminiscent of electroplated metallic styling. Vivid prismatic color-map distortions warp across the convex mirror surfaces, displaying high-saturation color zones of vivid magenta, deep cobalt blue, acid green, and molten orange. Razor-sharp boundaries separate each hue band, bordered by prismatic spectral splitting that produces ultra-thin rainbow fringes. Dominant white specular flares gleam intensely at peak convex points across the characters. The scene is set against a soft silver-white studio gradient background, illuminated by diffused multi-color ambient light arriving from multiple directions: warm pink from the left, electric blue from the right, and subtle mint from beneath. These colored glows flood the chrome surface with brilliant chromatic reflections, anchored by a single key light from above that forms a dominant pool of white highlight, creating a crisp and luminous millennium aesthetic.",
+    "tips": [
+      "Short, punchy words or acronyms work best to allow the convex curves and prismatic reflections plenty of space to distort naturally.",
+      "Try altering the ambient lighting hues, such as switching to violet and lime, to dramatically change the color spectrum reflecting in the metal."
+    ],
+    "test_text": "CHROME",
+    "source_hash": "f83b5c9922016f37",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "y2k_holographic": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are crafted from a vivid iridescent holographic foil with a striking shimmer, shifting seamlessly across a saturated millennium color palette of hot pink, electric purple, and vibrant cyan blue. Small, crisp starburst sparkles accent the contours and edges of the characters, catching brilliant points of light reminiscent of an early 2000s party poster aesthetic. The metallic foil material gleams with glossy, multi-tonal reflections across every curve. Surrounding the text is a dark holographic backdrop punctuated by scattered light prism effects and subtle, faint rainbow light streaks that fan outward toward the borders of the frame. The composition emphasizes high-contrast reflective sheen and vibrant iridescence, ensuring that {{TEXT}} stands out as the single, unmistakably legible element in the scene.",
+    "tips": [
+      "Short, punchy words, acronyms, or club-themed phrases fit the high-energy millennium party aesthetic especially well.",
+      "Adjust the background darkness or brightness of the rainbow light streaks to vary between a subtle glow and an intense concert-poster mood."
+    ],
+    "test_text": "HOLO",
+    "source_hash": "026684ab321f990e",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  },
+  "y2k_liquid": {
+    "prompt": "Render the text \"{{TEXT}}\" exactly as written, character by character. The letters are sculpted from mirror-polished liquid chrome, caught mid-pour and frozen in time with visible viscous flow lines and mercury-like surface tension. Fluid chrome drips extend downwards from the base of each letter, tapering into fine suspended points that appear stretched by gravity. The material features a cool silver base reflecting shimmering, shifting bands of pink, ice-blue, and lavender iridescence across its smoothly curved metallic surfaces. The scene features a clean, minimal two-point colored environment lighting setup, casting warm pale pink light from the left and cool ice-blue illumination from the right. These soft pastel tones split across the chrome drip tips and rounded liquid contours. The composition is set against a smooth, soft silver-white gradient background mist, completely free of harsh black shadows to preserve the delicate, shifting iridescent reflections throughout the liquid metal.",
+    "tips": [
+      "Short words or single-word titles work best, leaving enough negative space for the suspended drips and liquid tension to read cleanly.",
+      "You can vary the mood by changing the two lighting accents to other pastel pairs, such as mint green and peach, while keeping the background light."
+    ],
+    "test_text": "FLUID",
+    "source_hash": "af1a63ca2950c13c",
+    "drafted_with": "gemini-3.8-flash",
+    "problems": []
+  }
+}
